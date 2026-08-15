@@ -3,16 +3,17 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title> | Architekturbüro Dr.-Ing. Edmund Spohr</title>
+<title>Architektur mit Haltung. Seit Generationen in Düsseldorf verwurzelt. | Architekturbüro Dr.-Ing. Edmund Spohr</title>
 <style>
-  :root { --accent: #2563eb; }
+  :root { --accent: #8B7355; }
   * { box-sizing: border-box; }
-  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #1a1a1a; line-height: 1.65; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #1a1a1a; line-height: 1.65; overflow-x: hidden; }
   .hero { background: linear-gradient(135deg, rgba(15,23,42,.6), rgba(15,23,42,.8)), url('https://images.pexels.com/photos/31048784/pexels-photo-31048784.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940') center/cover no-repeat; color: #fff; padding: 110px 24px 96px; text-align: center; }
-  .hero h1 { font-size: clamp(30px, 5.5vw, 52px); margin: 0 0 18px; font-weight: 700; text-shadow: 0 2px 14px rgba(0,0,0,.35); }
-  .hero p { font-size: clamp(17px, 2.5vw, 21px); opacity: .95; max-width: 680px; margin: 0 auto 36px; }
+  .hero h1 { font-size: clamp(28px, 5.5vw, 52px); margin: 0 0 18px; font-weight: 700; text-shadow: 0 2px 14px rgba(0,0,0,.35); }
+  .hero p { font-size: clamp(16px, 2.5vw, 21px); opacity: .95; max-width: 680px; margin: 0 auto 36px; }
   .btn { display: inline-block; background: #fff; color: var(--accent); font-weight: 600; padding: 15px 34px; border-radius: 999px; text-decoration: none; }
-  .trust { color: #fff; opacity: .95; font-size: 15px; margin-top: -8px; }
+  .trust { color: #fff; opacity: .95; font-size: 15px; margin-top: 14px; }
   .stars { color: #fbbf24; letter-spacing: 2px; }
   section { max-width: 980px; margin: 0 auto; padding: 72px 24px; }
   h2 { font-size: clamp(24px, 3.2vw, 32px); margin: 0 0 32px; text-align: center; }
@@ -43,58 +44,75 @@
   .cta-final h2 { color: #fff; }
   .cta-final .btn { background: #fff; color: var(--accent); }
   footer { text-align: center; padding: 36px 24px; color: #888; font-size: 14px; }
+  .reveal { opacity: 0; transform: translateY(28px); transition: opacity .7s ease, transform .7s ease; }
+  .reveal.visible { opacity: 1; transform: none; }
+  @media (max-width: 768px) {
+    .hero { padding: 80px 20px 64px; }
+    section { padding: 48px 20px; }
+    .about-grid, .usps-grid { grid-template-columns: 1fr; gap: 28px; }
+    .about-grid img, .usps-grid img { order: -1; aspect-ratio: 16/9; }
+    .galerie-grid img { height: 180px; }
+  }
 </style>
 </head>
 <body>
 <div class="hero">
-  <h1></h1>
-  <p></p>
-  <a class="btn" href="#kontakt">Jetzt Kontakt aufnehmen</a>
+  <h1>Architektur mit Haltung. Seit Generationen in Düsseldorf verwurzelt.</h1>
+  <p>Dr.-Ing. Edmund Spohr plant Wohn- und Geschäftshäuser, die Bestand haben – technisch durchdacht, gestalterisch klar, menschlich gedacht.</p>
+  <a class="btn" href="#kontakt">Vereinbaren Sie ein unverbindliches Erstgespräch für Ihr Bauvorhaben in Düsseldorf.</a>
   <div class="trust"><span class="stars">★★★★★</span> 4.7 · 7 Google-Bewertungen</div>
 </div>
 
-<section>
+<section class="reveal">
   <h2>Über uns</h2>
   <div class="about-grid">
     <img src="https://images.pexels.com/photos/19136569/pexels-photo-19136569.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr">
-    <div class="about"></div>
+    <div class="about"><p>Architektur entsteht nicht am Reißbrett allein, sondern im Gespräch – zwischen Bauherr, Ort und Zeit. Das Büro Dr.-Ing. Edmund Spohr steht seit Jahrzehnten für diese Haltung in Düsseldorf und der Region. Wir verstehen Planung als handwerklichen und intellektuellen Prozess zugleich, bei dem statische Präzision und gestalterischer Anspruch keine Gegensätze sind, sondern einander bedingen.</p><p>Unsere Projekte reichen von der Sanierung denkmalgeschützter Gründerzeitvillen in Oberkassel und Pempelfort bis zum Neubau moderner Mehrfamilienhäuser in Golzheim und Unterbilk. Jedes Bauvorhaben behandeln wir als eigenständige Aufgabe – mit Respekt vor dem städtebaulichen Kontext Düsseldorfs, seinen gewachsenen Quartieren und den Erwartungen unserer Bauherren an Funktionalität, Energieeffizienz und Ästhetik.</p><p>Als promovierter Bauingenieur und Architekt verbindet Dr.-Ing. Edmund Spohr technisches Tiefenverständnis mit einem klaren Blick für Proportion und Material. Diese Kombination aus wissenschaftlicher Genauigkeit und gestalterischem Gespür macht unsere Arbeit aus. Wir begleiten Sie von der ersten Skizze bis zur Schlussabnahme – persönlich, verbindlich und mit einem Netzwerk verlässlicher Fachplaner und Handwerksbetriebe aus der Region.</p></div>
   </div>
 </section>
 
-<section>
+<section class="reveal">
   <h2>Leistungen</h2>
-  <div class="grid"></div>
+  <div class="grid"><div class="card"><h3>Neubauplanung</h3><p>Von der Grundstücksanalyse bis zur Baugenehmigung entwickeln wir Wohn- und Geschäftshäuser, die sich in Düsseldorfs unterschiedliche Stadtquartiere einfügen und dabei individuell bleiben.</p></div><div class="card"><h3>Sanierung &amp; Denkmalschutz</h3><p>Wir bringen historische Bausubstanz behutsam auf den aktuellen Stand – energetisch, statisch und gestalterisch, unter Beachtung denkmalrechtlicher Auflagen.</p></div><div class="card"><h3>Bauleitung &amp; Bauüberwachung</h3><p>Termine, Kosten und Qualität behalten wir während der gesamten Bauzeit im Blick, mit regelmäßiger Präsenz auf der Baustelle vor Ort.</p></div><div class="card"><h3>Statische Konzeption &amp; Tragwerksplanung</h3><p>Als promoviertes Ingenieurbüro entwickeln wir Tragwerkslösungen, die architektonische Freiheit und bauliche Sicherheit in Einklang bringen.</p></div><div class="card"><h3>Umbau &amp; Erweiterung</h3><p>Dachgeschossausbauten, Anbauten und Grundrissänderungen planen wir so, dass neue und bestehende Bausubstanz eine überzeugende Einheit bilden.</p></div><div class="card"><h3>Genehmigungsplanung &amp; Behördenkommunikation</h3><p>Wir übernehmen die vollständige Abstimmung mit dem Bauordnungsamt Düsseldorf und sorgen für einen reibungslosen Genehmigungsprozess.</p></div></div>
 </section>
 
-<section>
+<section class="reveal">
   <h2>So arbeiten wir</h2>
-  <div class="prozess-grid"></div>
+  <div class="prozess-grid"><div class="prozess-step"><h3>Erstgespräch vor Ort</h3><p>Wir besichtigen das Grundstück oder Gebäude in Düsseldorf, hören Ihre Vorstellungen und prüfen erste bauliche Rahmenbedingungen.</p></div><div class="prozess-step"><h3>Konzept &amp; Entwurf</h3><p>Auf Basis Ihrer Wünsche entwickeln wir Entwurfsvarianten mit Grundrissen, Ansichten und einer realistischen Kosteneinschätzung.</p></div><div class="prozess-step"><h3>Genehmigung &amp; Ausführungsplanung</h3><p>Nach Ihrer Freigabe erstellen wir die Bauantragsunterlagen und detaillierte Ausführungspläne für Handwerker und Gewerke.</p></div><div class="prozess-step"><h3>Bauausführung &amp; Übergabe</h3><p>Wir begleiten die Bauphase engmaschig, koordinieren die Gewerke und übergeben Ihnen das fertige Projekt nach sorgfältiger Abnahme.</p></div></div>
 </section>
 
-<section class="usps-section">
+<section class="usps-section reveal">
   <h2>Warum Architekturbüro Dr.-Ing. Edmund Spohr?</h2>
   <div class="usps-grid">
-    <ul class="usp-list"></ul>
+    <ul class="usp-list"><li>Über 30 Jahre Planungserfahrung mit tiefer Kenntnis der Düsseldorfer Bebauungspläne und Bauvorschriften</li><li>Promovierter Bauingenieur und Architekt in Personalunion – Gestaltung und Statik aus einer Hand</li><li>Persönliche Betreuung durch Dr.-Ing. Spohr selbst, keine anonyme Projektabwicklung</li><li>Nachweisliche Erfahrung mit denkmalgeschützter Bausubstanz in Oberkassel, Pempelfort und der Carlstadt</li><li>Eingespieltes Netzwerk lokaler Fachplaner, Statiker und Handwerksbetriebe im Raum Düsseldorf</li><li>Durchgehende Betreuung von der Idee bis zur Schlüsselübergabe ohne Schnittstellenverluste</li></ul>
     <img src="https://images.pexels.com/photos/19136564/pexels-photo-19136564.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr">
   </div>
 </section>
 
-<section>
+<section class="reveal">
   <h2>Eindrücke</h2>
   <div class="galerie-grid"><img src="https://images.pexels.com/photos/19136569/pexels-photo-19136569.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr"><img src="https://images.pexels.com/photos/19136564/pexels-photo-19136564.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr"><img src="https://images.pexels.com/photos/32010302/pexels-photo-32010302.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr"></div>
 </section>
 
-<section class="faq">
+<section class="faq reveal">
   <h2>Häufige Fragen</h2>
-  
+  <details><summary>Wie lange dauert die Planung eines Einfamilienhauses in Düsseldorf?</summary><p>Je nach Grundstück, Bebauungsplan und Genehmigungslage rechnen wir mit etwa vier bis acht Monaten von der ersten Entwurfsskizze bis zur erteilten Baugenehmigung. Die Bauzeit selbst hängt vom gewählten Baustandard ab, liegt bei konventioneller Bauweise aber meist zwischen zehn und vierzehn Monaten.</p></details><details><summary>Übernehmen Sie auch die Kommunikation mit dem Bauamt Düsseldorf?</summary><p>Ja, das gehört zu unserem Kernangebot. Wir erstellen die vollständigen Bauantragsunterlagen, stimmen uns mit dem zuständigen Bauordnungsamt ab und begleiten Sie durch den gesamten Genehmigungsprozess, inklusive eventueller Nachforderungen.</p></details><details><summary>Was kostet eine Architektenplanung nach HOAI?</summary><p>Unsere Honorare orientieren sich an der Honorarordnung für Architekten und Ingenieure (HOAI) und richten sich nach den anrechenbaren Baukosten sowie dem Leistungsumfang. Im Erstgespräch erhalten Sie eine transparente Einschätzung, welche Leistungsphasen für Ihr Projekt sinnvoll sind.</p></details><details><summary>Sind Sie auf denkmalgeschützte Gebäude spezialisiert?</summary><p>Wir haben umfangreiche Erfahrung mit denkmalgeschützter Bausubstanz, etwa in Oberkassel, Pempelfort oder der Carlstadt. Dabei verbinden wir energetische Ertüchtigung mit dem Erhalt historischer Fassaden und Details im Sinne der unteren Denkmalbehörde.</p></details><details><summary>Kann ich mein Bauvorhaben auch als kleineres Projekt bei Ihnen umsetzen lassen?</summary><p>Selbstverständlich. Neben großen Neubauprojekten übernehmen wir ebenso Dachgeschossausbauten, Anbauten oder Grundrissänderungen und beraten Sie, welche Leistungsphasen für Ihr konkretes Vorhaben sinnvoll und wirtschaftlich sind.</p></details>
 </section>
 
-<div class="cta-final" id="kontakt">
+<div class="cta-final reveal" id="kontakt">
   <h2>Bereit für Ihre neue Website?</h2>
   <p>Rufen Sie uns an: +49 211 151511</p>
-  <a class="btn" href="tel:+49211151511">Jetzt Kontakt aufnehmen</a>
+  <a class="btn" href="tel:+49211151511">Vereinbaren Sie ein unverbindliches Erstgespräch für Ihr Bauvorhaben in Düsseldorf.</a>
 </div>
 
 <footer>Demo-Website erstellt für Architekturbüro Dr.-Ing. Edmund Spohr · Volmerswerther Str. 339, 40221 Düsseldorf-Stadtbezirk 3, Deutschland</footer>
+
+<script>
+  var els = document.querySelectorAll('.reveal');
+  var io = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) { if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); } });
+  }, { threshold: 0.15 });
+  els.forEach(function(el) { io.observe(el); });
+</script>
 </body>
 </html>
