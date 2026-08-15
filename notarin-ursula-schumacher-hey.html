@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rechtssicherheit mit persönlicher Handschrift | Notarin Ursula Schumacher-Hey</title>
+<style>
+  :root { --accent: #1B3A5C; }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #1a1a1a; line-height: 1.65; overflow-x: hidden; }
+  .hero { background: linear-gradient(135deg, rgba(15,23,42,.6), rgba(15,23,42,.8)), url('https://images.pexels.com/photos/25034253/pexels-photo-25034253.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940') center/cover no-repeat; color: #fff; padding: 110px 24px 96px; text-align: center; }
+  .hero h1 { font-size: clamp(28px, 5.5vw, 52px); margin: 0 0 18px; font-weight: 700; text-shadow: 0 2px 14px rgba(0,0,0,.35); }
+  .hero p { font-size: clamp(16px, 2.5vw, 21px); opacity: .95; max-width: 680px; margin: 0 auto 36px; }
+  .btn { display: inline-block; background: #fff; color: var(--accent); font-weight: 600; padding: 15px 34px; border-radius: 999px; text-decoration: none; }
+  .trust { color: #fff; opacity: .95; font-size: 15px; margin-top: 14px; }
+  .stars { color: #fbbf24; letter-spacing: 2px; }
+  section { max-width: 980px; margin: 0 auto; padding: 72px 24px; }
+  h2 { font-size: clamp(24px, 3.2vw, 32px); margin: 0 0 32px; text-align: center; }
+  .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+  .about-grid img { width: 100%; border-radius: 18px; object-fit: cover; aspect-ratio: 4/3; }
+  .about p { color: #444; font-size: 17px; margin: 0 0 16px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 22px; }
+  .card { background: #f8fafc; border-radius: 16px; padding: 28px; border: 1px solid #eef1f5; }
+  .card h3 { margin: 0 0 8px; font-size: 18px; }
+  .card p { margin: 0; color: #555; font-size: 15px; }
+  .prozess-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; counter-reset: step; }
+  .prozess-step { position: relative; padding: 24px; background: #fff; border: 1px solid #eef1f5; border-radius: 16px; }
+  .prozess-step::before { counter-increment: step; content: counter(step); display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 700; margin-bottom: 14px; }
+  .prozess-step h3 { margin: 0 0 8px; font-size: 16px; }
+  .prozess-step p { margin: 0; color: #555; font-size: 14px; }
+  .usps-section { background: #f8fafc; }
+  .usps-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+  .usps-grid img { width: 100%; border-radius: 18px; object-fit: cover; aspect-ratio: 4/3; }
+  .usp-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; }
+  .usp-list li { display: flex; gap: 12px; align-items: flex-start; font-size: 16px; }
+  .usp-list li::before { content: "✓"; color: var(--accent); font-weight: 700; }
+  .galerie-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+  .galerie-grid img { width: 100%; height: 220px; object-fit: cover; border-radius: 14px; }
+  .faq details { border-bottom: 1px solid #eee; padding: 18px 0; }
+  .faq summary { cursor: pointer; font-weight: 600; font-size: 17px; }
+  .faq p { margin: 12px 0 0; color: #555; }
+  .cta-final { text-align: center; background: var(--accent); color: #fff; padding: 72px 24px; }
+  .cta-final h2 { color: #fff; }
+  .cta-final .btn { background: #fff; color: var(--accent); }
+  footer { text-align: center; padding: 36px 24px; color: #888; font-size: 14px; }
+  .reveal { opacity: 0; transform: translateY(28px); transition: opacity .7s ease, transform .7s ease; }
+  .reveal.visible { opacity: 1; transform: none; }
+  @media (max-width: 768px) {
+    .hero { padding: 80px 20px 64px; }
+    section { padding: 48px 20px; }
+    .about-grid, .usps-grid { grid-template-columns: 1fr; gap: 28px; }
+    .about-grid img, .usps-grid img { order: -1; aspect-ratio: 16/9; }
+    .galerie-grid img { height: 180px; }
+  }
+</style>
+</head>
+<body>
+<div class="hero">
+  <h1>Rechtssicherheit mit persönlicher Handschrift</h1>
+  <p>Notarin Ursula Schumacher-Hey berät und beurkundet in Düsseldorf mit juristischer Präzision und einem offenen Ohr für Ihre Anliegen</p>
+  <a class="btn" href="#kontakt">Jetzt Beratungstermin in Düsseldorf sichern</a>
+  <div class="trust"><span class="stars">★★★★★</span> 4.6 · 27 Google-Bewertungen</div>
+</div>
+
+<section class="reveal">
+  <h2>Über uns</h2>
+  <div class="about-grid">
+    <img src="https://images.pexels.com/photos/19136576/pexels-photo-19136576.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Notarin Ursula Schumacher-Hey">
+    <div class="about"><p>Seit vielen Jahren steht die Kanzlei von Notarin Ursula Schumacher-Hey in Düsseldorf für verlässliche notarielle Betreuung in allen Lebenslagen. Ob Immobilienkauf im Medienhafen, Unternehmensgründung in Bilk oder die Regelung des Nachlasses für Familien aus Oberkassel und Umgebung – hier treffen juristische Sorgfalt und menschliche Nähe aufeinander.</p><p>Als Notarin mit langjähriger Erfahrung im Düsseldorfer Rechtsverkehr kennt Ursula Schumacher-Hey die Besonderheiten des lokalen Immobilienmarktes ebenso wie die Anforderungen mittelständischer Unternehmen im Rheinland. Diese Ortskenntnis fließt in jede Beratung ein: Grundstücksbewertungen, Gesellschafterstrukturen oder familiäre Konstellationen werden nicht schematisch abgearbeitet, sondern individuell durchdacht.</p><p>Dabei versteht sich die Kanzlei als neutrale, unabhängige Instanz, die alle Beteiligten gleichermaßen informiert und schützt. Termine werden zeitnah vergeben, Rückfragen persönlich beantwortet – auch außerhalb der klassischen Bürozeiten, wenn es die Situation erfordert. Wer in Düsseldorf einen Notartermin benötigt, der über reine Formalität hinausgeht und echte Beratung bietet, findet hier einen kompetenten und diskreten Ansprechpartner für die wichtigen Weichenstellungen des Lebens.</p></div>
+  </div>
+</section>
+
+<section class="reveal">
+  <h2>Leistungen</h2>
+  <div class="grid"><div class="card"><h3>Immobilienrecht &amp; Grundstücksverträge</h3><p>Beurkundung von Kaufverträgen, Grundschulden und Bauträgerverträgen für Wohn- und Gewerbeimmobilien im gesamten Düsseldorfer Stadtgebiet, inklusive Prüfung von Grundbuchauszügen und Lasten.</p></div><div class="card"><h3>Erbrecht &amp; Nachlassplanung</h3><p>Erstellung von Testamenten, Erbverträgen und Vorsorgevollmachten sowie Begleitung bei Erbauseinandersetzungen – klar formuliert und rechtssicher für den Ernstfall.</p></div><div class="card"><h3>Gesellschaftsrecht &amp; Unternehmensgründung</h3><p>Gründung von GmbHs und UGs, Satzungsänderungen, Anteilsübertragungen sowie Handelsregisteranmeldungen für Start-ups und etablierte Unternehmen aus der Region.</p></div><div class="card"><h3>Familienrecht</h3><p>Beurkundung von Eheverträgen, Scheidungsfolgenvereinbarungen und Vermögensauseinandersetzungen mit Fingerspitzengefühl für sensible Situationen.</p></div><div class="card"><h3>Vollmachten &amp; Vorsorgeurkunden</h3><p>Erstellung von Vorsorgevollmachten, Patientenverfügungen und Betreuungsverfügungen, damit wichtige Entscheidungen rechtzeitig und rechtssicher getroffen werden.</p></div><div class="card"><h3>Beglaubigungen &amp; Unterschriftsbeglaubigungen</h3><p>Schnelle und unkomplizierte Beglaubigung von Dokumenten, Kopien und Unterschriften für private und geschäftliche Zwecke.</p></div></div>
+</section>
+
+<section class="reveal">
+  <h2>So arbeiten wir</h2>
+  <div class="prozess-grid"><div class="prozess-step"><h3>Erstkontakt &amp; Terminvereinbarung</h3><p>Telefonisch oder per E-Mail schildern Sie Ihr Anliegen – innerhalb kurzer Zeit erhalten Sie einen persönlichen Beratungstermin in der Kanzlei in Düsseldorf.</p></div><div class="prozess-step"><h3>Erstberatung &amp; Unterlagenprüfung</h3><p>Im persönlichen Gespräch werden Ihre Ziele geklärt und alle relevanten Unterlagen wie Grundbuchauszüge oder Gesellschaftsverträge gesichtet.</p></div><div class="prozess-step"><h3>Entwurf &amp; Abstimmung</h3><p>Sie erhalten einen individuell ausgearbeiteten Vertragsentwurf, den Sie in Ruhe prüfen können – offene Fragen werden vorab telefonisch oder persönlich geklärt.</p></div><div class="prozess-step"><h3>Beurkundung &amp; Nachbetreuung</h3><p>Nach der notariellen Beurkundung übernimmt die Kanzlei alle weiteren Schritte wie Grundbuch- oder Handelsregisteranmeldungen und hält Sie über den Fortschritt auf dem Laufenden.</p></div></div>
+</section>
+
+<section class="usps-section reveal">
+  <h2>Warum Notarin Ursula Schumacher-Hey?</h2>
+  <div class="usps-grid">
+    <ul class="usp-list"><li>Über 20 Jahre notarielle Erfahrung im Rechtsverkehr rund um Düsseldorf</li><li>Persönliche Beratung ohne Zeitdruck – jeder Fall wird individuell betrachtet</li><li>Fundierte Kenntnis des Düsseldorfer Immobilienmarktes und regionaler Besonderheiten</li><li>Kurzfristige Terminvergabe auch bei dringenden Anliegen</li><li>Diskrete und neutrale Begleitung in familien- und erbrechtlichen Fragen</li><li>Zentrale Erreichbarkeit in Düsseldorf mit guter Verkehrsanbindung</li></ul>
+    <img src="https://images.pexels.com/photos/19136564/pexels-photo-19136564.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Notarin Ursula Schumacher-Hey">
+  </div>
+</section>
+
+<section class="reveal">
+  <h2>Eindrücke</h2>
+  <div class="galerie-grid"><img src="https://images.pexels.com/photos/19136576/pexels-photo-19136576.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Notarin Ursula Schumacher-Hey"><img src="https://images.pexels.com/photos/19136564/pexels-photo-19136564.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Notarin Ursula Schumacher-Hey"><img src="https://images.pexels.com/photos/15159300/pexels-photo-15159300.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Notarin Ursula Schumacher-Hey"></div>
+</section>
+
+<section class="faq reveal">
+  <h2>Häufige Fragen</h2>
+  <details><summary>Wie schnell bekomme ich einen Termin bei Notarin Schumacher-Hey in Düsseldorf?</summary><p>In der Regel wird innerhalb weniger Werktage ein Ersttermin vereinbart. Bei dringenden Angelegenheiten, etwa bei zeitkritischen Immobilientransaktionen, wird nach Möglichkeit eine schnellere Terminierung ermöglicht.</p></details><details><summary>Welche Unterlagen benötige ich für die Beurkundung eines Grundstückskaufvertrags?</summary><p>Üblicherweise werden der aktuelle Grundbuchauszug, Personalausweise der Beteiligten, gegebenenfalls die Teilungserklärung sowie Nachweise zur Finanzierung benötigt. Welche Dokumente im Einzelfall erforderlich sind, wird bereits beim Erstkontakt besprochen.</p></details><details><summary>Was kostet eine notarielle Beurkundung?</summary><p>Die Kosten richten sich nach dem Gerichts- und Notarkostengesetz und hängen vom Geschäftswert ab, etwa dem Kaufpreis einer Immobilie oder der Höhe des Stammkapitals bei einer Gründung. Eine transparente Kostenschätzung erfolgt bereits im Vorgespräch.</p></details><details><summary>Kann ich mich auch außerhalb der üblichen Bürozeiten beraten lassen?</summary><p>Ja, gerade bei komplexeren Anliegen wie Unternehmensnachfolgen oder Erbschaftsfragen sind auf Anfrage auch Termine außerhalb der Kernzeiten möglich, um Berufstätigen und Unternehmern entgegenzukommen.</p></details><details><summary>Ist die Notarin auch für Mandanten außerhalb Düsseldorfs tätig?</summary><p>Selbstverständlich werden auch Mandanten aus dem gesamten Rheinland betreut, insbesondere wenn es um Immobilien oder Unternehmen mit Sitz oder Bezug zu Düsseldorf geht. Die örtliche Zuständigkeit richtet sich nach dem jeweiligen Rechtsgeschäft.</p></details>
+</section>
+
+<div class="cta-final reveal" id="kontakt">
+  <h2>Bereit für Ihre neue Website?</h2>
+  <p>Rufen Sie uns an: +49 211 353708</p>
+  <a class="btn" href="tel:+49211353708">Jetzt Beratungstermin in Düsseldorf sichern</a>
+</div>
+
+<footer>Demo-Website erstellt für Notarin Ursula Schumacher-Hey · Steinstraße 16 -18, 40212 Düsseldorf, Deutschland</footer>
+
+<script>
+  var els = document.querySelectorAll('.reveal');
+  var io = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) { if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); } });
+  }, { threshold: 0.15 });
+  els.forEach(function(el) { io.observe(el); });
+</script>
+</body>
+</html>
