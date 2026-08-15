@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> | Architekturbüro Dr.-Ing. Edmund Spohr</title>
+<style>
+  :root { --accent: #2563eb; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #1a1a1a; line-height: 1.65; }
+  .hero { background: linear-gradient(135deg, rgba(15,23,42,.6), rgba(15,23,42,.8)), url('https://images.pexels.com/photos/31048784/pexels-photo-31048784.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940') center/cover no-repeat; color: #fff; padding: 110px 24px 96px; text-align: center; }
+  .hero h1 { font-size: clamp(30px, 5.5vw, 52px); margin: 0 0 18px; font-weight: 700; text-shadow: 0 2px 14px rgba(0,0,0,.35); }
+  .hero p { font-size: clamp(17px, 2.5vw, 21px); opacity: .95; max-width: 680px; margin: 0 auto 36px; }
+  .btn { display: inline-block; background: #fff; color: var(--accent); font-weight: 600; padding: 15px 34px; border-radius: 999px; text-decoration: none; }
+  .trust { color: #fff; opacity: .95; font-size: 15px; margin-top: -8px; }
+  .stars { color: #fbbf24; letter-spacing: 2px; }
+  section { max-width: 980px; margin: 0 auto; padding: 72px 24px; }
+  h2 { font-size: clamp(24px, 3.2vw, 32px); margin: 0 0 32px; text-align: center; }
+  .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+  .about-grid img { width: 100%; border-radius: 18px; object-fit: cover; aspect-ratio: 4/3; }
+  .about p { color: #444; font-size: 17px; margin: 0 0 16px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 22px; }
+  .card { background: #f8fafc; border-radius: 16px; padding: 28px; border: 1px solid #eef1f5; }
+  .card h3 { margin: 0 0 8px; font-size: 18px; }
+  .card p { margin: 0; color: #555; font-size: 15px; }
+  .prozess-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; counter-reset: step; }
+  .prozess-step { position: relative; padding: 24px; background: #fff; border: 1px solid #eef1f5; border-radius: 16px; }
+  .prozess-step::before { counter-increment: step; content: counter(step); display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 700; margin-bottom: 14px; }
+  .prozess-step h3 { margin: 0 0 8px; font-size: 16px; }
+  .prozess-step p { margin: 0; color: #555; font-size: 14px; }
+  .usps-section { background: #f8fafc; }
+  .usps-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+  .usps-grid img { width: 100%; border-radius: 18px; object-fit: cover; aspect-ratio: 4/3; }
+  .usp-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; }
+  .usp-list li { display: flex; gap: 12px; align-items: flex-start; font-size: 16px; }
+  .usp-list li::before { content: "✓"; color: var(--accent); font-weight: 700; }
+  .galerie-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+  .galerie-grid img { width: 100%; height: 220px; object-fit: cover; border-radius: 14px; }
+  .faq details { border-bottom: 1px solid #eee; padding: 18px 0; }
+  .faq summary { cursor: pointer; font-weight: 600; font-size: 17px; }
+  .faq p { margin: 12px 0 0; color: #555; }
+  .cta-final { text-align: center; background: var(--accent); color: #fff; padding: 72px 24px; }
+  .cta-final h2 { color: #fff; }
+  .cta-final .btn { background: #fff; color: var(--accent); }
+  footer { text-align: center; padding: 36px 24px; color: #888; font-size: 14px; }
+</style>
+</head>
+<body>
+<div class="hero">
+  <h1></h1>
+  <p></p>
+  <a class="btn" href="#kontakt">Jetzt Kontakt aufnehmen</a>
+  <div class="trust"><span class="stars">★★★★★</span> 4.7 · 7 Google-Bewertungen</div>
+</div>
+
+<section>
+  <h2>Über uns</h2>
+  <div class="about-grid">
+    <img src="https://images.pexels.com/photos/19136569/pexels-photo-19136569.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr">
+    <div class="about"></div>
+  </div>
+</section>
+
+<section>
+  <h2>Leistungen</h2>
+  <div class="grid"></div>
+</section>
+
+<section>
+  <h2>So arbeiten wir</h2>
+  <div class="prozess-grid"></div>
+</section>
+
+<section class="usps-section">
+  <h2>Warum Architekturbüro Dr.-Ing. Edmund Spohr?</h2>
+  <div class="usps-grid">
+    <ul class="usp-list"></ul>
+    <img src="https://images.pexels.com/photos/19136564/pexels-photo-19136564.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr">
+  </div>
+</section>
+
+<section>
+  <h2>Eindrücke</h2>
+  <div class="galerie-grid"><img src="https://images.pexels.com/photos/19136569/pexels-photo-19136569.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr"><img src="https://images.pexels.com/photos/19136564/pexels-photo-19136564.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr"><img src="https://images.pexels.com/photos/32010302/pexels-photo-32010302.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Architekturbüro Dr.-Ing. Edmund Spohr"></div>
+</section>
+
+<section class="faq">
+  <h2>Häufige Fragen</h2>
+  
+</section>
+
+<div class="cta-final" id="kontakt">
+  <h2>Bereit für Ihre neue Website?</h2>
+  <p>Rufen Sie uns an: +49 211 151511</p>
+  <a class="btn" href="tel:+49211151511">Jetzt Kontakt aufnehmen</a>
+</div>
+
+<footer>Demo-Website erstellt für Architekturbüro Dr.-Ing. Edmund Spohr · Volmerswerther Str. 339, 40221 Düsseldorf-Stadtbezirk 3, Deutschland</footer>
+</body>
+</html>
