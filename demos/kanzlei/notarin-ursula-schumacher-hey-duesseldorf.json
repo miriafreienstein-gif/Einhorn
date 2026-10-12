@@ -1,0 +1,383 @@
+{
+  "kanzlei": {
+    "name": "Notarin Ursula Schumacher-Hey",
+    "zusatz": "Notariat",
+    "claim": "Vorsorgende Rechtspflege in Düsseldorf",
+    "intro": "Das Notariat von Ursula Schumacher-Hey in Düsseldorf begleitet Privatpersonen und Unternehmen bei Beurkundungen und Beglaubigungen – von Immobilienkaufverträgen über Gesellschaftsangelegenheiten bis zu Testamenten, Schenkungen und Vorsorgevollmachten. Im Mittelpunkt steht die sichere Vertragsgestaltung im Vorfeld, nicht der Streit.",
+    "seit": 2007,
+    "stadt": "Düsseldorf",
+    "adresse": [
+      "Steinstraße 16-18 (Stolco-Haus)",
+      "40212 Düsseldorf"
+    ],
+    "telefon": "+49 211 353708",
+    "email": "notariat@schumacher-hey.de",
+    "notarkammer": "Rheinische Notarkammer, Burgmauer 53, 50667 Köln",
+    "aufsicht": "Die Präsidentin des Landgerichts Düsseldorf, Werdener Straße 1, 40227 Düsseldorf",
+    "sprachen": [
+      "Deutsch"
+    ],
+    "notariat": true,
+    "chronik": [
+      [
+        2001,
+        "Ernennung von Ursula Schumacher-Hey zur Notarassessorin"
+      ],
+      [
+        2007,
+        "Ernennung von Ursula Schumacher-Hey zur Notarin in Düsseldorf"
+      ]
+    ],
+    "werte": [
+      [
+        "Der Mensch im Mittelpunkt",
+        "Ebenso wichtig wie Genauigkeit und fundiertes Wissen ist das Verständnis für Ihre Anliegen."
+      ],
+      [
+        "Unabhängig und unparteilich",
+        "Als Trägerin eines öffentlichen Amtes berät die Notarin alle Beteiligten neutral und verschwiegen."
+      ],
+      [
+        "Streit vermeiden",
+        "Vorsorgende Rechtspflege heißt: klare Verträge im Vorfeld statt Auseinandersetzungen im Nachhinein."
+      ],
+      [
+        "Kalkulierbare Kosten",
+        "Die Gebühren richten sich nach dem Gerichts- und Notarkostengesetz (GNotKG) und damit nach dem Geschäftswert."
+      ]
+    ]
+  },
+  "rechtsgebiete": [
+    {
+      "name": "Immobilien",
+      "begriffe": [
+        "Kaufvertrag",
+        "Grundschuld",
+        "Eigentumswohnung",
+        "Bauträgervertrag"
+      ],
+      "kurz": "Für Käufer, Verkäufer und Bauträger, die Grundbesitz rechtssicher übertragen oder belasten wollen.",
+      "norm": "§ 311b BGB",
+      "faelle": [
+        "Kauf und Verkauf von Grundstücken, Häusern und Eigentumswohnungen",
+        "Bauträgerverträge über noch zu errichtende Häuser oder Wohnungen",
+        "Erwerb von Bauplätzen und Erbbaurechten",
+        "Bestellung von Grundschulden zur Finanzierung",
+        "Teilflächenkauf mit erforderlicher Vermessung"
+      ],
+      "ablauf": [
+        "Vorgespräch: Sie schildern den Vorgang und übermitteln die Daten der Beteiligten und des Objekts.",
+        "Entwurf: Die Notarin erstellt einen Vertragsentwurf und übersendet ihn allen Beteiligten zur Prüfung.",
+        "Beurkundung: Der Vertrag wird vorgelesen, erläutert und unterzeichnet.",
+        "Vollzug: Die Notarin holt die erforderlichen Unterlagen und Genehmigungen ein und teilt die Fälligkeit des Kaufpreises mit.",
+        "Abschluss: Die Eigentumsumschreibung im Grundbuch wird überwacht."
+      ],
+      "faq": [
+        {
+          "frage": "Muss die Finanzierung vor der Beurkundung stehen?",
+          "antwort": "Die Finanzierung sollte vor der Beurkundung geklärt sein. Besprechen Sie mit Ihrer Bank, wann das Darlehen ausgezahlt werden kann; die Fälligkeit des Kaufpreises wird darauf abgestimmt. Ist die Finanzierung bereits im Einzelnen geklärt, kann die Grundschuld unmittelbar im Anschluss an den Kaufvertrag beurkundet werden."
+        },
+        {
+          "frage": "Wie wird verhindert, dass eine Seite leer ausgeht?",
+          "antwort": "Der Vertrag sichert beide Seiten ab: Der Käufer zahlt erst, wenn seine Rechtsposition gesichert ist, und der Verkäufer verliert das Eigentum nicht, bevor der Kaufpreis gezahlt ist."
+        },
+        {
+          "frage": "Welche Punkte regelt ein Immobilienkaufvertrag immer?",
+          "antwort": "Die Sicherung von Käufer und Verkäufer, Löschung oder Fortbestand von Belastungen, die Gewährleistung für Mängel, den Übergang von Besitz, Nutzungen und Lasten, die Aufteilung der Erschließungskosten und – beim Teilflächenkauf – das Erfordernis einer Vermessung."
+        }
+      ]
+    },
+    {
+      "name": "Unternehmen",
+      "begriffe": [
+        "GmbH-Gründung",
+        "Handelsregister",
+        "Anteilsübertragung",
+        "Unternehmensnachfolge"
+      ],
+      "kurz": "Für Gründerinnen und Gründer, Gesellschafter und Unternehmer, die Rechtsform, Registeranmeldungen und Nachfolge regeln.",
+      "norm": "§ 15 GmbHG",
+      "faelle": [
+        "Gründung von Gesellschaften und Wahl der Rechtsform",
+        "Klärung des zulässigen Firmennamens",
+        "Handelsregisteranmeldungen, etwa Wechsel in der Geschäftsführung oder Erteilung und Widerruf von Prokura",
+        "Änderung von Firma, Sitz oder Gesellschaftsvertrag",
+        "Verkauf von Unternehmensanteilen, Umwandlung, Verschmelzung und Betriebsaufspaltung",
+        "Gestaltung der Unternehmensnachfolge in Abstimmung mit dem Gesellschaftsvertrag"
+      ],
+      "ablauf": [
+        "Erstgespräch zu Vorhaben, Beteiligten und Zeitplan.",
+        "Abstimmung der Rechtsform- und Gestaltungsfragen, bei Bedarf Vorabklärung mit dem Registergericht.",
+        "Entwurf von Satzung, Vertrag oder Anmeldungstext.",
+        "Beurkundung beziehungsweise Beglaubigung der Unterschriften.",
+        "Einreichung beim Handelsregister und Überwachung der richtigen Eintragung."
+      ],
+      "faq": [
+        {
+          "frage": "Welche Vorgänge müssen im Handelsregister eingetragen werden?",
+          "antwort": "Eintragungspflichtig sind unter anderem der Wechsel in der Geschäftsführung, die Erteilung und der Widerruf von Prokura, die Änderung der Firma, die Änderung des Unternehmenssitzes und die Errichtung von Zweigniederlassungen, der Gesellschafterwechsel bei OHG und KG sowie die Änderung des Gesellschaftsvertrages bei Kapitalgesellschaften."
+        },
+        {
+          "frage": "Darf die Firma ein Phantasiename sein?",
+          "antwort": "Ja. Der Firmenname muss zur Kennzeichnung des Unternehmens geeignet sein und sich von anderen Firmen deutlich unterscheiden; er kann auch ein unterscheidungskräftiger Phantasiename sein. In jedem Fall muss die Rechtsform aus einem entsprechenden Zusatz erkennbar sein."
+        },
+        {
+          "frage": "Reicht ein eigenhändiges Testament für die Unternehmensnachfolge?",
+          "antwort": "Davon ist abzuraten. Die Nachfolgeregelung muss mit den gesellschaftsvertraglichen Regelungen abgestimmt werden; dafür ist eine sachverständige Beratung erforderlich."
+        }
+      ]
+    },
+    {
+      "name": "Vererben",
+      "begriffe": [
+        "Testament",
+        "Erbvertrag",
+        "Vermächtnis",
+        "Testamentsvollstreckung"
+      ],
+      "kurz": "Für alle, die ihren Nachlass selbst bestimmen und spätere Unklarheiten vermeiden wollen.",
+      "norm": "§ 2232 BGB",
+      "faelle": [
+        "Einzeltestament und gemeinschaftliches Testament von Ehegatten oder eingetragenen Lebenspartnern",
+        "Erbvertrag, auch zwischen nicht miteinander verheirateten Personen",
+        "Anordnung von Vermächtnissen",
+        "Anordnung der Testamentsvollstreckung",
+        "Benennung eines Vormunds für minderjährige Kinder"
+      ],
+      "ablauf": [
+        "Erstgespräch über Familien- und Vermögensverhältnisse und Ihre Ziele.",
+        "Erläuterung der Gestaltungsmöglichkeiten, etwa Erbeinsetzung, Vermächtnis oder Testamentsvollstreckung.",
+        "Entwurf der Verfügung von Todes wegen zur Durchsicht.",
+        "Beurkundung des Testaments oder Erbvertrags.",
+        "Veranlassung der Verwahrung und Registrierung."
+      ],
+      "faq": [
+        {
+          "frage": "Worin unterscheiden sich Testament und Erbvertrag?",
+          "antwort": "Der Erbvertrag ist eine in Vertragsform errichtete Verfügung von Todes wegen mit mindestens zwei Vertragspartnern und immer beurkundungsbedürftig. Auch nicht miteinander verheiratete Personen können ihn schließen. Die Verfügungen können grundsätzlich nur mit Zustimmung beider Vertragspartner geändert werden, nach dem Tod eines Vertragspartners überhaupt nicht mehr – eine spätere einseitige Änderung kann aber in weitem Umfang vorgesehen werden."
+        },
+        {
+          "frage": "Warum ein notarielles statt eines handschriftlichen Testaments?",
+          "antwort": "Eigenhändig errichtete Testamente enthalten nicht selten Unklarheiten oder Fehler, die später Anlass zu Streit geben. Bei der Gestaltung sind zudem Vollmachten, Pflichtteilsansprüche und weitere Aspekte zu beachten."
+        },
+        {
+          "frage": "Wann ist eine Testamentsvollstreckung sinnvoll?",
+          "antwort": "Sie bietet sich bei größeren Vermögen an oder wenn zu erwarten ist, dass die Erben mit der Verwaltung des Nachlasses – etwa wegen Minderjährigkeit, Unerfahrenheit oder aus medizinischen Gründen – überfordert wären."
+        }
+      ]
+    },
+    {
+      "name": "Schenken",
+      "begriffe": [
+        "Schenkungsvertrag",
+        "Überlassung",
+        "Vorweggenommene Erbfolge",
+        "Wohnrecht"
+      ],
+      "kurz": "Für Familien, die Vermögen schon zu Lebzeiten auf die nächste Generation übertragen möchten.",
+      "norm": "§ 518 BGB",
+      "faelle": [
+        "Überlassung von Grundbesitz an Ehegatten oder Kinder",
+        "Übertragung von Erb- und Geschäftsanteilen",
+        "Vereinbarung von Wohnrechten, Pflegeverpflichtungen oder Abstandszahlungen",
+        "Rückforderungsrechte im Übertragungsvertrag",
+        "Erb- und Pflichtteilsverzichte"
+      ],
+      "ablauf": [
+        "Erstgespräch zu Motiven, Vermögen und Versorgungswünschen.",
+        "Abwägung zwischen lebzeitiger Übertragung und letztwilliger Verfügung.",
+        "Entwurf des Übertragungsvertrages mit Gegenleistungen und Rückforderungsrechten.",
+        "Beurkundung des Vertrages.",
+        "Vollzug, bei Grundbesitz einschließlich der Eintragung im Grundbuch."
+      ],
+      "faq": [
+        {
+          "frage": "Was ist vorweggenommene Erbfolge?",
+          "antwort": "Erfolgt eine Übertragung als Schenkung mit Rücksicht auf eine künftige Erbfolge, spricht man von vorweggenommener Erbfolge."
+        },
+        {
+          "frage": "Welche Vorteile hat eine Übertragung zu Lebzeiten?",
+          "antwort": "Kindern kann die Begründung eines eigenen Hausstandes oder einer beruflichen Existenz erleichtert werden, die Versorgung des Veräußerers lässt sich im Vertrag sicherstellen, Pflichtteilsansprüche können unter gewissen Voraussetzungen beschränkt und steuerliche Freibeträge durch zeitliche Verteilung mehrfach ausgenutzt werden."
+        },
+        {
+          "frage": "Kann eine Schenkung zurückgefordert werden?",
+          "antwort": "Nach dem Gesetz ist die Rückforderung nur eingeschränkt möglich. Im Übertragungsvertrag kann ein Rückforderungsrecht unter bestimmten Voraussetzungen jedoch ausdrücklich vereinbart werden."
+        }
+      ]
+    },
+    {
+      "name": "Familie",
+      "begriffe": [
+        "Ehevertrag",
+        "Scheidungsfolgen",
+        "Güterstand",
+        "Unterhalt"
+      ],
+      "kurz": "Für Paare, die ihre vermögensrechtlichen Verhältnisse vor oder während der Ehe sowie bei Trennung regeln wollen.",
+      "norm": "§ 1410 BGB",
+      "faelle": [
+        "Eheverträge mit Regelungen zum Güterstand",
+        "Vereinbarungen zum Versorgungsausgleich",
+        "Scheidungsfolgenvereinbarungen",
+        "Unterhaltsvereinbarungen",
+        "Vereinbarungen zwischen nichtehelichen Lebensgefährten"
+      ],
+      "ablauf": [
+        "Erstgespräch mit beiden Beteiligten über Ausgangslage und Ziele.",
+        "Erläuterung der gesetzlichen Regelungen und der Gestaltungsspielräume.",
+        "Entwurf der Vereinbarung zur Durchsicht beider Seiten.",
+        "Beurkundung des Vertrages."
+      ],
+      "faq": [
+        {
+          "frage": "Muss ein Ehevertrag notariell beurkundet werden?",
+          "antwort": "Ja, ein Ehevertrag ist nach dem Gesetz bei gleichzeitiger Anwesenheit beider Teile notariell zu beurkunden."
+        },
+        {
+          "frage": "Berät die Notarin nur eine Seite?",
+          "antwort": "Nein. Die Notarin ist unabhängig und unparteilich und berät beide Beteiligte gleichermaßen über die rechtlichen Folgen der Vereinbarung."
+        }
+      ]
+    },
+    {
+      "name": "Notfallvorsorge",
+      "begriffe": [
+        "Vorsorgevollmacht",
+        "Patientenverfügung",
+        "Betreuungsverfügung",
+        "Generalvollmacht"
+      ],
+      "kurz": "Für alle, die für Krankheit, Unfall oder Alter festlegen wollen, wer für sie handelt und entscheidet.",
+      "norm": "§ 1827 BGB",
+      "faelle": [
+        "Vorsorgevollmacht für Vermögens- und Gesundheitsangelegenheiten",
+        "Patientenverfügung zu medizinischen Maßnahmen",
+        "Betreuungsverfügung mit Benennung einer Vertrauensperson",
+        "Vollmachten für Grundstücks- und Bankangelegenheiten"
+      ],
+      "ablauf": [
+        "Erstgespräch über Ihre Lebenssituation und Ihre Vertrauensperson.",
+        "Erläuterung von Reichweite und Grenzen der Vollmacht.",
+        "Entwurf der Vollmacht und gegebenenfalls der Patientenverfügung.",
+        "Beurkundung oder Beglaubigung.",
+        "Aushändigung der Ausfertigungen und auf Wunsch Registrierung im Zentralen Vorsorgeregister."
+      ],
+      "faq": [
+        {
+          "frage": "Warum eine notarielle Vorsorgevollmacht?",
+          "antwort": "Die notarielle Form sichert die Identität und die Belehrung über die Tragweite der Vollmacht und wird im Rechtsverkehr, etwa bei Banken und Grundbuchämtern, regelmäßig anerkannt."
+        },
+        {
+          "frage": "Wann sollte man sich darum kümmern?",
+          "antwort": "Eine Vollmacht kann nur erteilen, wer geschäftsfähig ist. Deshalb ist es sinnvoll, die Vorsorge zu regeln, solange kein Notfall eingetreten ist."
+        }
+      ]
+    },
+    {
+      "name": "Schlichtung",
+      "begriffe": [
+        "Mediation",
+        "Streitbeilegung",
+        "Schiedsrichter",
+        "Vollstreckbare Urkunde"
+      ],
+      "kurz": "Für Beteiligte, die eine Auseinandersetzung einvernehmlich und ohne Gerichtsverfahren beenden möchten.",
+      "norm": "§ 1 MediationsG",
+      "faelle": [
+        "Vermittlung bei Nachlass- und Gesamtgutauseinandersetzungen",
+        "Tätigkeit als Schiedsrichter",
+        "Vollstreckbarerklärung von Schiedssprüchen",
+        "Errichtung vollstreckbarer Urkunden",
+        "Abnahme von Eiden, Ausstellung von Bescheinigungen, Vermögensverzeichnisse",
+        "Verlosungen, Auslosungen und freiwillige Versteigerungen"
+      ],
+      "ablauf": [
+        "Erstgespräch mit allen Beteiligten über den Konflikt und das Ziel.",
+        "Klärung des Verfahrens und der rechtlichen Rahmenbedingungen.",
+        "Erarbeitung einer einvernehmlichen Lösung.",
+        "Beurkundung der Vereinbarung, auf Wunsch mit Unterwerfung unter die sofortige Zwangsvollstreckung."
+      ],
+      "faq": [
+        {
+          "frage": "Was ist eine vollstreckbare Urkunde?",
+          "antwort": "Aus notariellen vollstreckbaren Urkunden findet die Zwangsvollstreckung ebenso statt wie aus für vollstreckbar erklärten gerichtlichen Endurteilen."
+        },
+        {
+          "frage": "Sind Schiedssprüche ohne Weiteres vollstreckbar?",
+          "antwort": "Nein. Schiedssprüche sind nur vollstreckbar, wenn sie von einem staatlichen Gericht oder einem Notar für vollstreckbar erklärt wurden."
+        }
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "Ursula Schumacher-Hey",
+      "bezeichnung": "Notarin",
+      "funktion": [
+        "Notar"
+      ],
+      "rechtsgebiete": [
+        "Immobilien",
+        "Unternehmen",
+        "Vererben",
+        "Schenken",
+        "Familie",
+        "Notfallvorsorge",
+        "Schlichtung"
+      ],
+      "sprachen": [
+        "Deutsch"
+      ],
+      "meilensteine": [
+        {
+          "jahr": 1990,
+          "titel": "Jurastudium in Trier",
+          "text": "1990 bis 1995 Jurastudium in Trier.",
+          "symbol": "buch"
+        },
+        {
+          "jahr": 1995,
+          "titel": "Pünder, Volhard, Weber & Axster",
+          "text": "1995 bis 2001 Tätigkeit bei Pünder, Volhard, Weber & Axster (heute: Clifford Chance) als freie Mitarbeiterin (1995 bis 1998) und Rechtsanwältin (1998 bis 2001) in Frankfurt a.M. und Düsseldorf.",
+          "symbol": "waage"
+        },
+        {
+          "jahr": 1996,
+          "titel": "Referendariat in Düsseldorf",
+          "text": "1996 bis 1998 Referendariat in Düsseldorf.",
+          "symbol": "buch"
+        },
+        {
+          "jahr": 2001,
+          "titel": "Ernennung zur Notarassessorin",
+          "text": "",
+          "symbol": "siegel"
+        },
+        {
+          "jahr": 2007,
+          "titel": "Ernennung zur Notarin in Düsseldorf",
+          "text": "",
+          "symbol": "notarsiegel"
+        }
+      ]
+    }
+  ],
+  "demo": {
+    "fuer": "Notarin Ursula Schumacher-Hey",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://www.schumacher-hey.de/",
+    "seiten": [
+      "https://www.schumacher-hey.de/",
+      "https://www.schumacher-hey.de/impressum/",
+      "https://www.schumacher-hey.de/notarin-schumacher-hey/",
+      "https://www.schumacher-hey.de/leistungen/",
+      "https://www.schumacher-hey.de/leistungen/immobilien/",
+      "https://www.schumacher-hey.de/leistungen/unternehmen/",
+      "https://www.schumacher-hey.de/leistungen/vererben/",
+      "https://www.schumacher-hey.de/leistungen/schenken/"
+    ],
+    "erstellt": "2026-10-12T10:19:14.295Z"
+  }
+}
