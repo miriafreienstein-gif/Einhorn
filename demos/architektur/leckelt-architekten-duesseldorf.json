@@ -1,0 +1,105 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "leckelt architekten",
+    "beschreibung": "Architektur & Innenarchitektur",
+    "haltung": "Klare Linien, klare Haltung: Wir verstehen Architektur als integrativen Prozess, der Räume schafft, Werte erhält und Zukunft gestaltet. Präzision, Leidenschaft und individuelle Konzepte prägen jedes Projekt.",
+    "intro": "Architektur- und Innenarchitekturbüro in Düsseldorf für Neubau, Umbau und städtebauliche Entwicklung.",
+    "email": "info@leckelt-architekten.de",
+    "telefon": "+49 211 99452899",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Volmerswerther Straße 388",
+          "40221 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Sedus Showroom Düsseldorf",
+      "ort": "Düsseldorf",
+      "typologie": "Gewerbe",
+      "status": "realisiert",
+      "kurz": "Umwandlung einer bestehenden Bürofläche in einen Showroom für die Firma Sedus – Plattform für Produktpräsentation, Veranstaltungen und Kundentermine.",
+      "kapitel": [
+        {
+          "titel": "Aufgabe",
+          "text": "Die bestehende Bürofläche wurde in einen Showroom für die Firma Sedus umgewandelt. Der Raum dient als vielseitige Plattform zur Präsentation aktueller Produkte und wird zugleich für Veranstaltungen und Kundentermine genutzt."
+        },
+        {
+          "titel": "Raum",
+          "text": "Großzügige Flächen, flexible Möblierung und eine klare Gestaltung schaffen eine inspirierende Umgebung, die sowohl Ausstellungs- als auch Kommunikationsraum ist und die Marke erlebbar macht."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Kindertagesstätte Niederkassel",
+      "ort": "Niederkassel",
+      "typologie": "Bildung",
+      "kurz": "Halbrunder Baukörper mit großzügigen Gruppenräumen, die sich zum Garten öffnen – Holz, Glas und begrüntes Dach prägen die nachhaltige Architektur.",
+      "kapitel": [
+        {
+          "titel": "Baukörper",
+          "text": "Der halbrunde Baukörper empfängt Kinder mit einer offenen, schützenden Geste und bietet großzügige Gruppenräume, die sich mit hoher Raumqualität in den Garten öffnen."
+        },
+        {
+          "titel": "Material und Konzept",
+          "text": "Holz, Glas und ein begrüntes Dach prägen die warme, nachhaltige Architektur, ergänzt durch Spielemporen, flexible Lernbereiche und ein Lowtech-Energiekonzept."
+        }
+      ],
+      "bilder": [
+        "https://leckelt-architekten.de/wp-content/uploads/2025/06/Kita-ISR-Gruppenraum2-Foto.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Pflegewohnen mehrere Standorte",
+      "typologie": "Wohnen",
+      "kurz": "Kurzzeitpflege, stationäre Pflege und altersgerechtes Servicewohnen ergänzen sich zu einem vielfältigen Angebot.",
+      "kapitel": [
+        {
+          "titel": "Konzept",
+          "text": "Die Projekte vereinen unterschiedliche Wohn- und Betreuungsformen in einem stimmigen Gesamtkonzept: Solitäre Kurzzeitpflege, stationäre Pflege und altersgerechtes Servicewohnen ergänzen sich zu einem vielfältigen Angebot."
+        },
+        {
+          "titel": "Wohnqualität",
+          "text": "Im Mittelpunkt stehen barrierefreie Lösungen und individuelle Wohnkonzepte, die ein hohes Maß an Komfort und Lebensqualität gewährleisten."
+        }
+      ],
+      "featured": false,
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Petra Leckelt",
+      "rolle": "Architektin, Inhaberin",
+      "partner": true,
+      "bio": "Petra Leckelt verfügt über mehr als 25 Jahre Erfahrung in Architektur und Innenarchitektur und führt das Büro in Düsseldorf."
+    }
+  ],
+  "demo": {
+    "fuer": "leckelt architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.leckelt-architekten.de/",
+    "seiten": [
+      "http://www.leckelt-architekten.de/",
+      "https://leckelt-architekten.de/impressum/",
+      "https://leckelt-architekten.de/buero/",
+      "https://leckelt-architekten.de/projekte/",
+      "https://leckelt-architekten.de/leistungen/",
+      "https://leckelt-architekten.de/projekte/sedus-showroom-duesseldorf/",
+      "https://leckelt-architekten.de/projekte/kindertagesstaette-niederkassel/",
+      "https://leckelt-architekten.de/projekte/pflegewohnen-mehrere-standorte/"
+    ],
+    "erstellt": "2026-10-12T10:41:59.647Z"
+  }
+}
