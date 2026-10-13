@@ -1,0 +1,70 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "Architekturbüro Baumgärtel",
+    "beschreibung": "Architektur, Innenarchitektur und Bauberatung",
+    "haltung": "Das Büro plant individuelle Ein- und Mehrfamilienhäuser in ganz Deutschland und begleitet Bauherren von der Grundstücks- und Bauberatung bis zur Innenarchitektur. Ein weiterer Schwerpunkt liegt auf barrierefreiem Bauen sowie auf der Koordination für Sicherheit und Gesundheitsschutz (SiGeKo).",
+    "intro": "Architekturbüro von Dipl.-Ing. Ralph Baumgärtel in Düsseldorf, seit der Gründung im Jahr 2002 tätig in der Hochbauplanung.",
+    "gegruendet": 2002,
+    "email": "AB_Baumgaertel@outlook.de",
+    "telefon": "0173 7425419",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Senftenberger Weg 11 a",
+          "40627 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "team": [
+    {
+      "name": "Ralph Baumgärtel",
+      "rolle": "Dipl.-Ing., Inhaber",
+      "partner": true,
+      "bio": "Geboren am 06.10.1962 in Essen. Studium an der RWTH Aachen von 1984 bis 1991, Diplom 1991, daneben diverse Praktika, unter anderem mehrere Monate in Prag. Anschließend Mitarbeit in Düsseldorfer Architekturbüros, zuletzt mit Projektleitung, bevor er 2002 sein eigenes Büro gründete. Pflichtmitglied in der Architektenkammer NRW."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 1962,
+      "text": "Ralph Baumgärtel wird am 06.10.1962 in Essen geboren."
+    },
+    {
+      "jahr": 1984,
+      "text": "Beginn des Studiums an der RWTH Aachen (1984–1991), begleitet von diversen Praktika, unter anderem mehrere Monate in Prag."
+    },
+    {
+      "jahr": 1991,
+      "text": "Diplom an der RWTH Aachen; anschließend Mitarbeit im Architekturbüro Kowalski, Düsseldorf (1991–1994)."
+    },
+    {
+      "jahr": 1994,
+      "text": "Mitarbeit im Architekturbüro Petzinka, Pink + Partner, Düsseldorf (1994–1996), Projekt „Das Düsseldorfer Stadttor“."
+    },
+    {
+      "jahr": 1996,
+      "text": "Mitarbeit und Projektleitung im Architekturbüro Jansen, Ergoecmen & Partner, Düsseldorf (1996–2002)."
+    },
+    {
+      "jahr": 2002,
+      "text": "Gründung des eigenen Architekturbüros in Düsseldorf."
+    }
+  ],
+  "demo": {
+    "fuer": "Architekturbüro Baumgärtel",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://ab-baumgaertel.de/",
+    "seiten": [
+      "http://ab-baumgaertel.de/",
+      "https://www.ab-baumgaertel.de/impressum/",
+      "http://www.ab-baumgaertel.de/impressum/",
+      "https://www.ab-baumgaertel.de/about-us/"
+    ],
+    "erstellt": "2026-10-13T12:01:16.894Z"
+  }
+}
