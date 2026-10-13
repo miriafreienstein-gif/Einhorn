@@ -1,0 +1,332 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "Telluride Architektur",
+    "beschreibung": "Architektur und Generalplanung für Forschung, Bildung und Gesundheit",
+    "haltung": "Wir sind eine interdisziplinäre Gemeinschaft von Denker:innen, Macher:innen und Spezialist:innen: Unser Erfolg sind intelligente und nachhaltige Gebäude, ein ressourcenschonender Workflow sowie gleichermaßen zufriedene Nutzergruppen, Bauherr:innen, Projektbeteiligte und Mitarbeiter:innen. Respekt und Wertschätzung für alle Projektbeteiligten bilden das Fundament, Mut, Humor, Professionalität und Verbindlichkeit prägen unsere Zusammenarbeit.",
+    "intro": "Von unseren Standorten in Berlin, Düsseldorf und München aus entwerfen und realisieren wir mit rund 130 Architekt:innen innovative Forschungs-, Bildungs- und Gesundheitswelten für Menschen und Institutionen in ganz Europa.",
+    "email": "info@telluride-architektur.de",
+    "telefon": "+49 211 86704-0",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Immermannstr. 43",
+          "40210 Düsseldorf"
+        ]
+      },
+      {
+        "stadt": "Berlin"
+      },
+      {
+        "stadt": "München"
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Klinikum Landsberg",
+      "ort": "Landsberg",
+      "status": "in Planung",
+      "flaeche": 16000,
+      "bauherr": "Klinikum Landsberg",
+      "kurz": "Das Klinikum Landsberg steht bereits heute für hohe Aufenthaltsqualität in hervorragender Lage. Der von uns geplante Funktionsneubau erweitert den Bestand auf dem Weg zu einem innovativen und zukunftsfähigen Gesundheitscampus für die gesamte Region.",
+      "kapitel": [
+        {
+          "titel": "Konzept",
+          "text": "Entstehen wird ein dreigeschossiger Neubau mit rund 7.000 m² Nutzfläche, gleichzeitig werden freiwerdende Bereiche im Bestandsgebäude umgebaut. Eine zentrale Magistrale zwischen Bestandsgebäude und neuem Funktionsbau vernetzt Notfallmedizin und Radiologie eng miteinander und bindet den Hubschrauberlandeplatz direkt an."
+        },
+        {
+          "titel": "Räume",
+          "text": "Das Erdgeschoss agiert als Sockel mit der Behandlungsebene, darüber liegen die Patient:innenzimmer rechts und links der Magistrale. Über das großzügige Atrium gelangen Patient:innen und Besucher:innen auf kurzen Wegen in die Funktionseinheiten. Lichtdurchflutete Innenhöfe dienen der Orientierung, umlaufende Balkone verbinden jedes Zimmer mit dem grünen Außenraum. Das vergrößerte Mutter-Kind-Zentrum legt einen Schwerpunkt auf Neonatologie sowie Kinder- und Jugendmedizin."
+        },
+        {
+          "titel": "Technik und Energie",
+          "text": "Die gesamte Technik ist in den Untergeschossen untergebracht, mit direkter Anbindung an die OP-Säle im Erdgeschoss. Das Dach ist flächendeckend mit Photovoltaik ausgestattet; die gewonnene Energie kommt dem gesamten Gesundheitscampus zugute."
+        },
+        {
+          "titel": "Stand",
+          "text": "In der Planung schreiten wir intensiv voran und erreichen nun die dritte Leistungsphase. Der Baubeginn ist für 2026 vorgesehen."
+        }
+      ],
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/Startseite_TELLURIDE_HOSPITAL_LANDSBERG_AM_LECH_FALL-1-1800x1013.jpg",
+        "https://telluride-architektur.de/wp-content/uploads/FINAL_BTB_TELLURIDE_HOSPITAL_LANDSBERG_AM_LECH_FALL_2560x1140px-1800x1013.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Mechatronic Engineering und Computer Science & Engineering Nürnberg",
+      "ort": "Nürnberg",
+      "typologie": "Bildung",
+      "flaeche": 19700,
+      "bauherr": "Staatliches Bauamt Erlangen-Nürnberg",
+      "kurz": "Der Campus der neu gegründeten University of Technology in Nürnberg (UTN) wird zukünftig ca. 6.000 Studierenden eine hochqualifizierte Bildungsumgebung bieten. Die Neubauten Mechatronic Engineering (ME) und Computer Science & Engineering (CSE) sind zwei der fünf Gründungsgebäude.",
+      "kapitel": [
+        {
+          "titel": "Anordnung",
+          "text": "Beide Neubauten orientieren sich mit ihren Lehr- und Lernflächen zur grünen Campusmitte im Westen, Labore und Büros liegen entlang der Nord- und Südseiten. Eine Brücke zwischen den Gebäuden betont den interdisziplinären Charakter der Departements."
+        },
+        {
+          "titel": "Nutzung",
+          "text": "Das ME-Gebäude umfasst technisch-physikalische Gerätelabore und eine Versuchshalle; die zentrale Wissenstreppe prägt mit ihren Kommunikationsflächen Innenraum und Erscheinungsbild. Das CSE-Gebäude konzentriert sich auf Software- und Hardwareentwicklung sowie kleinteilige Versuchsaufbauten in der Bildbearbeitung und -erkennung, mit flexibel anpassbaren Büro- und Laborflächen."
+        },
+        {
+          "titel": "Fassade und Material",
+          "text": "Die Fassaden – beim ME in hell naturbelassenem, beim CSE in dunkel gebeiztem Holz – verbinden die Baukörper zu einem Ensemble. Ein vorgestelltes Rankgerüst mit bodengebundenen Rankgewächsen und geschossweise angeordneten Pflanztrögen greift die Grüne Mitte des autofreien Campus auf und beschattet natürlich. Wo die Anforderungen es erlauben, kommt eine ressourcenschonende Holzskelettbauweise zum Einsatz, in Bereichen mit hohen Brandschutz- oder Schwingungsanforderungen wird Recyclingbeton angestrebt."
+        },
+        {
+          "titel": "Generalplanerteam",
+          "text": "Die Planung erfolgt im Generalplanerteam mit LORENZ engineering, R&P RUFFERT, Wolfgang Sorge, NEES-Ingenieure und Landschaftsarchitekt Alexander Over. Besonderheit: BNB Silber."
+        }
+      ],
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/TEA_BTB_TELLURIDE_UTN_NUeRNBERG_BLACKWHITE-1800x1013.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Klinik Ottakring",
+      "ort": "Wien",
+      "status": "Wettbewerb",
+      "flaeche": 28000,
+      "bauherr": "Wiener Gesundheitsverbund",
+      "kurz": "Der Gesundheitscampus Klinik Ottakring ist ein zentrales Projekt für die medizinische Versorgung im Westen Wiens. Wir haben uns am Realisierungswettbewerb zur Neugestaltung der Klinik beteiligt.",
+      "kapitel": [
+        {
+          "titel": "Ort",
+          "text": "Ziel des Entwurfs ist eine zeitgemäße, funktionale und städtebaulich integrierte Klinik, die sowohl den denkmalgeschützten Bestand als auch den angrenzenden Wiener Wald berücksichtigt. Ein neu geschaffener Quartiersplatz und die zweigeschossige Eingangshalle bilden das Bindeglied zwischen Stadt und Natur."
+        },
+        {
+          "titel": "Gebäude",
+          "text": "Das Klinikgebäude erhält eine klar strukturierte horizontale Gliederung: Ein zweigeschossiger Sockel bildet die Basis, darauf liegen die Pflegebereiche und der Mittelbau für Mitarbeitende. Die Fassade zeigt ein Wechselspiel von Volumen und Kanten, das sich an der benachbarten Blockrandbebauung orientiert."
+        },
+        {
+          "titel": "Nachhaltigkeit und Stadtleben",
+          "text": "Die horizontale Schichtung ermöglicht eine einfache Erweiterbarkeit der Pflegegeschosse. Das Ensemble integriert den historischen Pavillon auf dem Vorplatz, der durch eine neue öffentliche Nutzung, etwa als Café, belebt wird."
+        },
+        {
+          "titel": "Partner",
+          "text": "Zusammenarbeit mit Thomas Lorenz ZT GmbH, ZFG ALTHERM Engineering (ARGE) sowie Uniola Landschaftsarchitektur | Stadtplanung, GFKD Koblenz-Montabaur Oliver Hösch und DR. PFEILER GmbH."
+        }
+      ],
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/TELLURIDE_Ottakring-2nd-Phase_View-06_Kiasm-1800x1013.jpg"
+      ]
+    },
+    {
+      "titel": "Fördeklinikum Katharinen-Hospital Flensburg",
+      "ort": "Flensburg",
+      "status": "Wettbewerb",
+      "flaeche": 244000,
+      "bauherr": "Diako Krankenhaus gGmbH & Malteser Norddeutschland gGmbH",
+      "kurz": "Für das neue Katharinen-Hospital auf dem Areal Peelwatt in Flensburg war ein identitätsstiftender Gesundheitscampus gefragt – ein Ort, der Medizin, Stadtstruktur und Natur in einem sozialen Gefüge zusammenführt.",
+      "kapitel": [
+        {
+          "titel": "Entwurf",
+          "text": "Unser städtebaulicher Wettbewerbsentwurf (2. Rundgang) greift die landschaftlichen Gegebenheiten auf: die Förde von Flensburg, die Biotope der umliegenden Landschaft und die historische Struktur der Altstadt. Pflegevolumen folgen dem Küstenverlauf, durchgrünte Dächer, Arkaden und eine kleinteilige Kubatur schaffen ein menschliches Maß."
+        },
+        {
+          "titel": "Campus",
+          "text": "Herzstück ist der „Katharinenplatz“ als Sinnbild für das Zusammenwachsen zweier Kliniken. Das Klinikum bildet das funktionale Zentrum – einschließlich Psychiatrie, Parkhaus, Ärztehaus mit integrierten Tageskliniken sowie einer Kita für Mitarbeiter. Reha, Pflege, Boarding House und weitere Einrichtungen gliedern sich in ein urbanes Ensemble."
+        },
+        {
+          "titel": "Freiraum",
+          "text": "Landschaftsökologische Korridore, begrünte Dächer und ein zentraler Platz am Wasser fördern Klimaresilienz und Aufenthaltsqualität. Der Marktplatz „van't Leven“ mit Café, Läden und sozialen Treffpunkten stärkt die nachbarschaftliche Vernetzung."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "mental health Campus Niedersachsen Göttingen",
+      "ort": "Göttingen",
+      "kurz": "In der Region Niedersachsen ist die psychiatrische Versorgung auf mehrere Standorte verteilt, bei denen jährlich über 150.000 Patient:innen behandelt werden. Mit dem Asklepios mental health Campus Niedersachsen entsteht ein Psychiatrie-Campus, der die Gesundheitsversorgung in der Region langfristig sichert. Telluride Architektur hat in einer Arbeitsgemeinschaft mit White Arkitekter den Zuschlag erhalten.",
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/MHC-Goettingen_ARGE-Telluride-Architektur-GmbH-und-White-arkitekter-AB_wwweb_01-1800x1350.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Campus Forschung II und Hamburg Center for Translational Immunology",
+      "ort": "Hamburg",
+      "status": "realisiert",
+      "kurz": "Der Neubau Campus Forschung II (CF II) und Hamburg Center for Translational Immunology (HCTI) für die medizinische Fakultät des Universitätsklinikums Hamburg-Eppendorf verbindet nachhaltige Bauweise mit regionaler Identität und ist seit dem vergangenen Jahr in Betrieb.",
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/Telluride_UKE_Hamburg_001-1800x1013.jpg"
+      ]
+    },
+    {
+      "titel": "Der Simulierte Mensch Berlin",
+      "ort": "Berlin",
+      "status": "realisiert",
+      "fotograf": "Werner Huthmacher",
+      "kurz": "Interdisziplinär, öffentlich, zukunftsweisend: Am 22. April wurden die beiden Forschungszentren „Der Simulierte Mensch“ (Si-M) und das „Berlin Center for Advanced Therapies“ (BeCAT) feierlich eröffnet.",
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/Telluride-Berlin-Si-M-Blick-Fenster-web-Huthmacher-1-1800x1013.jpg",
+        "https://telluride-architektur.de/wp-content/uploads/Telluride-Berlin-Si-M-Innen-5b-web-Huthmacher-1800x1013.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Chemie und Chemische Biologie Dortmund",
+      "ort": "Dortmund",
+      "bauherr": "BLB NRW",
+      "kurz": "In direkter Nachbarschaft zu den naturwissenschaftlichen Instituten der TU Dortmund wächst ein neues Zentrum für Forschung und Lehre, das Chemie und Chemische Biologie räumlich und funktional vernetzt. Der BLB NRW realisiert als Bauherr:in das Gebäude FWW 3 – ein Projekt, das Flexibilität und Zukunftsfähigkeit in den Mittelpunkt stellt.",
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/Website_FWW3_CCB_Aussen_1-1436x1800.jpg",
+        "https://telluride-architektur.de/wp-content/uploads/BILD-CCBbea_26031114-1-1800x1013.jpg"
+      ]
+    },
+    {
+      "titel": "Leibniz-Institut für Photonische Technologien",
+      "ort": "Jena",
+      "status": "im Bau",
+      "bauherr": "Leibniz-Institut für Photonische Technologien (Leibniz-IPHT)",
+      "kurz": "Auf dem Beutenberg-Campus in Jena entsteht ein neues Forschungsgebäude für das Leibniz-Institut für Photonische Technologien. Der feierliche Spatenstich fand am 10. September 2025 statt.",
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/TELLURIDE_Leibniz-IPHT_KI-Kollage-Kopie5bearbeitet-1800x1800.jpg"
+      ]
+    },
+    {
+      "titel": "Zentrales Institut des Sanitätsdienstes der Bundeswehr Kiel",
+      "ort": "Kiel",
+      "kurz": "In einer Zeit, in der Sicherheit und Stabilität in Europa wieder in den Fokus rücken, gewinnt dieses Projekt für die Bundeswehr besondere Bedeutung: Es zeigt, wie essenziell eine leistungsfähige medizinische Infrastruktur für diejenigen ist, die sich täglich für unsere Sicherheit einsetzen.",
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/Kronshagen-ZISB_-02_Kiasm_2560x1440px_web-1-1800x1013.jpg",
+        "https://telluride-architektur.de/wp-content/uploads/Kronshagen-ZISB_View-03_Kiasm.jpg"
+      ]
+    },
+    {
+      "titel": "Institut für Satellitengeodäsie und Inertialsensorik Hannover",
+      "ort": "Hannover",
+      "bauherr": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
+      "kurz": "Das DLR plant für das Institut für Satellitengeodäsie und Inertialsensorik (SI) einen Neubau in Hannover – einen Standort für Spitzenforschung in Quantentechnologien. Telluride Architektur hat den Zuschlag für dieses Bauvorhaben erhalten.",
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/SIDLR_Render_Aussen_Final-1800x1013.jpg"
+      ]
+    },
+    {
+      "titel": "HECO Heidelberg",
+      "ort": "Heidelberg",
+      "kurz": "Die Universität Heidelberg und das Universitätsklinikum Heidelberg planen gemeinsam einen neuen Gebäudekomplex, der das HEalth + LIfe science X-research (HELIX) einschließlich des Helmholtz-Instituts für Translationale Angio-Cardio-Science (HI-TAC) sowie das CardiOMETabolicum (COMET) beherbergen wird.",
+      "bilder": []
+    },
+    {
+      "titel": "Filderklinik Plus",
+      "status": "Wettbewerb",
+      "kurz": "Im geladenen Wettbewerb „Neubau Filderklinik Plus“ hat Telluride Architektur den 2. Preis erhalten – gemeinsam mit dem ARGE-Partner Architektur Consult ZT GmbH.",
+      "bilder": [
+        "https://telluride-architektur.de/wp-content/uploads/TELLURIDE_WBW-Filderstadt_02_Header-1800x1024.jpg"
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "Antje Feiter",
+      "rolle": "Geschäftsführende Gesellschafterin",
+      "partner": true
+    },
+    {
+      "name": "Rüdiger Haasis",
+      "rolle": "Geschäftsführender Gesellschafter",
+      "partner": true
+    },
+    {
+      "name": "Joel Hahn",
+      "rolle": "Geschäftsführender Gesellschafter",
+      "partner": true
+    },
+    {
+      "name": "Hubert Juranek",
+      "rolle": "Geschäftsführender Gesellschafter",
+      "partner": true
+    },
+    {
+      "name": "Johannes Kresimon",
+      "rolle": "Geschäftsführender Gesellschafter",
+      "partner": true
+    },
+    {
+      "name": "Sonja Gasteyer",
+      "rolle": "Leitung Kaufmännisches Projektmanagement, Partnerin",
+      "partner": true
+    },
+    {
+      "name": "Maren Kreft",
+      "rolle": "Standortleitung München, Partnerin",
+      "partner": true
+    },
+    {
+      "name": "Kristian Lehmann",
+      "rolle": "Leitung Baumanagement, Partner",
+      "partner": true
+    },
+    {
+      "name": "Sarai Metten",
+      "rolle": "Leitung Design Studio, Partnerin",
+      "partner": true
+    },
+    {
+      "name": "Daniel Resch",
+      "rolle": "Leitung Controlling & ITG, Partner",
+      "partner": true
+    },
+    {
+      "name": "Kathi Weber",
+      "rolle": "Standortleitung Berlin, Partnerin",
+      "partner": true
+    }
+  ],
+  "auszeichnungen": [
+    {
+      "name": "2. Preis, geladener Wettbewerb „Neubau Filderklinik Plus“",
+      "projekt": "Filderklinik Plus"
+    },
+    {
+      "name": "3. Platz im Wettbewerb",
+      "projekt": "Klinik Hietzing"
+    }
+  ],
+  "journal": [
+    {
+      "titel": "Spatenstich für das Leibniz-Institut für Photonische Technologien in Jena",
+      "datum": "2025-09-10",
+      "kategorie": "News",
+      "text": "Das Leibniz-Institut für Photonische Technologien (Leibniz-IPHT) hat am 10. September 2025 mit einem feierlichen Spatenstich den Bau eines neuen Forschungsgebäudes auf dem Beutenberg-Campus in Jena begonnen. Gemeinsam setzten Vertreter:innen aus Politik, Wissenschaft und Architektur den ersten Spatenstich – unter ihnen der Ministerpräsident des Freistaats Thüringen, Prof. Dr. Mario Vogt, der Oberbürgermeister der Stadt Jena, Dr. Thomas Nitzsche, der Vizepräsident der FSU Jena, Prof. Dr. Thomas Pertsch, sowie der Wissenschaftliche Direktor des Leibniz-IPHT, Prof. Dr. Jürgen Popp."
+    },
+    {
+      "titel": "Eröffnung: Der Simulierte Mensch (Si-M) und Berlin Center for Advanced Therapies (BeCAT)",
+      "kategorie": "News",
+      "text": "Am 22. April wurden die beiden Forschungszentren „Der Simulierte Mensch“ (Si-M) und das „Berlin Center for Advanced Therapies“ (BeCAT) feierlich eröffnet. Vor Vertreter:innen aus Wissenschaft, Gesundheit und Politik – darunter Bundesministerin Dorothee Bär sowie Dr. Ina Czyborra von der Berliner Senatsverwaltung für Wissenschaft, Gesundheit und Pflege – wurde die Bedeutung des Projekts unterstrichen."
+    },
+    {
+      "titel": "Zuschlag für den mental health Campus Niedersachsen in Göttingen",
+      "kategorie": "News",
+      "text": "Telluride Architektur hat in einer Arbeitsgemeinschaft mit White Arkitekter den Zuschlag für den Asklepios mental health Campus Niedersachsen erhalten. Es entsteht ein Psychiatrie-Campus, der die Gesundheitsversorgung in der Region langfristig sichert."
+    },
+    {
+      "titel": "Zuschlag für den Neubau des Instituts für Satellitengeodäsie und Inertialsensorik in Hannover",
+      "kategorie": "News",
+      "text": "Das Deutsche Zentrum für Luft- und Raumfahrt e.V. (DLR) plant für das Institut für Satellitengeodäsie und Inertialsensorik (SI) einen Neubau in Hannover. Telluride Architektur hat den Zuschlag für dieses Bauvorhaben erhalten."
+    }
+  ],
+  "demo": {
+    "fuer": "Telluride Architektur",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.telluride-architektur.de/",
+    "seiten": [
+      "http://www.telluride-architektur.de/",
+      "https://telluride-architektur.de/de/impressum/",
+      "https://telluride-architektur.de/de/projekt/",
+      "https://telluride-architektur.de/de/team/",
+      "https://telluride-architektur.de/de/projekt/klinikum-landsberg/",
+      "https://telluride-architektur.de/de/projekt/campus-technische-universitaet-nuernberg-mechatronic-engineering-und-computer-science-engineering-utn-nuernberg/",
+      "https://telluride-architektur.de/de/projekt/klinik-ottakring-gesamtentwicklung/",
+      "https://telluride-architektur.de/de/projekt/2-rundgang-foerdeklinikum-katharinen-hospital-flensburg/"
+    ],
+    "erstellt": "2026-10-13T11:55:30.343Z"
+  }
+}
