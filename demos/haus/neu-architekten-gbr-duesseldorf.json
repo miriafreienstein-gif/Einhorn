@@ -1,0 +1,91 @@
+{
+  "firma": {
+    "name": "neu architekten GbR",
+    "kurz": "Elazzabi",
+    "ort": "Düsseldorf",
+    "seit": 2023,
+    "email": "info@neuarchitekten.de",
+    "telefon": "+49 172 3724316",
+    "adresse": [
+      "Hoffeldstraße 62",
+      "40235 Düsseldorf"
+    ]
+  },
+  "haltung": "Unser Anspruch ist es, Architektur mit Klarheit, Verantwortung und einem Verständnis für den gesamten Prozess zu entwickeln. Dabei vereint unser Team unterschiedliche kulturelle Hintergründe, Perspektiven und Erfahrungen – eine Vielfalt, die unsere Zusammenarbeit und unseren Blick auf Architektur prägt.",
+  "projekte": [
+    {
+      "titel": "Bagelstraße",
+      "ort": "Düsseldorf",
+      "jahr": 2024,
+      "typ": "Wohnen",
+      "text": "Hochwertiger Wohnungsbau in zentraler Lage von Düsseldorf-Pempelfort, der den bestehenden Gebäudebestand behutsam weiterentwickelt und zeitgemäß interpretiert. neu architekten verantworteten die Ausführungsplanung sowie die Entwicklung unterschiedlicher Fassadenvarianten.",
+      "bilder": [
+        "https://neuarchitekten.de/media/pages/projekte/bagelstrasse/99580e7150-1784283561/perspektive-ganz.jpg",
+        "https://neuarchitekten.de/media/pages/projekte/bagelstrasse/99580e7150-1784283561/perspektive-ganz-1536x1152-crop-q80.jpg"
+      ]
+    },
+    {
+      "titel": "Solingen Alter Bahnhof",
+      "ort": "Solingen",
+      "jahr": 2025,
+      "typ": "Projekt",
+      "text": "1. Preis beim Investorenwettbewerb: gemeinsam mit Gerlich Architektur Städtebau entwickelter Entwurf für den denkmalgeschützten Alten Bahnhof Solingen.",
+      "bilder": [
+        "https://neuarchitekten.de/media/pages/projekte/solingen-alter-bahnhof/088051926b-1784283561/bahnhof-rendering-komprimiert.jpg",
+        "https://neuarchitekten.de/media/pages/projekte/solingen-alter-bahnhof/088051926b-1784283561/bahnhof-rendering-komprimiert-1536x1152-crop-q80.jpg"
+      ]
+    },
+    {
+      "titel": "Giraffenhaus Kölner Zoo",
+      "ort": "Köln",
+      "jahr": 2024,
+      "typ": "Projekt",
+      "text": "Bauleitung für die Kernsanierung des Giraffenhauses im Kölner Zoo.",
+      "bilder": []
+    },
+    {
+      "titel": "Dom Carré",
+      "jahr": 2024,
+      "flaeche": 18260,
+      "typ": "Hotel",
+      "text": "Revitalisierung eines Ensembles auf rund 18.260 m² mit einem Hotel mit 130 Zimmern und Suiten sowie Einzelhandelsflächen.",
+      "bilder": [
+        "https://neuarchitekten.de/media/pages/projekte/dom-carre/d815ec4766-1784283561/titelbild-dom-carre.jpg",
+        "https://neuarchitekten.de/media/pages/projekte/dom-carre/d815ec4766-1784283561/titelbild-dom-carre-1536x1536-crop-q80.jpg"
+      ]
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Planung",
+      "text": ""
+    },
+    {
+      "titel": "Bauleitung",
+      "text": "Begleitung der Baustelle bis zur Übergabe."
+    }
+  ],
+  "demo": {
+    "fuer": "neu architekten GbR",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://neuarchitekten.de/",
+    "seiten": [
+      "https://neuarchitekten.de/",
+      "https://neuarchitekten.de/impressum",
+      "https://neuarchitekten.de/projekte",
+      "https://neuarchitekten.de/team",
+      "https://neuarchitekten.de/projekte/bagelstrasse",
+      "https://neuarchitekten.de/projekte/solingen-alter-bahnhof",
+      "https://neuarchitekten.de/projekte/giraffenhaus",
+      "https://neuarchitekten.de/projekte/dom-carre"
+    ],
+    "erstellt": "2026-10-13T11:57:30.508Z",
+    "abgeleitetAus": "demos/architektur/neu-architekten-gbr-duesseldorf.json"
+  }
+}
