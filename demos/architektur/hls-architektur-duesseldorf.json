@@ -1,0 +1,75 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "HLS Architektur",
+    "beschreibung": "Architektur, Planung und Genehmigung",
+    "haltung": "Jedes Projekt erzählt seine eigene Geschichte und bringt eigene Herausforderungen mit – dafür nehme ich mir Zeit. Der Fokus liegt auf dem Bestand, auf klaren Planungen und auf Räumen, in denen Menschen wirklich zu Hause sind.",
+    "intro": "HLS Architektur ist das Büro von Hannah Luise Schneider in Düsseldorf, seit 2023 selbstständig tätig in Bestand, Planung und Genehmigung.",
+    "gegruendet": 2023,
+    "email": "info@hls-architektur.de",
+    "telefon": "+49 160 1090544",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Dorotheenstraße 83c",
+          "40235 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "team": [
+    {
+      "name": "Hannah Luise Schneider",
+      "rolle": "Architektin (M.A.), Inhaberin",
+      "partner": true,
+      "bio": "Hannah Luise Schneider lebt und arbeitet in Düsseldorf. Nach dem Masterabschluss in Architektur (2021) arbeitete sie als Innenarchitektin und Store Designerin und sammelte anschließend Erfahrung in der Immobilienbranche als Maklerin. Heute verbindet sie Architektur, Interior und Immobilien in ihrer selbstständigen Tätigkeit; als Architektin liegt ihr Fokus auf Bestand, Planung und Genehmigung. Sie ist Mitglied der Architektenkammer Nordrhein-Westfalen und dort als Architektin eingetragen."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 2014,
+      "text": "Nebentätigkeit im Architekturbüro Schneider in Idar-Oberstein (seit 2014)."
+    },
+    {
+      "jahr": 2016,
+      "text": "Exkursion nach Marokko: Casablanca, Marrakech, Ouarzazate, Zagora."
+    },
+    {
+      "jahr": 2017,
+      "text": "Exkursion nach Spanien: Granada, Málaga, Córdoba, Sevilla, Cádiz."
+    },
+    {
+      "jahr": 2020,
+      "text": "Bachelor of Arts Architektur (B.A.); Nebentätigkeit im Architekturbüro Knorn in Heidelberg."
+    },
+    {
+      "jahr": 2021,
+      "text": "Master of Arts Architektur (M.A.)."
+    },
+    {
+      "jahr": 2022,
+      "text": "Junior Managerin Store Design bei Peek & Cloppenburg (2022–2023)."
+    },
+    {
+      "jahr": 2023,
+      "text": "Gründung von HLS Architektur als selbstständige Architektin; Immobilienmaklerin bei der PlanetHome Group GmbH."
+    }
+  ],
+  "demo": {
+    "fuer": "HLS Architektur",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://www.hls-architektur.de/",
+    "seiten": [
+      "https://www.hls-architektur.de/",
+      "https://www.hls-architektur.de/impressum",
+      "https://www.hls-architektur.de/leistungen-1",
+      "https://www.hls-architektur.de/philosophie",
+      "https://www.hls-architektur.de/über-mich"
+    ],
+    "erstellt": "2026-10-13T12:03:13.342Z"
+  }
+}
