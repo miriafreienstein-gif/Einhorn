@@ -1,0 +1,67 @@
+{
+  "firma": {
+    "name": "leckelt architekten",
+    "kurz": "Leckelt",
+    "ort": "Düsseldorf",
+    "email": "info@leckelt-architekten.de",
+    "telefon": "+49 211 99452899",
+    "adresse": [
+      "Volmerswerther Straße 388",
+      "40221 Düsseldorf"
+    ]
+  },
+  "haltung": "Klare Linien, klare Haltung: Wir verstehen Architektur als integrativen Prozess, der Räume schafft, Werte erhält und Zukunft gestaltet. Präzision, Leidenschaft und individuelle Konzepte prägen jedes Projekt.",
+  "projekte": [
+    {
+      "titel": "Sedus Showroom Düsseldorf",
+      "ort": "Düsseldorf",
+      "typ": "Gewerbe",
+      "text": "Umwandlung einer bestehenden Bürofläche in einen Showroom für die Firma Sedus, der zugleich für Veranstaltungen und Kundentermine genutzt wird.",
+      "bilder": []
+    },
+    {
+      "titel": "Kindertagesstätte Niederkassel",
+      "ort": "Niederkassel",
+      "typ": "Bildung",
+      "text": "Halbrunder Baukörper, der Kinder mit einer offenen, schützenden Geste empfängt und großzügige Gruppenräume mit hoher Raumqualität zum Garten öffnet.",
+      "bilder": []
+    },
+    {
+      "titel": "Pflegewohnen mehrere Standorte",
+      "typ": "Wohnen",
+      "text": "Die Projekte vereinen unterschiedliche Wohn- und Betreuungsformen in einem stimmigen Gesamtkonzept: solitäre Kurzzeitpflege, stationäre Pflege und altersgerechtes Servicewohnen.",
+      "bilder": [
+        "https://leckelt-architekten.de/wp-content/uploads/2025/09/KI-Bild-Pflege-1-2048x1148.png"
+      ]
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Innenarchitektur",
+      "text": "Räume, Licht und Materialien aus einer Hand."
+    }
+  ],
+  "demo": {
+    "fuer": "leckelt architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.leckelt-architekten.de/",
+    "seiten": [
+      "http://www.leckelt-architekten.de/",
+      "https://leckelt-architekten.de/impressum/",
+      "https://leckelt-architekten.de/buero/",
+      "https://leckelt-architekten.de/projekte/",
+      "https://leckelt-architekten.de/leistungen/",
+      "https://leckelt-architekten.de/projekte/sedus-showroom-duesseldorf/",
+      "https://leckelt-architekten.de/projekte/kindertagesstaette-niederkassel/",
+      "https://leckelt-architekten.de/projekte/pflegewohnen-mehrere-standorte/"
+    ],
+    "erstellt": "2026-10-13T10:41:15.440Z",
+    "abgeleitetAus": "demos/architektur/leckelt-architekten-duesseldorf.json"
+  }
+}
