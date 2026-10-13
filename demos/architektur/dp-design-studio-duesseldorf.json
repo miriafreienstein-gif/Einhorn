@@ -1,0 +1,199 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "DP Design Studio",
+    "beschreibung": "Architecture & Interior",
+    "haltung": "Gute Architektur entsteht aus Freude und Leidenschaft an der Arbeit. Im kooperativen Planungsprozess mit den Bauherren entstehen zeitgemäße Architekturkonzepte auf Basis kundenspezifischer Ziele und klar definierter Parameter.",
+    "intro": "Architekturbüro in Düsseldorf für Architektur und Innenarchitektur, gegründet 2020.",
+    "gegruendet": 2020,
+    "email": "dajana@dpdesignstudio.de",
+    "telefon": "+49 178 1869079",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Elsa-Brändström-Straße 31",
+          "40595 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Abriss und Neubau EFH Rommerskirchen",
+      "ort": "Rommerskirchen",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2023,
+      "typologie": "Einfamilienhaus",
+      "status": "in Planung",
+      "kurz": "Rückbau eines technisch überholten Bestandsgebäudes und Planung eines Neubaus auf dem frei gewordenen Grundstück.",
+      "kapitel": [
+        {
+          "titel": "Bestand",
+          "text": "Aufgrund des erheblich überholten technischen Zustands des bestehenden Gebäudes wurde entschieden, dieses zurückzubauen. DP Design Studio erarbeitete hierzu die Abrissanzeige beim zuständigen Amt. Der Abriss ist fertiggestellt."
+        },
+        {
+          "titel": "Neubau",
+          "text": "Auf dem nun frei stehenden Grundstück von ca. 950 qm soll ein Neubau entstehen. Der Entwurf des Neubaus befindet sich derzeit in der Genehmigungsphase."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Umbauprojekt Ratingen",
+      "ort": "Ratingen",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2022,
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Modernisierung und Umbau einer Doppelhaushälfte in einer Wohnsiedlung in Ratingen bei Düsseldorf.",
+      "kapitel": [
+        {
+          "titel": "Umbau",
+          "text": "Durch den Abriss der bestehenden Treppenanlage in die obere Wohnetage ist die Nutzung einer lichtdurchfluteten Galerie möglich. Für die erforderliche neue Treppenanlage musste ein Deckendurchbruch hergestellt werden. Die Wangentreppe, eine Kombination aus Stahl und Holz, fügt sich in den modernen Wohnstil ein."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Dachausbau Düsseldorf",
+      "ort": "Düsseldorf",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2021,
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Das Dachgeschoss einer Doppelhaushälfte im Düsseldorfer Süden wird zu einer autarken, modernen Wohneinheit im bestehenden Gebäude umgebaut.",
+      "kapitel": [
+        {
+          "titel": "Raum und Licht",
+          "text": "Durch die Errichtung einer Dachgaube und einer Dachloggia wirkt das Dachgeschoss weitläufig und luftig. Die großzügige Falttür als Zugang auf die nach Süden gerichtete Dachloggia ermöglicht einen maximalen Lichteinfall in die Räumlichkeiten. Die Verbindung zwischen Innen- und Außenbereich schafft für die Bewohner eine angenehme Atmosphäre."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Anbau an ein EFH",
+      "ort": "Düsseldorf",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2021,
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "kurz": "Ein neues Raumkonzept für ein bestehendes Einfamilienhaus in Düsseldorf – mit kommunikativem Familienbereich im Erdgeschoss und Rückzugsmöglichkeiten in den oberen Etagen.",
+      "kapitel": [
+        {
+          "titel": "Erweiterung",
+          "text": "Das Erdgeschoss wird durch einen Anbau zum Garten erweitert. Dieser Anbau ermöglicht es, Koch-, Ess- und Wohnbereich miteinander zu kombinieren. Die großzügige Fensterfront des Anbaus schafft helle Räume und stellt den Bezug zum Außenbereich her."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Wohnkonzept \"Wohnen mit Kindern\"",
+      "ort": "Mülheim an der Ruhr",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2016,
+      "typologie": "Wohnen",
+      "status": "Wettbewerb",
+      "kurz": "Städtebauliche Planung von Neubauten auf einem ehemaligen Schulgelände in Mülheim an der Ruhr inklusive des Wohnkonzepts \"Wohnen mit Kindern\".",
+      "kapitel": [
+        {
+          "titel": "Städtebau",
+          "text": "Das städtebauliche Konzept beruht auf einem einheitlichen Strukturprinzip. Die Gebäudepositionierungen bilden Plätze sowie Straßen- und Freiräume."
+        },
+        {
+          "titel": "Nachbarschaft",
+          "text": "Zwei Gebäude im neuen Planungsgebiet bilden Wohnraum für ein nachbarschaftsfreundliches Zusammenleben von Familien mit Kindern. Die sich gegenüberliegenden Gebäude stärken die Kommunikation der Bewohner und bieten Raum für Austausch und soziales Miteinander."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Hochhausstudie Düsseldorf",
+      "ort": "Düsseldorf",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2017,
+      "typologie": "Wohnen",
+      "kurz": "Entwurf und Studie für die \"Düsseldorfer Heights\" auf dem Gelände des ehemaligen Hochschulcampus der Hochschule Düsseldorf.",
+      "kapitel": [
+        {
+          "titel": "Ausgangspunkt",
+          "text": "Mit der Rückkehr des Gebäudetypus \"Hochhaus\" in die baufachliche Diskussion der vergangenen Jahre hat sich das Feld für besondere Entwürfe erweitert. Das Gelände des ehemaligen Hochschulcampus der Hochschule Düsseldorf bietet Potenziale zur Realisierung eines Hochhausprojekts. Als Studie wurde das Gelände mit einem Entwurf der Düsseldorfer Heights bespielt, um die Hochhausdiskussion der Stadt weiter anzuregen."
+        },
+        {
+          "titel": "Entwurf",
+          "text": "Drei Hochhäuser unterschiedlicher Höhen stehen in Abhängigkeit zueinander auf dem Grundstück und eröffnen einen Ort zum Wohnen, Arbeiten und Verweilen. Der höchste Punkt des Hochhauskomplexes liegt auf 276 Metern. Durch das Abstufen der einzelnen Türme lösen sich diese nach oben hin auf und nehmen die vorgefundene, zerstreute städtebauliche Situation auf. Die Studie soll zeigen, dass deutsche Städte hohe Gebäude durchaus vertragen, ohne die städtebauliche Erscheinung negativ zu beeinflussen."
+        }
+      ],
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Dajana Piechulek",
+      "rolle": "Architektin, Inhaberin",
+      "partner": true,
+      "bio": "Geboren 1993 in Düsseldorf, aufgewachsen in einer Handwerkerfamilie. Studium an der Hochschule Düsseldorf / Peter Behrens School of Architecture mit dem Bachelor of Arts in Architecture and Interior Architecture (2012–2015) und dem Master of Arts in Architecture (2015–2017). Von 2017 bis 2019 angestellte Architektin bei Kieferle und Partner, Dubai Branch, in Dubai. Seit 2019 angestellte Architektin und Projektleiterin in Architekturbüros in Düsseldorf, seit 2020 mit dem eigenen DP Design Studio. Architektenleistungen in Deutsch, Englisch und Arabisch."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 2012,
+      "text": "Abitur am Gymnasium Koblenzer Straße."
+    },
+    {
+      "jahr": 2014,
+      "text": "Praktikum bei Kieferle und Partner, Dubai Branch, in Dubai."
+    },
+    {
+      "jahr": 2015,
+      "text": "Abschluss Bachelor of Arts in Architecture and Interior Architecture an der Hochschule Düsseldorf / Peter Behrens School of Architecture; Praktikum bei X-Architects, Dubai Branch."
+    },
+    {
+      "jahr": 2015,
+      "text": "Studentische Mitarbeit bei Schormann Architekten & Ingenieure in Düsseldorf (bis 2017)."
+    },
+    {
+      "jahr": 2017,
+      "text": "Abschluss Master of Arts in Architecture an der Hochschule Düsseldorf / Peter Behrens School of Architecture."
+    },
+    {
+      "jahr": 2017,
+      "text": "Angestellte Architektin bei Kieferle und Partner, Dubai Branch, in Dubai (bis 2019)."
+    },
+    {
+      "jahr": 2019,
+      "text": "Angestellte Architektin und Projektleiterin in Architekturbüros in Düsseldorf."
+    },
+    {
+      "jahr": 2020,
+      "text": "Gründung des DP Design Studio als Kleinunternehmen."
+    }
+  ],
+  "auszeichnungen": [
+    {
+      "jahr": 2014,
+      "name": "Zweiter Platz im Studentenwettbewerb \"WADOKYO CAMPUS\""
+    },
+    {
+      "jahr": 2015,
+      "name": "Endrunde des Studentenwettbewerbs \"Fitness in the BOX\""
+    }
+  ],
+  "demo": {
+    "fuer": "DP Design Studio",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.dpdesignstudio.de/",
+    "seiten": [
+      "http://www.dpdesignstudio.de/",
+      "http://www.dpdesignstudio.de/galerie",
+      "http://www.dpdesignstudio.de/über-uns"
+    ],
+    "erstellt": "2026-10-13T11:53:08.942Z"
+  }
+}
