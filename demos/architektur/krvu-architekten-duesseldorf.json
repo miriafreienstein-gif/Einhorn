@@ -1,0 +1,109 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "KRVU Architekten",
+    "beschreibung": "Architektur und Innenarchitektur",
+    "haltung": "Architektur ist kein Selbstzweck: Sie wird von Menschen für Menschen entworfen und muss sich im Laufe der Zeit entwickeln, an Veränderungen der Umgebung und an individuelle Bedürfnisse anpassen können. Wir streben eine Architektur an, die sich durch ein natürliches Zusammenspiel von Form, Funktion und Ästhetik auszeichnet.",
+    "intro": "KRVU Architekten ist ein 2025 gegründetes Büro für Architektur und Innenarchitektur in Düsseldorf.",
+    "gegruendet": 2025,
+    "email": "info@krvu-architekten.de",
+    "telefon": "+49 211 158 276 02",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Peter-Behrens-Straße 109a",
+          "40595 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "JK70 – Kettenhaus",
+      "ort": "Düsseldorf",
+      "jahr": 2026,
+      "typologie": "Wohnen",
+      "kurz": "Kettenhaus in Düsseldorf.",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Cafe Lib – Innenarchitektur",
+      "ort": "Düsseldorf",
+      "jahr": 2026,
+      "typologie": "Gewerbe",
+      "kurz": "Innenarchitektonische Planung für ein Café in Düsseldorf.",
+      "bilder": [
+        "https://krvu-architekten.de/wp-content/uploads/Interior-Render_Cafe.jpg",
+        "https://krvu-architekten.de/wp-content/uploads/Interior-Render_Cafe-2048x1421.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "E1 – Einfamilienhaus",
+      "ort": "Düsseldorf",
+      "jahr": 2025,
+      "typologie": "Einfamilienhaus",
+      "kurz": "Einfamilienhaus in Düsseldorf.",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Multicub – Möbelentwurf",
+      "ort": "Düsseldorf",
+      "jahr": 2024,
+      "kurz": "Möbelentwurf aus eigener Planung.",
+      "bilder": []
+    },
+    {
+      "titel": "P27 – Quartiersentwicklung",
+      "ort": "Aachen",
+      "jahr": 2020,
+      "kurz": "Quartiersentwicklung in Aachen.",
+      "bilder": []
+    },
+    {
+      "titel": "B51 – Mehrfamilienhaus mit Gewerbeeinheit",
+      "ort": "Aachen",
+      "jahr": 2019,
+      "typologie": "Wohnen",
+      "kurz": "Mehrfamilienhaus mit Gewerbeeinheit in Aachen.",
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Florian Kreutzer",
+      "rolle": "Architekt (M.Sc.) AKNW, Gesellschafter",
+      "partner": true,
+      "bio": "Geboren 1995 in Düsseldorf. Bachelorstudium ab 2015 an der RWTH Aachen, 2016 Auslandsstudium an der UNIPA Palermo, ab 2018 Masterstudium an der RWTH Aachen. 2021 Architekt bei studio. lisa winklhofer, 2023 Architekt bei der Ed. Züblin AG. 2025 Gründung von KRVU Architekten. Mitgliedsnummer AKNW: 110434."
+    },
+    {
+      "name": "Elisa Maura Vuono",
+      "rolle": "Architektin (LM-4 C.U.) AKNW, Gesellschafterin",
+      "partner": true,
+      "bio": "Geboren 1995 in Palermo (IT). Diplomstudium ab 2014 an der UNIPA Palermo, 2018 Auslandsstudium an der ENSA Nantes. 2020 Architektin bei der MWM Planungsgruppe, 2021 bei Hecker Architekten sowie bei Sieber Architekten. 2025 Gründung von KRVU Architekten. Mitgliedsnummer AKNW: 110454."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 2025,
+      "text": "Gründung von KRVU Architekten – Kreutzer Vuono Architekten GbR in Düsseldorf."
+    }
+  ],
+  "demo": {
+    "fuer": "KRVU Architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://krvu-architekten.de/",
+    "seiten": [
+      "https://krvu-architekten.de/",
+      "https://krvu-architekten.de/impressum/",
+      "https://krvu-architekten.de/buero/"
+    ],
+    "erstellt": "2026-10-13T10:51:52.437Z"
+  }
+}
