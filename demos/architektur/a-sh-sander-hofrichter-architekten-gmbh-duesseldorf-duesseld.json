@@ -1,0 +1,229 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "a|sh sander.hofrichter architekten GmbH",
+    "beschreibung": "Gesellschaft für Architektur und Generalplanung",
+    "haltung": "Heilen, lernen, forschen – dafür bauen wir: Architektur, die bei hoher Komplexität den menschlichen Bedürfnissen gerecht wird und sich zugleich der Baukultur verpflichtet fühlt. Soziale, wirtschaftliche und ökologische Aspekte führen wir mit den Besonderheiten des Ortes zusammen.",
+    "intro": "a|sh architekten planen und bauen von neun Standorten in Deutschland und der Schweiz aus – unter anderem von Düsseldorf aus – Kliniken, Bildungsbauten, Labore sowie weitere Bauten der sozialen Infrastruktur und öffentlichen Verwaltung.",
+    "email": "info@a-sh.de",
+    "telefon": "+49 621 586324400",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Berliner Allee 26",
+          "40212 Düsseldorf"
+        ]
+      },
+      {
+        "stadt": "Ludwigshafen/Rhein",
+        "adresse": [
+          "Wredestraße 35",
+          "67059 Ludwigshafen/Rhein"
+        ]
+      },
+      {
+        "stadt": "Zürich",
+        "adresse": [
+          "Holbeinstr. 34",
+          "CH – 8008 Zürich"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Realschule Donaueschingen",
+      "ort": "Donaueschingen",
+      "typologie": "Bildung",
+      "status": "realisiert",
+      "bauherr": "Stadt Donaueschingen",
+      "team": [
+        "ARGE mit hofmann_röttgen Landschaftsarchitekten BDLA"
+      ],
+      "kurz": "Auf einem Konversionsgelände der Stadt Donaueschingen entsteht eine Realschule für bis zu 1.000 Schülerinnen und Schüler. Das pädagogische Konzept der Clusterschule sieht für jeden Jahrgang Unterrichts- und Gruppenräume, Lernbereiche und Teamstationen für offenes Arbeiten vor.",
+      "kapitel": [
+        {
+          "titel": "Campus",
+          "text": "Der dreigeschossige Schulneubau bildet parallel zur Hangkante das bauliche Rückgrat des Ensembles, die Dreifeldsporthalle belegt die Raumkante zum Bürgerpark. Durch die ausgedrehte Sporthalle und die aus dem Schulgebäude herausgeschobene Mensa entsteht ein Schulcampus, der sich zur Umgebung öffnet und im Zentrum geschützte Pausenflächen bietet. Freitreppen binden die öffentlichen Parkbereiche an. Für die inklusive Schulgemeinschaft wurde ein durchgehendes, durch gezielte Tageslichtführung unterstütztes Leitsystem entwickelt, das eine intuitive und barrierefreie Orientierung ermöglicht."
+        },
+        {
+          "titel": "Gebäude",
+          "text": "Das Schulgebäude ist als dreigeschossiger, teilunterkellerter Riegel mit zwei Lichthöfen und einem verglasten Erdgeschoss konzipiert. Einschnitte rhythmisieren den Baukörper und markieren die Lerncluster in den Obergeschossen. Lamellen an Nord- und Südseite dienen als Blend- und Sonnenschutz – im Süden dem Sonnenstand folgend, im Norden feststehend. Die vorgehängten Betonfertigteilplatten der West- und Ostfassade finden sich auch an der Sporthalle wieder."
+        },
+        {
+          "titel": "Lerncluster",
+          "text": "Jedem Jahrgang steht ein Cluster aus fünf Klassenräumen, zwei Gruppenräumen und einem Rückzugsort zur Verfügung, ergänzt um Teamstation, Sanitäranlagen und Garderobe. Klassen- und Gruppenräume stehen in Sichtverbindung zu den offenen Lernbereichen, die über bodentief verglaste Lichthöfe natürlich belichtet werden. PC-/Tablet-Arbeitsbereiche, Leseecke und vielfältige Sitzmöglichkeiten schaffen eine Umgebung für individuelles Lernen."
+        }
+      ],
+      "bilder": [
+        "https://www.a-sh.de/fileadmin/_processed_/3/4/csm_Realschule-Donaueschingen-021_118e8b3fd0.jpg?_=1785236086"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Technische Hochschule Ostwestfalen-Lippe Lemgo",
+      "ort": "Lemgo",
+      "typologie": "Bildung",
+      "status": "realisiert",
+      "bauherr": "Bau- und Liegenschaftsbetrieb NRW",
+      "kurz": "Am Innovation Campus Lemgo, dem Hauptsitz der Technischen Hochschule Ostwestfalen-Lippe, entstanden zwei neue Laborgebäude für Forschung, Lehre und studentisches Arbeiten. Die Neubauten ersetzen ein Bestandsgebäude aus den 1970er Jahren.",
+      "kapitel": [
+        {
+          "titel": "Räume für Forschung und Lehre",
+          "text": "Die beiden Laborgebäude wurden gezielt auf dem Gelände positioniert, um bestehende Strukturen zu ergänzen und neue Bezüge innerhalb des Campus zu schaffen. Ein Gebäude liegt in der südwestlichen Ecke und ist über einen Verbindungsgang an das bestehende Laborgebäude angebunden, das zweite bildet in der nordöstlichen Ecke einen Bezugspunkt entlang des Hochschul-Boulevards."
+        },
+        {
+          "titel": "Haus 14 – Maschinenbau und Elektrotechnik",
+          "text": "Zweigeschossige Labore ermöglichen den Einsatz moderner Technologien und großformatiger Geräte. Eine rund 360 m² große Laborhalle mit flexiblem Raumkonzept lässt sich mit Gabelstaplern von außen befahren. Ergänzt wird das Raumprogramm durch Labor- und Werkstattflächen, Büros, Seminarräume sowie spezialisierte Bereiche wie ein Fahrzeug-Labor mit Rollenprüfstand und ein Maschinenmesstechnik-Labor."
+        },
+        {
+          "titel": "Haus 16 – Lebensmittel- und Life-Science-Technologien",
+          "text": "Hier entstanden Arbeitsräume für Forschung und Entwicklung, unter anderem teilweise gekühlte Laborflächen, ein zweigeschossiger Hörsaal und interdisziplinäre Aufenthaltsflächen. Mit einer Geschosshöhe von 5,5 Metern, einer flexiblen Pfosten-Riegel-Konstruktion und einem Stahlbeton-Skelettbau bietet das Gebäude Raum für zukünftige Entwicklungen."
+        },
+        {
+          "titel": "Technik und Betrieb",
+          "text": "Großzügige Flure ermöglichen den Transport von Maschinen und Geräten, Labore im Erdgeschoss können direkt über Rolltore beliefert werden. Die technische Gebäudeausrüstung wurde energieeffizient umgesetzt – unter anderem mit recycelter Foamglas-Dämmung unterhalb der Bodenplatte, feststehenden Sonnenschutz-Lamellen und einer partiellen Beheizung über das hochschuleigene Blockheizkraftwerk mit Kraft-Wärme-Kopplung."
+        }
+      ],
+      "bilder": [
+        "https://www.a-sh.de/fileadmin/_processed_/4/1/csm_DJI_20260519142642_0044_D_LEMGO.DNG_79b8585812.jpg?_=1784628581"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Katharinenhospital Stuttgart – Zentraler Neubau",
+      "ort": "Stuttgart",
+      "typologie": "Öffentlich",
+      "status": "realisiert",
+      "flaeche": 17000,
+      "bauherr": "Klinikum Stuttgart",
+      "kurz": "Mit dem Zentralen Neubau erhält das Katharinenhospital Stuttgart eine neue Mitte: sechs medizinische Zentren unter einem Dach, kurze Wege und ein klar adressierter Haupteingang – vertikal organisiert im engen innerstädtischen Baufeld und bei laufendem Klinikbetrieb.",
+      "kapitel": [
+        {
+          "titel": "Sechs Zentren, ein Gebäude",
+          "text": "Sechs medizinische Zentren sind in Neu- und Umbauten zusammengeführt – darunter Innere Medizin, Operative Medizin, Anästhesie und Intensivmedizin, Neurozentrum, Radiologie sowie die Kliniken für Mund-, Kiefer- und Gesichtschirurgie und Augenheilkunde. Der Gebäudekomplex verbindet die bestehenden Bettenhäuser mit dem Katharinenhof."
+        },
+        {
+          "titel": "Haus F",
+          "text": "Kern der Gesamtmaßnahme ist der Neubau von Haus F mit rund 17.000 m² Nutzfläche auf neun Ebenen: Aufnahme, Ambulanzen, fünf Patientenstationen, Intensivmedizin sowie diagnostische, interventionelle und fachmedizinische Bereiche. Über eine mehrgeschossige Verbindungshalle schließt Haus F an die Bestandsbauten an und bildet den neuen Haupteingang des Klinikums. Die Herausforderung lag im engen Baufeld, dem laufenden Klinikbetrieb und der komplexen vertikalen Funktionsstapelung."
+        },
+        {
+          "titel": "Stadtraum und Fassade",
+          "text": "Der Baukörper gliedert sich in einen kräftigen Sockel und darüberliegende dreigeschossige Bettenriegel. Ocker- und Beigetöne prägen den Sockel, ein dunkelgraues Zwischengeschoss markiert die Trennung, die Bettengeschosse erscheinen in hellem, leicht abgetöntem Weiß."
+        },
+        {
+          "titel": "Licht, Raum, Orientierung",
+          "text": "Großzügige Verkehrsflächen und offene Erschließungsbereiche werden über Oberlichter und großformatige Fenster belichtet. Ein durchgängiges Farbkonzept unterstützt die Orientierung über alle Ebenen: ruhige Basisfarben in Weiß, Beige oder Warmgrau mit räumlich gesetzten Akzenten, abgestimmt auf die jeweilige Geschossfarbe und die Anforderungen der barrierefreien Planung nach DIN 18040."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "cts Sankt Rochus Kliniken Bad Schönborn – Wahlleistungsstation",
+      "ort": "Bad Schönborn",
+      "typologie": "Öffentlich",
+      "status": "realisiert",
+      "bauherr": "Caritas Trägergesellschaft Saarbrücken mbH",
+      "kurz": "Eine Gestaltung der Wahlleistungszimmer, die die umgebende Landschaft als Inspirationsquelle nutzt und in ein hochwertiges Innenraumkonzept mit Hotelcharakter übersetzt. Zimmer, Flure und Loungen bilden ein durchgängiges Designkonzept, das Orientierung schafft und eine wohnliche Atmosphäre erzeugt.",
+      "kapitel": [
+        {
+          "titel": "Analyse",
+          "text": "Für die Wahlleistungsstationen der fünf cts Kliniken wurde – beginnend mit dem Standort Bad Schönborn – ein standortübergreifendes Gestaltungskonzept entwickelt. Die Analyse der Standorte zeigte eine verbindende Gemeinsamkeit: Jeder Standort liegt in einer charakteristischen Gebirgs- oder Hügellandschaft – vom Kraichgau über den Schwarzwald bis zum Pfälzer Wald."
+        },
+        {
+          "titel": "Idee und Konzept",
+          "text": "Die Gestaltungsidee wurde anhand von Moodboards präsentiert, darauf aufbauend wurden gemeinsam Materialcollagen erarbeitet und das Material- und Farbkonzept definiert. Ein zentrales Gestaltungselement bilden ortsspezifische Wanderwege und deren Höhenprofile, die als grafische Elemente in die Wandgestaltung integriert wurden und das Thema Bewegung als Bestandteil der Rehabilitation aufgreifen."
+        },
+        {
+          "titel": "Ergebnis",
+          "text": "Es entstand ein standortübergreifendes Innenraumkonzept, das regionale Besonderheiten in eine gemeinsame Designsprache übersetzt – eine einheitliche gestalterische Identität, ohne den individuellen Charakter der einzelnen Standorte zu verlieren."
+        }
+      ],
+      "bilder": [
+        "https://www.a-sh.de/fileadmin/_processed_/1/0/csm_250918_as_h_cts_BadSchoenborn_B_01188_v2_12mpx_375ed30620.jpg?_=1784892890"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Pfrimmtal Realschule Plus Worms",
+      "ort": "Worms",
+      "typologie": "Bildung",
+      "bilder": [
+        "https://www.a-sh.de/fileadmin/_processed_/3/9/csm_Pfrimmtal-Realschule-Worms-035_c1b2506a2d.jpg?_=1682002824"
+      ],
+      "featured": false
+    }
+  ],
+  "team": [
+    {
+      "name": "Prof. Dipl.-Ing. Linus Hofrichter",
+      "rolle": "Architekt BDA AKG, Geschäftsführer",
+      "partner": true,
+      "bio": "Geschäftsführer der sander.hofrichter architekten GmbH. Professor Linus Hofrichter nimmt seit vielen Jahren als Preisrichter und Gutachter an internationalen Verfahren teil."
+    },
+    {
+      "name": "Dipl.-Ing. Torsten Petroschka",
+      "rolle": "Architekt AKG, Geschäftsführer",
+      "partner": true
+    },
+    {
+      "name": "Dipl.-Ing. Martin Rieger",
+      "rolle": "Architekt BDB AKG, Geschäftsführer",
+      "partner": true
+    },
+    {
+      "name": "Dipl.-Ing. Nadine Schirmer MBA",
+      "rolle": "Architektin, Geschäftsführerin (sander.hofrichter architekten GmbH und a|sh architekten AG, Zürich)",
+      "partner": true
+    },
+    {
+      "name": "Dipl.-Ing. Peter Kuhl",
+      "rolle": "Architekt AKG, Geschäftsführer",
+      "partner": true
+    },
+    {
+      "name": "Marco Bauer B. Eng.",
+      "rolle": "Bauingenieurwesen, Geschäftsführer a|sh Brandschutz GmbH",
+      "partner": true
+    }
+  ],
+  "auszeichnungen": [
+    {
+      "jahr": 2019,
+      "name": "1. Preis, nichtoffener Realisierungswettbewerb",
+      "projekt": "Realschule Donaueschingen"
+    },
+    {
+      "name": "Nominierung Healing Architecture Award des Callwey Verlags",
+      "projekt": "Katharinenhospital Stuttgart – Zentraler Neubau"
+    }
+  ],
+  "journal": [
+    {
+      "titel": "Einweihung: Neue Konferenzräume und Mitarbeiter-Lounge für die Sparkasse Vorderpfalz in Ludwigshafen",
+      "kategorie": "News",
+      "text": "Für die Sparkasse Vorderpfalz in Ludwigshafen wurden neue Konferenzräume und eine Mitarbeiter-Lounge eingeweiht."
+    }
+  ],
+  "demo": {
+    "fuer": "a|sh sander.hofrichter architekten GmbH",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.a-sh.de/",
+    "seiten": [
+      "http://www.a-sh.de/",
+      "http://www.a-sh.de/impressum",
+      "http://www.a-sh.de/projekte",
+      "http://www.a-sh.de/leistungen",
+      "http://www.a-sh.de/projekte/realschule-donaueschingen",
+      "http://www.a-sh.de/projekte/technische-hochschule-ostwestfalen-lippe-lemgo-1",
+      "http://www.a-sh.de/projekte/technische-hochschule-ostwestfalen-lippe-lemgo",
+      "http://www.a-sh.de/projekte/katharinenhospital-stuttgart-zentraler-neubau"
+    ],
+    "erstellt": "2026-10-13T11:47:21.857Z"
+  }
+}
