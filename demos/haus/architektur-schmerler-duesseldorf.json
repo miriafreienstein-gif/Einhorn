@@ -1,0 +1,174 @@
+{
+  "firma": {
+    "name": "architektur.schmerler",
+    "kurz": "Schmerler",
+    "ort": "Düsseldorf",
+    "email": "info@architektur-schmerler.de",
+    "telefon": "+49 211 90989890",
+    "adresse": [
+      "Hermannstraße 10",
+      "40233 Düsseldorf"
+    ]
+  },
+  "haltung": "Klassische Architektur und moderne Innenarchitektur: Wir arbeiten mit Liebe zum Detail, Transparenz in allen Schritten und einem Sinn für Ästhetik. Die individuelle Betreuung und die Realisierung Ihrer Vorstellungen stehen für uns an erster Stelle.",
+  "projekte": [
+    {
+      "titel": "W59 – Sanierung einer Wohnung",
+      "ort": "Düsseldorf-Düsseltal",
+      "jahr": 2021,
+      "typ": "Wohnen",
+      "text": "Sanierung einer Wohnung in Düsseldorf-Düsseltal. Betreuung in den Leistungsphasen 1–8, von der Grundlagenermittlung bis zur Objektüberwachung.",
+      "bilder": []
+    },
+    {
+      "titel": "I45 – Energetische Sanierung Fassade",
+      "ort": "Düsseldorf-Holthausen",
+      "jahr": 2021,
+      "typ": "Projekt",
+      "text": "Energetische Sanierung der Fassade in Düsseldorf-Holthausen. Unsere Leistung umfasste die Objektüberwachung (LPH 8).",
+      "bilder": []
+    },
+    {
+      "titel": "B55 – Sanierung Wohnung",
+      "ort": "Düsseldorf-Flingern Nord",
+      "jahr": 2021,
+      "typ": "Wohnen",
+      "text": "Sanierung einer Wohnung in Düsseldorf-Flingern Nord, begleitet in den Leistungsphasen 1–8.",
+      "bilder": []
+    },
+    {
+      "titel": "G77 – Ausbau Dachgeschoss",
+      "ort": "Düsseldorf-Grafenberg",
+      "jahr": 2022,
+      "typ": "Wohnen",
+      "text": "Ausbau eines Dachgeschosses in Düsseldorf-Grafenberg. Begleitung von der Ausführungsplanung bis zur Objektüberwachung (LPH 5–8).",
+      "bilder": []
+    },
+    {
+      "titel": "K18 – Neubau Einfamilienhaus",
+      "ort": "Mettmann",
+      "jahr": 2025,
+      "typ": "Einfamilienhaus",
+      "text": "Neubau eines Einfamilienhauses in Mettmann, bearbeitet in den Leistungsphasen 1–8.",
+      "bilder": []
+    },
+    {
+      "titel": "S54 – Planung Umbau Altbau Mehrfamilienhaus",
+      "jahr": 2023,
+      "typ": "Wohnen",
+      "text": "Planung für den Umbau eines Mehrfamilienhauses im Altbau, Leistungsphasen 1–4 bis zur Genehmigungsplanung.",
+      "bilder": []
+    },
+    {
+      "titel": "W33 – Sanierung Einfamilienhaus",
+      "ort": "Düsseldorf-Grafenberg",
+      "jahr": 2024,
+      "typ": "Einfamilienhaus",
+      "text": "Sanierung eines Einfamilienhauses in Düsseldorf-Grafenberg, Planung in den Leistungsphasen 1–4.",
+      "bilder": []
+    },
+    {
+      "titel": "K34 – Sanierung Einfamilienhaus",
+      "ort": "Krefeld-Fischeln",
+      "jahr": 2024,
+      "typ": "Einfamilienhaus",
+      "text": "Sanierung eines Einfamilienhauses in Krefeld-Fischeln, betreut in den Leistungsphasen 1–8.",
+      "bilder": []
+    },
+    {
+      "titel": "G53 – Konzeptentwicklung und Entwurf",
+      "ort": "Essen",
+      "jahr": 2024,
+      "typ": "Projekt",
+      "text": "Konzeptentwicklung und Entwurf in Essen, bearbeitet in den Leistungsphasen 1–3.",
+      "bilder": []
+    },
+    {
+      "titel": "T15 – Sanierung Einfamilienhaus",
+      "ort": "Meerbusch",
+      "jahr": 2025,
+      "typ": "Einfamilienhaus",
+      "text": "Sanierung eines Einfamilienhauses in Meerbusch, begleitet über die Leistungsphasen 1–8.",
+      "bilder": []
+    },
+    {
+      "titel": "B32 – Sanierung eines denkmalgeschützten Herrenhauses",
+      "ort": "Düsseldorf-Hubbelrath",
+      "jahr": 2025,
+      "typ": "Projekt",
+      "text": "Sanierung eines denkmalgeschützten Herrenhauses in Düsseldorf-Hubbelrath. Unsere Leistung umfasste die Objektüberwachung (LPH 8).",
+      "bilder": []
+    },
+    {
+      "titel": "U309 – Sanierung eines Vierkanthofes",
+      "ort": "Schwalmtal",
+      "jahr": 2025,
+      "typ": "Projekt",
+      "text": "Sanierung eines Vierkanthofes in Schwalmtal, Planung in den Leistungsphasen 1–4.",
+      "bilder": []
+    },
+    {
+      "titel": "F03 – Ausbau Dachgeschosswohnung",
+      "ort": "Düsseldorf-Unterbach",
+      "jahr": 2025,
+      "typ": "Wohnen",
+      "text": "Ausbau einer Dachgeschosswohnung in Düsseldorf-Unterbach, Planung in den Leistungsphasen 1–4.",
+      "bilder": []
+    },
+    {
+      "titel": "S34 – Neubau Einfamilienhaus",
+      "ort": "Meerbusch-Nierst",
+      "jahr": 2024,
+      "typ": "Einfamilienhaus",
+      "text": "Neubau eines Einfamilienhauses in Meerbusch-Nierst, begleitet in den Leistungsphasen 1–8.",
+      "bilder": []
+    },
+    {
+      "titel": "S03 – Umbau und Sanierung eines 3-Parteienhauses zum Einfamilienhaus",
+      "ort": "Düsseldorf-Heerdt",
+      "jahr": 2025,
+      "typ": "Wohnen",
+      "text": "Umbau und Sanierung eines Dreiparteienhauses zum Einfamilienhaus in Düsseldorf-Heerdt, Leistungsphasen 1–8.",
+      "bilder": []
+    },
+    {
+      "titel": "G16 – Umbau einer Wohnung mit neuer Raumaufteilung",
+      "ort": "Düsseldorf-Gerresheim",
+      "jahr": 2026,
+      "typ": "Wohnen",
+      "text": "Umbau einer Wohnung mit neuer Raumaufteilung in Düsseldorf-Gerresheim, Leistungsphasen 1–8.",
+      "bilder": []
+    },
+    {
+      "titel": "B14 – Innenausbau eines Bungalows",
+      "ort": "Krefeld-Verberg",
+      "jahr": 2026,
+      "typ": "Wohnen",
+      "text": "Innenausbau eines Bungalows in Krefeld-Verberg, Leistungsphasen 1–8.",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Innenarchitektur",
+      "text": "Räume, Licht und Materialien aus einer Hand."
+    }
+  ],
+  "demo": {
+    "fuer": "architektur.schmerler",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://www.architektur-schmerler.de/",
+    "seiten": [
+      "https://www.architektur-schmerler.de/",
+      "https://www.architektur-schmerler.de/impressum/"
+    ],
+    "erstellt": "2026-10-13T11:59:25.186Z",
+    "abgeleitetAus": "demos/architektur/architektur-schmerler-duesseldorf.json"
+  }
+}
