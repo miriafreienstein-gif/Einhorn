@@ -1,0 +1,67 @@
+{
+  "firma": {
+    "name": "fette architekten",
+    "kurz": "Fette",
+    "ort": "Düsseldorf",
+    "seit": 2012,
+    "email": "fette@fette-architekten.de",
+    "telefon": "+49 211 23046523",
+    "adresse": [
+      "Grafenberger Allee 100, ehem. Kutscherhaus OG",
+      "40237 Düsseldorf"
+    ]
+  },
+  "haltung": "Wir verstehen den Bestand nicht als Einschränkung, sondern als Ressource: als Ausgangspunkt für Lösungen, die den Charakter des Vorhandenen respektieren und zugleich selbstbewusst weiterentwickeln. Jede Aufgabe analysieren wir individuell – im städtebaulichen Kontext und im Dialog mit den Nutzer*innen.",
+  "projekte": [
+    {
+      "titel": "Schule Reisholz",
+      "typ": "Bildung",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Schule Bleibergquelle",
+      "typ": "Bildung",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Imago Olpe",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architekturbüro – Neubau",
+      "text": ""
+    },
+    {
+      "titel": "Bestand",
+      "text": ""
+    },
+    {
+      "titel": "Schul-",
+      "text": ""
+    },
+    {
+      "titel": "Wohnungsbau",
+      "text": ""
+    }
+  ],
+  "demo": {
+    "fuer": "fette architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.fette-architekten.de/",
+    "seiten": [
+      "http://www.fette-architekten.de/",
+      "https://www.fette-architekten.de/about-fette",
+      "https://www.fette-architekten.de/items"
+    ],
+    "erstellt": "2026-10-13T12:00:22.405Z",
+    "abgeleitetAus": "demos/architektur/fette-architekten-duesseldorf.json"
+  }
+}
