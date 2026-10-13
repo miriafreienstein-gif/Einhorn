@@ -1,0 +1,215 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "neu architekten GbR",
+    "beschreibung": "Architektur, Planung und Bauleitung",
+    "haltung": "Unser Anspruch ist es, Architektur mit Klarheit, Verantwortung und einem Verständnis für den gesamten Prozess zu entwickeln. Dabei vereint unser Team unterschiedliche kulturelle Hintergründe, Perspektiven und Erfahrungen – eine Vielfalt, die unsere Zusammenarbeit und unseren Blick auf Architektur prägt.",
+    "intro": "neu architekten begleitet seit 2023 von Düsseldorf aus Bauvorhaben ganzheitlich – von Entwurf und Planung bis zur Bauleitung.",
+    "gegruendet": 2023,
+    "email": "info@neuarchitekten.de",
+    "telefon": "+49 172 3724316",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Hoffeldstraße 62",
+          "40235 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Bagelstraße",
+      "ort": "Düsseldorf",
+      "region": "Düsseldorf-Pempelfort",
+      "jahr": 2024,
+      "typologie": "Wohnen",
+      "bauherr": "Projecta Dus X GmbH",
+      "kurz": "Hochwertiger Wohnungsbau in zentraler Lage von Düsseldorf-Pempelfort, der den bestehenden Gebäudebestand behutsam weiterentwickelt und zeitgemäß interpretiert. neu architekten verantworteten die Ausführungsplanung sowie die Entwicklung unterschiedlicher Fassadenvarianten.",
+      "kapitel": [
+        {
+          "titel": "Aufgabe",
+          "text": "Das Projekt umfasst eine Kernsanierung des Hauses, bei der unter anderem Fassade und Kellerdecke vollständig erneuert werden. Ergänzt wird der Bestand durch eine Aufstockung um ein zusätzliches Vollgeschoss sowie ein zurückgesetztes Staffelgeschoss, das durch einen neu eingebauten Aufzug erschlossen wird."
+        },
+        {
+          "titel": "Material",
+          "text": "Die architektonische Gestaltung folgt einer klaren und hochwertigen Materialstrategie. Das Erdgeschoss bildet mit Naturstein eine robuste und elegante Basis. Darüber bestimmen weiß verputzte Fassadenflächen das Erscheinungsbild, während ab dem zweiten Obergeschoss rötliche Klinkerriemchen eingesetzt werden, die dem Gebäude eine warme und stadträumlich verankerte Wirkung verleihen. Den oberen Abschluss bildet ein dunkel abgesetztes Staffelgeschoss in schwarzem Putz, das sich mit großzügigen Dachterrassen öffnet und Raum für eine Penthouse-Wohnung bietet."
+        },
+        {
+          "titel": "Wohnen",
+          "text": "Ein innenliegender Hof ergänzt das Gebäudeensemble und schafft einen ruhigen, geschützten Außenraum mit hoher Aufenthaltsqualität. Die Wohnungen zeichnen sich durch klare Grundrisse, hochwertige Ausführung und ein ausgewogenes Verhältnis zwischen urbanem Leben und privatem Rückzug aus."
+        },
+        {
+          "titel": "Leistungen",
+          "text": "Bauleitung, Ausführungsplanung."
+        }
+      ],
+      "bilder": [
+        "https://neuarchitekten.de/media/pages/projekte/bagelstrasse/99580e7150-1784283561/perspektive-ganz.jpg",
+        "https://neuarchitekten.de/media/pages/projekte/bagelstrasse/99580e7150-1784283561/perspektive-ganz-1536x1152-crop-q80.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Solingen Alter Bahnhof",
+      "ort": "Solingen",
+      "jahr": 2025,
+      "status": "Wettbewerb",
+      "bauherr": "Privater Investor",
+      "kurz": "1. Preis beim Investorenwettbewerb: gemeinsam mit Gerlich Architektur Städtebau entwickelter Entwurf für den denkmalgeschützten Alten Bahnhof Solingen.",
+      "kapitel": [
+        {
+          "titel": "Verfahren",
+          "text": "Die neu architekten haben gemeinsam mit Gerlich Architektur Städtebau am anonymen Investoren- und Konzeptvergabeverfahren für den Alten Bahnhof Solingen teilgenommen und den 1. Preis erhalten."
+        },
+        {
+          "titel": "Entwurf",
+          "text": "Kern des Entwurfs ist der sensible Umgang mit dem denkmalgeschützten Bestand, der durch eine behutsame Ergänzung eines Staffelgeschosses erweitert wird. Es entsteht ein vielfältiges Nutzungskonzept aus Bildung, Gastronomie, Beherbergung und öffentlichen Angeboten, das den ehemaligen Solinger Bahnhof revitalisiert und zu einem Begegnungsort formt."
+        },
+        {
+          "titel": "Außenraum",
+          "text": "Durch die Aktivierung des Außenraums mit ganzjährig nutzbaren Veranstaltungsflächen, beispielsweise für Weihnachtsmärkte oder eine Summer Lounge, entsteht ein belebter Ort für die Stadtgemeinschaft."
+        }
+      ],
+      "bilder": [
+        "https://neuarchitekten.de/media/pages/projekte/solingen-alter-bahnhof/088051926b-1784283561/bahnhof-rendering-komprimiert.jpg",
+        "https://neuarchitekten.de/media/pages/projekte/solingen-alter-bahnhof/088051926b-1784283561/bahnhof-rendering-komprimiert-1536x1152-crop-q80.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Giraffenhaus Kölner Zoo",
+      "ort": "Köln",
+      "jahr": 2024,
+      "bauherr": "ZQD GmbH",
+      "kurz": "Bauleitung für die Kernsanierung des Giraffenhauses im Kölner Zoo.",
+      "kapitel": [
+        {
+          "titel": "Aufgabe",
+          "text": "Die Aufgabe war in mehrfacher Hinsicht besonders: Es galt, die komplexen Anforderungen an die moderne Tierhaltung und die technische Gebäudeausstattung zu koordinieren, die unterschiedlichen Gewerke im laufenden Zoobetrieb präzise aufeinander abzustimmen und die hohe Ausführungsqualität in jeder Phase sicherzustellen."
+        },
+        {
+          "titel": "Leistungen",
+          "text": "Bauleitung."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Dom Carré",
+      "jahr": 2024,
+      "typologie": "Hotel",
+      "flaeche": 18260,
+      "bauherr": "BMS GmbH",
+      "kurz": "Revitalisierung eines Ensembles auf rund 18.260 m² mit einem Hotel mit 130 Zimmern und Suiten sowie Einzelhandelsflächen.",
+      "kapitel": [
+        {
+          "titel": "Nutzung",
+          "text": "Herzstück des Projekts ist ein hochwertiges Hotel mit 130 Zimmern und Suiten auf insgesamt 12.630 m², ergänzt durch etwa 5.630 m² Einzelhandelsflächen, die das Carré zu einem neuen urbanen Treffpunkt machen."
+        },
+        {
+          "titel": "Bestand",
+          "text": "Eine besondere Herausforderung des Projekts: Die charaktervolle Sandsteinfassade und die historischen Treppenhäuser bleiben erhalten und werden sorgfältig in das neue architektonische Konzept eingebunden. Dahinter entsteht ein komplett neuer Rohbau, der die Basis für ein vielseitiges und zeitgemäßes Nutzungskonzept bildet."
+        },
+        {
+          "titel": "Unsere Rolle",
+          "text": "Die neu architekten wurden von der BMS GmbH beauftragt, Teil des Teams der Objektüberwachung der Kostengruppe 300 zu sein und zugleich die Projektsteuerungsaufgabe zur präzisen Termin- und Schnittstellenkoordination zwischen den Kostengruppen 300 und 400 zu übernehmen. Leistungen: Projektsteuerung, Bauleitung."
+        }
+      ],
+      "bilder": [
+        "https://neuarchitekten.de/media/pages/projekte/dom-carre/d815ec4766-1784283561/titelbild-dom-carre.jpg",
+        "https://neuarchitekten.de/media/pages/projekte/dom-carre/d815ec4766-1784283561/titelbild-dom-carre-1536x1536-crop-q80.jpg"
+      ],
+      "featured": true
+    }
+  ],
+  "team": [
+    {
+      "name": "Josef Elazzabi",
+      "rolle": "M.Sc. Architekt, Gesellschafter",
+      "partner": true
+    },
+    {
+      "name": "Benjamin Nowak",
+      "rolle": "M.Sc. Architekt, Gesellschafter",
+      "partner": true
+    },
+    {
+      "name": "Burak Ugurlu",
+      "rolle": "M.Sc. Architekt, Gesellschafter",
+      "partner": true
+    },
+    {
+      "name": "Isabelle Duong",
+      "rolle": "B.A. Architektur, Werkstudentin"
+    },
+    {
+      "name": "Egzon Peci",
+      "rolle": "M.A. Architektur, Projektmanager"
+    },
+    {
+      "name": "Yassin Smahi",
+      "rolle": "M.A. Architektur, Projektmanager"
+    },
+    {
+      "name": "Graziano Albano",
+      "rolle": "Bauzeichner"
+    },
+    {
+      "name": "Nicole Junker",
+      "rolle": "M.A. Architektur, Projektplanerin"
+    },
+    {
+      "name": "Milad Roohabadi",
+      "rolle": "B.Sc. Architektur, Projektplaner"
+    },
+    {
+      "name": "Balu",
+      "rolle": "Assistenz für gute Laune"
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 2023,
+      "text": "Aus einer langjährigen Freundschaft und dem gemeinsamen Architekturstudium entsteht neu architekten."
+    }
+  ],
+  "auszeichnungen": [
+    {
+      "jahr": 2025,
+      "name": "1. Preis beim Investorenwettbewerb",
+      "projekt": "Solingen Alter Bahnhof"
+    }
+  ],
+  "journal": [
+    {
+      "titel": "REWE Bruchstraße in Düsseldorf-Flingern nach Sanierung wiedereröffnet",
+      "kategorie": "News"
+    },
+    {
+      "titel": "Baustellenupdate | REWE Düsseldorf-Flingern",
+      "kategorie": "News"
+    }
+  ],
+  "demo": {
+    "fuer": "neu architekten GbR",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://neuarchitekten.de/",
+    "seiten": [
+      "https://neuarchitekten.de/",
+      "https://neuarchitekten.de/impressum",
+      "https://neuarchitekten.de/projekte",
+      "https://neuarchitekten.de/team",
+      "https://neuarchitekten.de/projekte/bagelstrasse",
+      "https://neuarchitekten.de/projekte/solingen-alter-bahnhof",
+      "https://neuarchitekten.de/projekte/giraffenhaus",
+      "https://neuarchitekten.de/projekte/dom-carre"
+    ],
+    "erstellt": "2026-10-13T11:57:30.508Z"
+  }
+}
