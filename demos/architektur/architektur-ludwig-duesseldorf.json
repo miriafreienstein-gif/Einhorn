@@ -1,0 +1,221 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "Architektur Ludwig",
+    "beschreibung": "Architekturbüro für Neubau, Anbau, Umbau und Sanierung",
+    "haltung": "Wir entwickeln, planen und realisieren Projekte mit Blick auf Gestaltung und Budget – ohne Vergabe von Gewerken ohne Ausschreibung. Unser Team verbindet Erfahrung aus Architektur, Kreativwirtschaft und betriebswirtschaftlichen Bereichen und betrachtet Projekte dadurch ganzheitlich.",
+    "intro": "Architektur Ludwig plant und betreut private und gewerbliche Bauvorhaben im Ruhrgebiet und im Rheinland – mit Standorten in Essen und Düsseldorf.",
+    "email": "info@architektur-ludwig.de",
+    "telefon": "+49 211 50946446",
+    "stadt": "Essen",
+    "standorte": [
+      {
+        "stadt": "Essen",
+        "adresse": [
+          "Ernestinenstraße 29",
+          "45141 Essen"
+        ]
+      },
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Erkrather Straße 273a",
+          "40231 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Bau Doppelhaus",
+      "ort": "Velbert",
+      "jahr": 2016,
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Modernes, elegantes Doppelhaus, familienfreundlich gestaltet. Fertigstellung Oktober 2016, Wert über 1.000.000 €.",
+      "kapitel": [
+        {
+          "titel": "Unsere Lösung",
+          "text": "Eine Umsetzung mit modernem und elegantem Architektur-Design, dabei familienfreundlich gestaltet. Eine Galerie mit Seiten- und Oberlicht schafft ein großzügiges Raumgefühl, so wirkt das Haus weitläufig und luftig. Die eingezogenen Lichtbänder im Dachgeschoss sorgen für direkten Lichteinfall auch in sonst schwer zugänglichen Räumen. Die Kombination aus Architektur-Design und modernem Interieur schafft für alle Bewohner eine angenehme Atmosphäre."
+        }
+      ],
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2016/07/Doppelhaus-a_architektur_ludwig-1-uai-397x265.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Sanierung/Umbau Reihenhaus",
+      "ort": "Essen",
+      "jahr": 2016,
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Umbau und Sanierung eines Reihenmittelhauses mit einem Raumerlebnis auf kleiner Grundfläche. Datum: März 2016, Kosten der Maßnahmen unter 150.000 €.",
+      "kapitel": [
+        {
+          "titel": "Unsere Lösung",
+          "text": "Neues Raumkonzept im Erd- und Obergeschoss mit Neugestaltung von Schlafräumen, Arbeitszimmer und Bädern. Anbau eines neuen Eingangsbereichs mit großen Eckfenstern. Lichtbänder und -fenster im Treppenhaus und im Zugang zum Dachgeschoss. Viele Details geben dem Haus einen hohen Wohnwert: ein helles Haus mit einem Raumerlebnis, das man auf kleiner Grundfläche kaum erwartet."
+        }
+      ],
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2016/04/Reihenhaus_architektur_ludwig-1-uai-397x265.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Sanierung Geschäftshaus",
+      "ort": "Essen",
+      "jahr": 2016,
+      "typologie": "Gewerbe",
+      "status": "realisiert",
+      "kurz": "Aus einem Elektronik-Fachgeschäft wird eine Zahnarztpraxis. Datum: März 2016, Wert über 1.000.000 €.",
+      "kapitel": [
+        {
+          "titel": "Unsere Lösung",
+          "text": "Umfassende neue Raumkonzeption im Untergeschoss, Einsatz komplexer Elektrik und Anlagen für die Anforderungen einer modernen Zahnarztpraxis. Behandlungszimmer mit Sicht in den Garten, ein offener Empfangsbereich und ein transparenter Wartebereich mit Blick nach außen schaffen eine entspannende Atmosphäre. Eine neue Fassadengestaltung mit Nachtbeleuchtung sorgt für die Außenwahrnehmung der Praxis."
+        }
+      ],
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2016/01/Geschäftshaus-c_architektur_ludwig-uai-397x265.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Sanierung Einfamilienhaus",
+      "ort": "Essen",
+      "jahr": 2016,
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "kurz": "Umwandlung alter Bausubstanz auf Neubau-Niveau. Datum: November 2016.",
+      "kapitel": [
+        {
+          "titel": "Unsere Lösung",
+          "text": "Wandlung kleinteiliger Räumlichkeiten zu einem großzügigen Raumerlebnis. Neues energetisches Konzept, kombiniert mit einer Dämmung nach neuestem Standard. Sanierung des Daches und der kompletten Gebäudehülle. Großzügige Dachflächenfenster schaffen helle Wohnbereiche auch im Dachgeschoss."
+        }
+      ],
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2015/07/Einfamilienhaus-a_architektur_ludwig-1-uai-397x265.jpg"
+      ]
+    },
+    {
+      "titel": "Ausbau Dachgeschoss",
+      "ort": "Essen",
+      "jahr": 2014,
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Umwandlung eines Abstellraums im Dach zu Wohnraum. Datum: März 2014.",
+      "kapitel": [
+        {
+          "titel": "Unsere Lösung",
+          "text": "Große Dachausschnitte schaffen den direkten Bezug zur umgebenden Natur, von jedem Punkt im Raum ist der Blick ins Grüne gegeben. Die helle, viele Meter breite Fensterfront sorgt zu jeder Tageszeit für eine entspannende Atmosphäre. Der Einbau einer Gaube ermöglicht zudem eine Küchenzeile im Dachraum. So ist aus einem Dachboden großzügiger neuer Wohnraum entstanden."
+        }
+      ],
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2014/07/Dachgeschoss-a_architektur_ludwig-1-uai-397x265.jpg"
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "Elke Ludwig",
+      "rolle": "Architekt AKNW (Dipl. Ing.), Inhaberin",
+      "partner": true,
+      "bio": "Leitung, Projektentwicklung, Planung, Bauleitung. Mitglied der Architektenkammer NRW."
+    },
+    {
+      "name": "Lisa Czyborra",
+      "rolle": "Architekt AKNW / Projektleiterin",
+      "bio": "Projektleitung, Entwurf & Planung, Bauleitung."
+    },
+    {
+      "name": "Celine Schock",
+      "rolle": "Bachelor of Science",
+      "bio": "Projektbetreuung, Bauanträge, Ausführungsplanung."
+    },
+    {
+      "name": "Nithursaa Sanmugalingam",
+      "rolle": "Bachelor of Science",
+      "bio": "Projektbetreuung, Bauanträge, Ausführungsplanung."
+    },
+    {
+      "name": "Efe-Ridvan Aydin",
+      "rolle": "Bachelor of Arts",
+      "bio": "Bauanträge, Ausführungsplanung."
+    },
+    {
+      "name": "Patrycja Juraszek",
+      "rolle": "Werkstudentin",
+      "bio": "Bauanträge, Zeichnungen."
+    },
+    {
+      "name": "Luca Galien",
+      "rolle": "Werkstudentin",
+      "bio": "Bauanträge, Zeichnungen."
+    },
+    {
+      "name": "Lucas Jansen",
+      "rolle": "Bachelor of Science",
+      "bio": "Bauanträge, Ausführungsplanung, Visualisierungen."
+    },
+    {
+      "name": "Larissa Mersch",
+      "rolle": "Bachelor of Science",
+      "bio": "Freelancer."
+    }
+  ],
+  "journal": [
+    {
+      "titel": "Bauantrag Mehrfamilienhaus",
+      "kategorie": "News",
+      "text": "Nach erfolgreicher Bauvoranfrage haben wir den Bauantrag für ein neues Mehrfamilienhaus nun eingereicht."
+    },
+    {
+      "titel": "Jubel! 500 Projekte erfolgreich abgeschlossen.",
+      "kategorie": "News",
+      "text": "Wir haben mehr als 500 Projekte erfolgreich abgeschlossen."
+    },
+    {
+      "titel": "Sanierung Haus in Bredeney",
+      "kategorie": "News",
+      "text": "Die Sanierung des Mehrfamilienhauses in Essen ist nahezu fertig. Die Außenarbeiten sind noch im Gange."
+    },
+    {
+      "titel": "Balkonanlagen Mehrfamilienhäuser",
+      "kategorie": "News",
+      "text": "In unserem Projekt in Essen Ost sind die Ausführungsarbeiten für die Balkone der sanierten Mehrfamilienhäuser fertiggestellt."
+    },
+    {
+      "titel": "Konzeptgestaltung und Visualisierung",
+      "kategorie": "News",
+      "text": "Zur Modernisierung einer Wohnung in Essen haben wir Konzepte entwickelt und visualisiert. Die Realisierung hat begonnen."
+    },
+    {
+      "titel": "Kernsanierung Familienhaus Borbeck",
+      "kategorie": "News",
+      "text": "Unser Projekt in Borbeck ist in vollem Gange. Ein neuer Dachstuhl und neue Gauben werden ein neues Raumgefühl vermitteln."
+    },
+    {
+      "titel": "Bauantrag für Beherbergungsstätte fertiggestellt",
+      "kategorie": "News",
+      "text": "Für den Umbau eines Bürokomplexes in eine Beherbergungsstätte in Bochum ist der Bauantrag unterzeichnet worden."
+    }
+  ],
+  "demo": {
+    "fuer": "Architektur Ludwig",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.architektur-ludwig.de/",
+    "seiten": [
+      "http://www.architektur-ludwig.de/",
+      "https://architektur-ludwig.de/impressum/",
+      "https://architektur-ludwig.de/portfolio/doppelhaus/",
+      "https://architektur-ludwig.de/portfolio/reihenhaus/",
+      "https://architektur-ludwig.de/portfolio/geschaeftshaus/",
+      "https://architektur-ludwig.de/portfolio/einfamilienhaus/",
+      "https://architektur-ludwig.de/portfolio/dachgeschoss/",
+      "https://architektur-ludwig.de/category/allgemein/"
+    ],
+    "erstellt": "2026-10-13T11:43:50.510Z"
+  }
+}
