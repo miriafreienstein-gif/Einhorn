@@ -1,0 +1,103 @@
+{
+  "firma": {
+    "name": "Architektur Ludwig",
+    "kurz": "Ludwig",
+    "ort": "Essen",
+    "email": "info@architektur-ludwig.de",
+    "telefon": "+49 211 50946446",
+    "adresse": [
+      "Ernestinenstraße 29",
+      "45141 Essen"
+    ]
+  },
+  "haltung": "Wir entwickeln, planen und realisieren Projekte mit Blick auf Gestaltung und Budget – ohne Vergabe von Gewerken ohne Ausschreibung. Unser Team verbindet Erfahrung aus Architektur, Kreativwirtschaft und betriebswirtschaftlichen Bereichen und betrachtet Projekte dadurch ganzheitlich.",
+  "projekte": [
+    {
+      "titel": "Bau Doppelhaus",
+      "ort": "Velbert",
+      "jahr": 2016,
+      "typ": "Wohnen",
+      "text": "Modernes, elegantes Doppelhaus, familienfreundlich gestaltet. Fertigstellung Oktober 2016, Wert über 1.000.000 €.",
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2016/07/Doppelhaus-a_architektur_ludwig-1-uai-397x265.jpg"
+      ]
+    },
+    {
+      "titel": "Sanierung/Umbau Reihenhaus",
+      "ort": "Essen",
+      "jahr": 2016,
+      "typ": "Wohnen",
+      "text": "Umbau und Sanierung eines Reihenmittelhauses mit einem Raumerlebnis auf kleiner Grundfläche. Datum: März 2016, Kosten der Maßnahmen unter 150.000 €.",
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2016/04/Reihenhaus_architektur_ludwig-1-uai-397x265.jpg"
+      ]
+    },
+    {
+      "titel": "Sanierung Geschäftshaus",
+      "ort": "Essen",
+      "jahr": 2016,
+      "typ": "Gewerbe",
+      "text": "Aus einem Elektronik-Fachgeschäft wird eine Zahnarztpraxis. Datum: März 2016, Wert über 1.000.000 €.",
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2016/01/Geschäftshaus-c_architektur_ludwig-uai-397x265.jpg"
+      ]
+    },
+    {
+      "titel": "Sanierung Einfamilienhaus",
+      "ort": "Essen",
+      "jahr": 2016,
+      "typ": "Einfamilienhaus",
+      "text": "Umwandlung alter Bausubstanz auf Neubau-Niveau. Datum: November 2016.",
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2015/07/Einfamilienhaus-a_architektur_ludwig-1-uai-397x265.jpg"
+      ]
+    },
+    {
+      "titel": "Ausbau Dachgeschoss",
+      "ort": "Essen",
+      "jahr": 2014,
+      "typ": "Wohnen",
+      "text": "Umwandlung eines Abstellraums im Dach zu Wohnraum. Datum: März 2014.",
+      "bilder": [
+        "https://architektur-ludwig.de/wp-content/uploads/2014/07/Dachgeschoss-a_architektur_ludwig-1-uai-397x265.jpg"
+      ]
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architekturbüro für Neubau",
+      "text": ""
+    },
+    {
+      "titel": "Anbau",
+      "text": ""
+    },
+    {
+      "titel": "Umbau",
+      "text": ""
+    },
+    {
+      "titel": "Sanierung",
+      "text": "Bestand erhalten und zeitgemäß weiterentwickeln."
+    }
+  ],
+  "demo": {
+    "fuer": "Architektur Ludwig",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.architektur-ludwig.de/",
+    "seiten": [
+      "http://www.architektur-ludwig.de/",
+      "https://architektur-ludwig.de/impressum/",
+      "https://architektur-ludwig.de/portfolio/doppelhaus/",
+      "https://architektur-ludwig.de/portfolio/reihenhaus/",
+      "https://architektur-ludwig.de/portfolio/geschaeftshaus/",
+      "https://architektur-ludwig.de/portfolio/einfamilienhaus/",
+      "https://architektur-ludwig.de/portfolio/dachgeschoss/",
+      "https://architektur-ludwig.de/category/allgemein/"
+    ],
+    "erstellt": "2026-10-13T11:43:50.510Z",
+    "abgeleitetAus": "demos/architektur/architektur-ludwig-duesseldorf.json"
+  }
+}
