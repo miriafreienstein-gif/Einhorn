@@ -1,0 +1,193 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "zentralbau GmbH",
+    "beschreibung": "Architekten . Projektentwickler . Andersdenker",
+    "haltung": "Wir entwickeln und bauen Wohnraum im Bestand der Stadt – in Gebäuden, die ursprünglich für etwas anderes gedacht waren. Unter dem Leitgedanken „Anders Wohnen in der Stadt“ verbinden wir Architektur und Projektentwicklung in einer Hand.",
+    "intro": "zentralbau GmbH arbeitet von Düsseldorf aus als Architekturbüro und Projektentwickler an Wohn- und Umnutzungsprojekten in der Stadt.",
+    "email": "info@zentralbau.de",
+    "telefon": "0211 688751-0",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Platanenstraße 27",
+          "40233 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Villa im Hof",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Polizeiwache",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Autowerkstatt",
+      "bilder": []
+    },
+    {
+      "titel": "Rheinkirche",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Senffabrik",
+      "bilder": []
+    },
+    {
+      "titel": "Mühlenhof",
+      "bilder": []
+    },
+    {
+      "titel": "2 Prinzen Altbau",
+      "bilder": []
+    },
+    {
+      "titel": "2 Prinzen Neubau",
+      "bilder": []
+    },
+    {
+      "titel": "Haus für eine Familie",
+      "typologie": "Einfamilienhaus",
+      "bilder": []
+    },
+    {
+      "titel": "Kloster",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Schreinerei",
+      "bilder": []
+    },
+    {
+      "titel": "Alter Ballsaal",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Tanne",
+      "bilder": []
+    },
+    {
+      "titel": "Stadthaus",
+      "bilder": []
+    },
+    {
+      "titel": "Lofts in der Ledermanufaktur",
+      "typologie": "Wohnen",
+      "bilder": []
+    },
+    {
+      "titel": "Lofthofhaus",
+      "bilder": []
+    },
+    {
+      "titel": "Altes Pfarrhaus",
+      "bilder": []
+    },
+    {
+      "titel": "Denkmal Tannenstrasse",
+      "bilder": []
+    },
+    {
+      "titel": "Fünf zu Eins",
+      "bilder": []
+    },
+    {
+      "titel": "Fritte",
+      "bilder": []
+    },
+    {
+      "titel": "Ferienhaus Borkum",
+      "ort": "Borkum",
+      "bilder": []
+    },
+    {
+      "titel": "Ferienhaus Holland",
+      "bilder": []
+    },
+    {
+      "titel": "Schwalbennest",
+      "bilder": []
+    },
+    {
+      "titel": "Loftbüro",
+      "typologie": "Büro",
+      "bilder": []
+    },
+    {
+      "titel": "Denkmal Yorckstrasse",
+      "bilder": []
+    },
+    {
+      "titel": "Stadtvilla",
+      "bilder": []
+    },
+    {
+      "titel": "Haus am Rhein",
+      "bilder": []
+    },
+    {
+      "titel": "Altes Pumpenhaus",
+      "bilder": []
+    },
+    {
+      "titel": "Vierkanthof",
+      "bilder": []
+    },
+    {
+      "titel": "Jahrhundertwendehaus",
+      "bilder": []
+    },
+    {
+      "titel": "Altes Herrenhaus",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Druckerei an der Düssel",
+      "bilder": []
+    },
+    {
+      "titel": "Bilker Bunker Wohnen",
+      "typologie": "Wohnen",
+      "bilder": []
+    },
+    {
+      "titel": "Bilker Bunker Kultur",
+      "typologie": "Kultur",
+      "bilder": []
+    },
+    {
+      "titel": "Staudenhof, Eifel",
+      "region": "Eifel",
+      "bilder": []
+    },
+    {
+      "titel": "WG-Haus",
+      "bilder": []
+    },
+    {
+      "titel": "Hof 89",
+      "bilder": []
+    },
+    {
+      "titel": "Denkmal Martinstrasse",
+      "bilder": []
+    }
+  ],
+  "demo": {
+    "fuer": "zentralbau GmbH",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.anderswohneninderstadt.de/",
+    "seiten": [
+      "http://www.anderswohneninderstadt.de/"
+    ],
+    "erstellt": "2026-10-13T12:02:17.994Z"
+  }
+}
