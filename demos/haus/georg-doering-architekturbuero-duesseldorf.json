@@ -1,0 +1,195 @@
+{
+  "firma": {
+    "name": "Georg Döring Architekten",
+    "kurz": "Döring",
+    "ort": "Düsseldorf",
+    "seit": 1999,
+    "email": "info@doering-architekten.de",
+    "telefon": "+49 211 8369112",
+    "adresse": [
+      "Benzenbergstraße 43",
+      "40219 Düsseldorf"
+    ]
+  },
+  "haltung": "Unsere Architektur ist so wie wir: einfach, klar, ehrlich – und gleichzeitig überraschend. Nicht der rechte Winkel, sondern der Bauherr ist das Maß aller Dinge.",
+  "projekte": [
+    {
+      "titel": "Neubau einer Doppelhaushälfte in Düsseldorf-Lörick",
+      "ort": "Düsseldorf-Lörick",
+      "typ": "Einfamilienhaus",
+      "text": "Ein Einfamilienhaus für ein junges Paar im Düsseldorfer Linksrheinischen, das als Neubau an eine bestehende Doppelhaushälfte angebaut wurde.",
+      "bilder": []
+    },
+    {
+      "titel": "Neubau eines Einfamilienhauses in Langenfeld",
+      "ort": "Langenfeld",
+      "typ": "Einfamilienhaus",
+      "text": "In einem reinen Einfamilienhausquartier entstand ein Haus für eine dreiköpfige Familie mit Hund.",
+      "bilder": []
+    },
+    {
+      "titel": "Neubau eines Mehrfamilienhauses in Düsseldorf-Gerresheim – Villa Pillebach",
+      "ort": "Düsseldorf-Gerresheim",
+      "typ": "Wohnen",
+      "text": "Für eine Baugruppe wurde ein dreigeschossiges Wohnhaus in einer ruhig gelegenen Seitenstraße des Quellenbusch-Viertels entwickelt.",
+      "bilder": []
+    },
+    {
+      "titel": "Umbau Kölnisches Stadtmuseum",
+      "ort": "Köln",
+      "jahr": 2024,
+      "flaeche": 3000,
+      "typ": "Kultur",
+      "text": "Umbau eines bestehenden Wohn- und Geschäftshauses – des ehemaligen Mode-Kaufhauses Franz Sauer – in der Kölner Innenstadt zum Interimsquartier des Kölnischen Stadtmuseums für die nächsten 10 Jahre.",
+      "bilder": []
+    },
+    {
+      "titel": "Umbau Benzenbergstraße 44, Düsseldorf",
+      "ort": "Düsseldorf",
+      "typ": "Wohnen",
+      "text": "Ein fünfgeschossiger Zeilenbau aus den 1970er Jahren wurde energetisch auf KfW-40-Standard gebracht; sämtliche Fassaden einschließlich Dach wurden saniert, um- bzw. neugebaut.",
+      "bilder": []
+    },
+    {
+      "titel": "Einfamilienhaus in Düsseldorf-Hubbelrath",
+      "ort": "Düsseldorf-Hubbelrath",
+      "typ": "Einfamilienhaus",
+      "text": "Am Düsseldorfer Stadtrand entstand ein Einfamilienhaus für eine dreiköpfige Familie mit Hund.",
+      "bilder": []
+    },
+    {
+      "titel": "Neubau eines Mehrfamilienhauses in Heinsberg",
+      "ort": "Heinsberg",
+      "typ": "Wohnen",
+      "text": "Unter dem Namen „Neues Wohnen in Oberbruch“ entstehen durch die Sanierung von sieben Bestandsgebäuden und den Neubau von neun KfW-55-Mehrfamilienhäusern rund 140 Wohnungen, darunter ein nahezu fertiggestelltes, modernes Wohnhaus mit 11 Einheiten.",
+      "bilder": []
+    },
+    {
+      "titel": "Wohn- und Geschäftshaus in Aachen",
+      "ort": "Aachen",
+      "typ": "Gewerbe",
+      "text": "Der Neubau verbindet Ladenflächen, Wohnungen und Büros mit einer markanten, tragenden Sichtbetonfassade, die die Struktur der Architektur der 1950er Jahre aufnimmt.",
+      "bilder": []
+    },
+    {
+      "titel": "Zweifamilienhaus in Düsseldorf-Zoo",
+      "ort": "Düsseldorf",
+      "typ": "Wohnen",
+      "text": "Ein Zweifamilienhaus auf drei Geschossen mit jeweils eigener Erschließung schließt sich zur stark verkehrsbelasteten Umgebung ab und öffnet sich mit großen Terrassen und Öffnungen zum südlich anschließenden Garten.",
+      "bilder": []
+    },
+    {
+      "titel": "Umbau eines Bungalows in Erkrath",
+      "ort": "Erkrath",
+      "typ": "Einfamilienhaus",
+      "text": "Im Herzen von Erkrath wurde ein Bungalow aus den 1970er Jahren komplett kernsaniert.",
+      "bilder": []
+    },
+    {
+      "titel": "Mehrfamilienhaus in Düsseldorf-Flingern",
+      "ort": "Düsseldorf-Flingern",
+      "typ": "Wohnen",
+      "text": "Ein Mehrfamilienhaus mit fünf geschossgroßen Wohnungen bedeutet außerordentlich großzügiges Wohnen im Stadtzentrum von Düsseldorf.",
+      "bilder": []
+    },
+    {
+      "titel": "Einfamilienhaus in Duisburg II",
+      "ort": "Duisburg",
+      "typ": "Einfamilienhaus",
+      "text": "Ein eingeschossiges Einfamilienhaus mit Staffelgeschoss bietet Raum und Leben für eine dreiköpfige Familie. Das Gebäude integriert eine Doppelgarage mit Technikraum und erhält so eine horizontale, elegante Kubatur, die sich von den gewohnten Staffelgeschosshäusern der Umgebung absetzt.",
+      "bilder": []
+    },
+    {
+      "titel": "Einfamilienhaus Düsseldorf-Stockum",
+      "ort": "Düsseldorf-Stockum",
+      "typ": "Einfamilienhaus",
+      "text": "Die voluminösen Ein- und Ausbuchtungen eines zweigeschossigen Kubus gestalten Hauseingang, Loggia und Freisitz.",
+      "bilder": []
+    },
+    {
+      "titel": "Wohn- und Geschäftshaus in Düsseldorf-Oberkassel",
+      "ort": "Düsseldorf-Oberkassel",
+      "jahr": 2016,
+      "flaeche": 4800,
+      "typ": "Gewerbe",
+      "text": "12 großzügige Wohnungen, ein Supermarkt und zwei Einzelhändler finden in diesem Neubauensemble ihren Platz.",
+      "bilder": []
+    },
+    {
+      "titel": "Einfamilienhaus Düsseldorf Ludenberg",
+      "ort": "Düsseldorf-Ludenberg",
+      "jahr": 2014,
+      "flaeche": 351,
+      "typ": "Einfamilienhaus",
+      "text": "Zwei rechteckige Volumina, im 90°-Winkel zueinander versetzt, definieren Vorfahrt und Garten bzw. überdachen Hauseingang und Freisitz.",
+      "bilder": []
+    },
+    {
+      "titel": "Mehrfamilienhaus Teheran / Iran",
+      "ort": "Teheran",
+      "jahr": 2015,
+      "flaeche": 4730,
+      "typ": "Wohnen",
+      "text": "Im Zentrum der 12-Millionen-Stadt wurden 11 luxuriöse Eigentumswohnungen mit insgesamt 4.700 m² Wohnfläche und allen Einrichtungen eines Grandhotels errichtet.",
+      "bilder": []
+    },
+    {
+      "titel": "Neubau eines Einfamilienhauses in Essen",
+      "ort": "Essen",
+      "typ": "Einfamilienhaus",
+      "text": "Für eine Familie mit Hund entsteht im Essener Süden ein Einfamilienhaus. Die rechtwinklige Kubatur schließt mit ihrem Rücken die Straße im Norden aus und fasst mit ihren Winkelinnenseiten den Garten im Süden ein.",
+      "bilder": [
+        "https://doering-architekten.de/wp-content/uploads/Georg-Doering-EFH_Essen.jpg"
+      ]
+    },
+    {
+      "titel": "Neubau eines Einfamilienhauses in Essen II",
+      "ort": "Essen",
+      "typ": "Einfamilienhaus",
+      "text": "Für eine Großfamilie mit Hund entsteht ein Einfamilienhaus in Essen. Das aus zwei ineinander gesteckten Kubaturen bestehende Haus wird komplett in Holz konstruiert und besticht durch zahlreiche Raumgebilde wie Split Level und Galerie.",
+      "bilder": [
+        "https://doering-architekten.de/wp-content/uploads/Neubau-eines-Einfamilienhauses-in-Essen-II-1.jpg"
+      ]
+    },
+    {
+      "titel": "Neubau eines Einfamilienhauses in Hilden",
+      "ort": "Hilden",
+      "typ": "Einfamilienhaus",
+      "text": "Für eine junge Familie mit Hund entsteht ein klassisches, japanisch inspiriertes Hofhaus als Bungalow.",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Ein-",
+      "text": ""
+    },
+    {
+      "titel": "Mehrfamilienhäuser",
+      "text": ""
+    },
+    {
+      "titel": "Büro",
+      "text": ""
+    }
+  ],
+  "demo": {
+    "fuer": "Georg Döring Architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.doering-architekten.de/",
+    "seiten": [
+      "http://www.doering-architekten.de/",
+      "https://doering-architekten.de/de/impressum/",
+      "http://www.doering-architekten.de/de/impressum",
+      "https://doering-architekten.de/de/projekte/",
+      "https://doering-architekten.de/de/buero/",
+      "https://doering-architekten.de/de/projekt/einfamilienhaus-duesseldorf-ludenberg-ii/",
+      "https://doering-architekten.de/de/projekt/wohn-und-gechaeftshaus-in-duesseldorf-oberkassel/",
+      "https://doering-architekten.de/de/projekt/mehrfamilienhaus-teheran-iran/"
+    ],
+    "erstellt": "2026-10-13T11:40:49.591Z",
+    "abgeleitetAus": "demos/architektur/georg-doering-architekturbuero-duesseldorf.json"
+  }
+}
