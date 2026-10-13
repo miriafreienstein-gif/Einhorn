@@ -1,0 +1,214 @@
+{
+  "firma": {
+    "name": "HPP Architekten GmbH",
+    "kurz": "Junker",
+    "ort": "Düsseldorf",
+    "seit": 1933,
+    "email": "duesseldorf@hpp.com",
+    "telefon": "+49 211 8384-0",
+    "adresse": [
+      "Zollhof 26",
+      "40221 Düsseldorf"
+    ]
+  },
+  "haltung": "Das „Wir“ prägt unsere Haltung: Architektur entsteht bei uns im Dialog mit den Bauherren und mit den Menschen, die sie nutzen werden. Keine einzelne Handschrift, sondern vielfältige Perspektiven, die für jede Bauaufgabe eine eigenständige Lösung entwickeln.",
+  "projekte": [
+    {
+      "titel": "Opernhaus der Zukunft",
+      "ort": "Düsseldorf",
+      "jahr": 2025,
+      "typ": "Kultur",
+      "text": "Der Entwurf für das neue Opernhaus in Düsseldorf versteht sich als Beitrag zur aktuellen Diskussion um die Rolle kultureller Großbauten in der europäischen Stadt.",
+      "bilder": []
+    },
+    {
+      "titel": "The Cradle",
+      "ort": "Düsseldorf",
+      "jahr": 2023,
+      "typ": "Projekt",
+      "text": "Mit seinem kreislaufgerechten Designkonzept wird The Cradle zum Impulsgeber für die zukunftsfähige Stadt.",
+      "bilder": []
+    },
+    {
+      "titel": "Konversion Jinyu Xingfa Science Park",
+      "ort": "Beijing",
+      "jahr": 2024,
+      "typ": "Projekt",
+      "text": "Transformation einer ehemaligen Zementfabrik: Mit 36 ha Projektfläche übertrifft der Jinyu Xingfa Science Park den Maßstab aller bisherigen Revitalisierungsprojekte des Büros.",
+      "bilder": []
+    },
+    {
+      "titel": "Sanierung & Erweiterung Bühnen Köln",
+      "ort": "Köln",
+      "jahr": 2026,
+      "typ": "Kultur",
+      "text": "Nach Jahren der Sanierung, Erweiterung und Modernisierung kehrt eines der bedeutendsten Kulturensembles Kölns in das öffentliche Leben zurück.",
+      "bilder": []
+    },
+    {
+      "titel": "Revitalisierung Dreischeibenhaus",
+      "ort": "Düsseldorf",
+      "jahr": 2015,
+      "typ": "Projekt",
+      "text": "Das Dreischeibenhaus von 1960 ist bis heute stadtbildprägend und manifestiert die Auffassung von werthaltiger Architektur bei HPP.",
+      "bilder": []
+    },
+    {
+      "titel": "Hochhaus Goldbeck",
+      "ort": "Bielefeld",
+      "jahr": 2026,
+      "typ": "Projekt",
+      "text": "Im Wettbewerbsverfahren für ein zwölfstöckiges Hochhaus für Goldbeck in Bielefeld erhielt der HPP-Entwurf den ersten Preis.",
+      "bilder": []
+    },
+    {
+      "titel": "Revitalisierung Hauptbahnhof Leipzig",
+      "ort": "Leipzig",
+      "jahr": 1997,
+      "typ": "Öffentlich",
+      "text": "Umbau und Sanierung des denkmalgeschützten Leipziger Hauptbahnhofs.",
+      "bilder": []
+    },
+    {
+      "titel": "EXPO Village",
+      "ort": "Shanghai",
+      "jahr": 2009,
+      "typ": "Projekt",
+      "text": "Mit dem gewonnenen Wettbewerb für das Expo Village zur Weltausstellung in Shanghai gelang HPP 2006 der Durchbruch in China.",
+      "bilder": []
+    },
+    {
+      "titel": "ONE PLAZA",
+      "ort": "Düsseldorf",
+      "jahr": 2025,
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "FOUR Frankfurt",
+      "ort": "Frankfurt am Main",
+      "jahr": 2026,
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Südliches Überseequartier",
+      "ort": "Hamburg",
+      "jahr": 2024,
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Justizzentrum Köln",
+      "ort": "Köln",
+      "jahr": 2041,
+      "typ": "Öffentlich",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Middenzaal Theater aan het Vrijthof",
+      "ort": "Maastricht",
+      "jahr": 2029,
+      "typ": "Kultur",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "DESYUM Besucherzentrum",
+      "ort": "Hamburg",
+      "jahr": 2026,
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "CISPA Campus",
+      "ort": "St. Ingbert bei Saarbrücken",
+      "jahr": 2028,
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Deutsches Fussballmuseum",
+      "ort": "Dortmund",
+      "jahr": 2015,
+      "typ": "Kultur",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Neubau Stadtbibliothek",
+      "ort": "Mannheim",
+      "jahr": 2020,
+      "typ": "Öffentlich",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Europa-Park Stadion",
+      "ort": "Freiburg",
+      "jahr": 2021,
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Hochschule für Musik und Tanz",
+      "ort": "Köln",
+      "jahr": 2018,
+      "typ": "Bildung",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "LifeCycle",
+      "ort": "Amsterdam",
+      "jahr": 2023,
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Innenarchitektur",
+      "text": "Räume, Licht und Materialien aus einer Hand."
+    },
+    {
+      "titel": "Revitalisierung",
+      "text": ""
+    },
+    {
+      "titel": "Landschaftsarchitektur",
+      "text": "Außenräume und Gärten als Teil der Architektur."
+    }
+  ],
+  "demo": {
+    "fuer": "HPP Architekten GmbH",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.hpp.com/",
+    "seiten": [
+      "http://www.hpp.com/",
+      "http://www.hpp.com/de/impressum/",
+      "http://www.hpp.com/de/ueber-uns/standorte/",
+      "http://www.hpp.com/de/ueber-uns/team/",
+      "http://www.hpp.com/de/ueber-uns/geschichte/",
+      "http://www.hpp.com/de/projekte/",
+      "http://www.hpp.com/de/karriere/bei-hpp-arbeiten/",
+      "http://www.hpp.com/de/aktuelles/"
+    ],
+    "erstellt": "2026-10-13T11:50:49.441Z",
+    "abgeleitetAus": "demos/architektur/hpp-architekten-gmbh-duesseldorf.json"
+  }
+}
