@@ -1,0 +1,117 @@
+{
+  "firma": {
+    "name": "Khavari-Lahme Architektur & Raumkonzepte",
+    "kurz": "Khavari-Lahme",
+    "ort": "Düsseldorf",
+    "seit": 2015,
+    "email": "info@khavari-lahme.de",
+    "telefon": "+49 211 44096065",
+    "adresse": [
+      "Augustastraße 14",
+      "40477 Düsseldorf"
+    ]
+  },
+  "haltung": "Wir erfüllen persönliche und individuelle Bauherrenwünsche mit dem Fokus auf innovatives und nachhaltiges Design und entwerfen unverwechselbare, zeitgenössische Raumkonzepte. Unsere Leitidee „Bau' Dich Glücklich\" begleitet jedes Projekt – von der ersten Idee bis zur Fertigstellung.",
+  "projekte": [
+    {
+      "titel": "BV ADK – Neubau",
+      "typ": "Wohnen",
+      "text": "Neubau mit offenem Erdgeschoss: Eingangsbereich mit Schwarzstahltreppe und Patio, Wohn- und Essbereich mit Kamin sowie Küche mit Übergang zur Terrasse.",
+      "bilder": [
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/Haus-Duesseldorf-Sky-Frame-02_web_kl-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_21-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_18-1024x819.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_05-1-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_27-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_28-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_03-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_11-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_16-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/Haus-Duesseldorf-Sky-Frame-06_web_kl-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_08-1-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_30-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_24-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_38-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_41-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_39-1024x819.jpg"
+      ]
+    },
+    {
+      "titel": "BV LS – Altbausanierung",
+      "typ": "Wohnen",
+      "text": "Sanierung eines Altbaus mit Entree, Bibliothek, Esszimmer, Vorraum, Flurbereichen im Obergeschoss, Ankleide und Schlafzimmer sowie ausgebautem Dachgeschoss.",
+      "bilder": [
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_45-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_42_1-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_43-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_46-1024x768.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_48-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_47-1024x768.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_52-1024x768.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_49-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_51-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_53-1024x768.jpg"
+      ]
+    },
+    {
+      "titel": "BV HRS – Umbau und Renovierung",
+      "typ": "Wohnen",
+      "text": "Umbau und Renovierung mit Innenausbau und Interior Design: Küche und Essbereich mit Stahltreppe, Diele mit Lofttür, Gäste-WC, Arbeitsbereich mit Glas-Stahl-Schiebetür sowie Treppenaufgang mit Geländer aus Schlosserarbeiten.",
+      "bilder": []
+    },
+    {
+      "titel": "BV OSM – Umbau und Renovierung",
+      "typ": "Wohnen",
+      "text": "Umbau und Renovierung mit Grundrissplanung, Möblierung und Beleuchtungskonzept: Wohnen, Essen und Kochen, Treppenauge, Einbaumöbel mit TV-Wand und Kamin, Haustür als Lofttür sowie tapeziertes Gäste-WC.",
+      "bilder": []
+    },
+    {
+      "titel": "BV PS – Altbausanierung",
+      "typ": "Wohnen",
+      "text": "Altbausanierung mit Grundriss- und Entwurfsplanung: Wohnbereiche im Erdgeschoss mit Sichtachsen und fortgeführten Rundbögen, abgestimmte Materialien und Oberflächen sowie neue Fenster und Haustür.",
+      "bilder": []
+    },
+    {
+      "titel": "BV BS – Altbausanierung",
+      "typ": "Wohnen",
+      "text": "Altbausanierung mit Fassadengestaltung zur Gartenseite und Innenausbau: Wohn-Essbereich mit Kamin und Loft-Glas-Elementen, Eingangsbereich mit Treppenaufgang, Gäste-Bad, Badezimmer mit Sauna und Wellnessdusche sowie Einbauten im Kinderzimmer.",
+      "bilder": []
+    },
+    {
+      "titel": "BV GBA – Altbausanierung",
+      "typ": "Wohnen",
+      "text": "Altbausanierung mit neuer Haustür und neuen Fenstern in der Frontansicht, Treppenhaus mit Lichtkuppel, Diele, Kamin sowie Wohnzimmer mit Erker.",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Raumkonzepte",
+      "text": ""
+    },
+    {
+      "titel": "Interior Design",
+      "text": ""
+    }
+  ],
+  "demo": {
+    "fuer": "Khavari-Lahme Architektur & Raumkonzepte",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://www.khavari-lahme.de/",
+    "seiten": [
+      "https://www.khavari-lahme.de/",
+      "https://khavari-lahme.de/impressum/",
+      "https://khavari-lahme.de/portfolio/",
+      "https://khavari-lahme.de/leistungen/",
+      "https://khavari-lahme.de/ueber-uns-2/"
+    ],
+    "erstellt": "2026-10-13T12:05:13.081Z",
+    "abgeleitetAus": "demos/architektur/khavari-lahme-architektur-raumkonzepte-duesseldorf.json"
+  }
+}
