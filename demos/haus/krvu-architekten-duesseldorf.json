@@ -1,0 +1,92 @@
+{
+  "firma": {
+    "name": "KRVU Architekten",
+    "kurz": "Kreutzer",
+    "ort": "Düsseldorf",
+    "seit": 2025,
+    "email": "info@krvu-architekten.de",
+    "telefon": "+49 211 158 276 02",
+    "adresse": [
+      "Peter-Behrens-Straße 109a",
+      "40595 Düsseldorf"
+    ]
+  },
+  "haltung": "Architektur ist kein Selbstzweck: Sie wird von Menschen für Menschen entworfen und muss sich im Laufe der Zeit entwickeln, an Veränderungen der Umgebung und an individuelle Bedürfnisse anpassen können. Wir streben eine Architektur an, die sich durch ein natürliches Zusammenspiel von Form, Funktion und Ästhetik auszeichnet.",
+  "projekte": [
+    {
+      "titel": "JK70 – Kettenhaus",
+      "ort": "Düsseldorf",
+      "jahr": 2026,
+      "typ": "Wohnen",
+      "text": "Kettenhaus in Düsseldorf.",
+      "bilder": []
+    },
+    {
+      "titel": "Cafe Lib – Innenarchitektur",
+      "ort": "Düsseldorf",
+      "jahr": 2026,
+      "typ": "Gewerbe",
+      "text": "Innenarchitektonische Planung für ein Café in Düsseldorf.",
+      "bilder": [
+        "https://krvu-architekten.de/wp-content/uploads/Interior-Render_Cafe.jpg",
+        "https://krvu-architekten.de/wp-content/uploads/Interior-Render_Cafe-2048x1421.jpg"
+      ]
+    },
+    {
+      "titel": "E1 – Einfamilienhaus",
+      "ort": "Düsseldorf",
+      "jahr": 2025,
+      "typ": "Einfamilienhaus",
+      "text": "Einfamilienhaus in Düsseldorf.",
+      "bilder": []
+    },
+    {
+      "titel": "Multicub – Möbelentwurf",
+      "ort": "Düsseldorf",
+      "jahr": 2024,
+      "typ": "Projekt",
+      "text": "Möbelentwurf aus eigener Planung.",
+      "bilder": []
+    },
+    {
+      "titel": "P27 – Quartiersentwicklung",
+      "ort": "Aachen",
+      "jahr": 2020,
+      "typ": "Projekt",
+      "text": "Quartiersentwicklung in Aachen.",
+      "bilder": []
+    },
+    {
+      "titel": "B51 – Mehrfamilienhaus mit Gewerbeeinheit",
+      "ort": "Aachen",
+      "jahr": 2019,
+      "typ": "Wohnen",
+      "text": "Mehrfamilienhaus mit Gewerbeeinheit in Aachen.",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Innenarchitektur",
+      "text": "Räume, Licht und Materialien aus einer Hand."
+    }
+  ],
+  "demo": {
+    "fuer": "KRVU Architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://krvu-architekten.de/",
+    "seiten": [
+      "https://krvu-architekten.de/",
+      "https://krvu-architekten.de/impressum/",
+      "https://krvu-architekten.de/buero/"
+    ],
+    "erstellt": "2026-10-13T10:51:52.437Z",
+    "abgeleitetAus": "demos/architektur/krvu-architekten-duesseldorf.json"
+  }
+}
