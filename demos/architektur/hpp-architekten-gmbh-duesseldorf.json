@@ -1,0 +1,500 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "HPP Architekten GmbH",
+    "beschreibung": "Architektur, Innenarchitektur, Revitalisierung, Landschaftsarchitektur, Quartiers- und Stadtplanung sowie Generalplanung, Baumanagement und Projektsteuerung",
+    "haltung": "Das „Wir“ prägt unsere Haltung: Architektur entsteht bei uns im Dialog mit den Bauherren und mit den Menschen, die sie nutzen werden. Keine einzelne Handschrift, sondern vielfältige Perspektiven, die für jede Bauaufgabe eine eigenständige Lösung entwickeln.",
+    "intro": "HPP Architekten planen seit der Bürogründung 1933 Architektur und Städtebau – heute aus dem Headquarter im Düsseldorfer MedienHafen heraus und an 13 Standorten weltweit.",
+    "gegruendet": 1933,
+    "email": "duesseldorf@hpp.com",
+    "telefon": "+49 211 8384-0",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Zollhof 26",
+          "40221 Düsseldorf"
+        ]
+      },
+      {
+        "stadt": "Amsterdam",
+        "adresse": [
+          "Ridderspoorweg 66",
+          "1032 LL Amsterdam"
+        ]
+      },
+      {
+        "stadt": "Berlin",
+        "adresse": [
+          "Neue Grünstraße 18",
+          "10179 Berlin"
+        ]
+      },
+      {
+        "stadt": "Frankfurt",
+        "adresse": [
+          "Reuterweg 20",
+          "60323 Frankfurt"
+        ]
+      },
+      {
+        "stadt": "Hamburg",
+        "adresse": [
+          "Georgsplatz 10",
+          "20099 Hamburg"
+        ]
+      },
+      {
+        "stadt": "Köln",
+        "adresse": [
+          "Kreishausgalerie, St. Apern-Straße 17-21",
+          "50667 Köln"
+        ]
+      },
+      {
+        "stadt": "Beijing",
+        "adresse": [
+          "Rm 306, Building 81#, No. 4 Workers Stadium North Road, Chaoyang District",
+          "Beijing 100027, China"
+        ]
+      },
+      {
+        "stadt": "Istanbul",
+        "adresse": [
+          "Olive Plaza Maslak Mah., Ahi Evran Cad. No: 11/6",
+          "34485 Maslak-Sarıyer – İstanbul"
+        ]
+      },
+      {
+        "stadt": "Leipzig"
+      },
+      {
+        "stadt": "München"
+      },
+      {
+        "stadt": "Shanghai"
+      },
+      {
+        "stadt": "Shenzhen"
+      },
+      {
+        "stadt": "Stuttgart"
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Opernhaus der Zukunft",
+      "ort": "Düsseldorf",
+      "jahr": 2025,
+      "typologie": "Kultur",
+      "status": "Wettbewerb",
+      "kurz": "Der Entwurf für das neue Opernhaus in Düsseldorf versteht sich als Beitrag zur aktuellen Diskussion um die Rolle kultureller Großbauten in der europäischen Stadt.",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "The Cradle",
+      "ort": "Düsseldorf",
+      "jahr": 2023,
+      "kurz": "Mit seinem kreislaufgerechten Designkonzept wird The Cradle zum Impulsgeber für die zukunftsfähige Stadt.",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Konversion Jinyu Xingfa Science Park",
+      "ort": "Beijing",
+      "jahr": 2024,
+      "kurz": "Transformation einer ehemaligen Zementfabrik: Mit 36 ha Projektfläche übertrifft der Jinyu Xingfa Science Park den Maßstab aller bisherigen Revitalisierungsprojekte des Büros.",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Sanierung & Erweiterung Bühnen Köln",
+      "ort": "Köln",
+      "jahr": 2026,
+      "typologie": "Kultur",
+      "kurz": "Nach Jahren der Sanierung, Erweiterung und Modernisierung kehrt eines der bedeutendsten Kulturensembles Kölns in das öffentliche Leben zurück.",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Revitalisierung Dreischeibenhaus",
+      "ort": "Düsseldorf",
+      "jahr": 2015,
+      "kurz": "Das Dreischeibenhaus von 1960 ist bis heute stadtbildprägend und manifestiert die Auffassung von werthaltiger Architektur bei HPP.",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Hochhaus Goldbeck",
+      "ort": "Bielefeld",
+      "jahr": 2026,
+      "status": "Wettbewerb",
+      "kurz": "Im Wettbewerbsverfahren für ein zwölfstöckiges Hochhaus für Goldbeck in Bielefeld erhielt der HPP-Entwurf den ersten Preis.",
+      "bilder": []
+    },
+    {
+      "titel": "Revitalisierung Hauptbahnhof Leipzig",
+      "ort": "Leipzig",
+      "jahr": 1997,
+      "typologie": "Öffentlich",
+      "kurz": "Umbau und Sanierung des denkmalgeschützten Leipziger Hauptbahnhofs.",
+      "bilder": []
+    },
+    {
+      "titel": "EXPO Village",
+      "ort": "Shanghai",
+      "jahr": 2009,
+      "kurz": "Mit dem gewonnenen Wettbewerb für das Expo Village zur Weltausstellung in Shanghai gelang HPP 2006 der Durchbruch in China.",
+      "bilder": []
+    },
+    {
+      "titel": "ONE PLAZA",
+      "ort": "Düsseldorf",
+      "jahr": 2025,
+      "bilder": []
+    },
+    {
+      "titel": "FOUR Frankfurt",
+      "ort": "Frankfurt am Main",
+      "jahr": 2026,
+      "bilder": []
+    },
+    {
+      "titel": "Südliches Überseequartier",
+      "ort": "Hamburg",
+      "jahr": 2024,
+      "bilder": []
+    },
+    {
+      "titel": "Justizzentrum Köln",
+      "ort": "Köln",
+      "jahr": 2041,
+      "typologie": "Öffentlich",
+      "bilder": []
+    },
+    {
+      "titel": "Middenzaal Theater aan het Vrijthof",
+      "ort": "Maastricht",
+      "jahr": 2029,
+      "typologie": "Kultur",
+      "bilder": []
+    },
+    {
+      "titel": "DESYUM Besucherzentrum",
+      "ort": "Hamburg",
+      "jahr": 2026,
+      "bilder": []
+    },
+    {
+      "titel": "CISPA Campus",
+      "ort": "St. Ingbert bei Saarbrücken",
+      "jahr": 2028,
+      "bilder": []
+    },
+    {
+      "titel": "Deutsches Fussballmuseum",
+      "ort": "Dortmund",
+      "jahr": 2015,
+      "typologie": "Kultur",
+      "bilder": []
+    },
+    {
+      "titel": "Neubau Stadtbibliothek",
+      "ort": "Mannheim",
+      "jahr": 2020,
+      "typologie": "Öffentlich",
+      "bilder": []
+    },
+    {
+      "titel": "Europa-Park Stadion",
+      "ort": "Freiburg",
+      "jahr": 2021,
+      "bilder": []
+    },
+    {
+      "titel": "Hochschule für Musik und Tanz",
+      "ort": "Köln",
+      "jahr": 2018,
+      "typologie": "Bildung",
+      "bilder": []
+    },
+    {
+      "titel": "LifeCycle",
+      "ort": "Amsterdam",
+      "jahr": 2023,
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Burkhard Junker",
+      "rolle": "Dipl.-Ing. Architekt, Geschäftsführender Gesellschafter der HPP Architekten GmbH, Geschäftsführer aller deutscher HPP Tochtergesellschaften",
+      "partner": true,
+      "bio": "Burkhard Junker absolvierte sein Bauingenieur- und Architekturstudium an der TU München. Nach Stationen in Deutschland und zahlreichen Auslandsaufenthalten sowie internationalen Projekten wechselte er 2014 in den Gesellschafterkreis von HPP Architekten. 2023 wurde er zum Geschäftsführenden Gesellschafter der HPP Architekten GmbH ernannt und führt seine Arbeit nach vielen Jahren in München nun schwerpunktmäßig aus Düsseldorf fort. Er ist Mitglied der Architektenkammer Bayern."
+    },
+    {
+      "name": "Antonino Vultaggio",
+      "rolle": "Dipl.-Ing. Architekt, Geschäftsführender Gesellschafter der HPP Architekten GmbH, Geschäftsführer aller deutscher HPP Tochtergesellschaften",
+      "partner": true,
+      "bio": "Nach seinem Architekturstudium in Frankfurt am Main arbeitete Antonino Vultaggio bei KSP Jürgen Engel Architekten, zunächst in der Bearbeitung von Wettbewerben, seit 2007 als stellvertretender Leiter Entwurf. 2010 kam er zu HPP, wo er die Leitung des Entwurfs übernahm. 2012 wurde er zum Projektpartner, 2018 zum Partner und 2021 als Senior Partner in den Gesellschafterkreis berufen. Seit 2026 ist er Geschäftsführender Gesellschafter der HPP Architekten GmbH sowie Geschäftsführer aller deutscher HPP Tochtergesellschaften. Er ist Mitglied der Architektenkammer NRW."
+    },
+    {
+      "name": "Matthias Faber",
+      "rolle": "Dipl.-Ing. Architekt, Gesellschafter HPP Architekten GmbH",
+      "partner": true,
+      "bio": "Nach seinem Architekturstudium war Matthias Faber im Büro kadawittfeldarchitektur tätig. Währenddessen erhielt er einen Lehrauftrag an der RWTH Aachen im Lehrgebiet für Bauplanung und Baurealisierung. Nach Stationen im Büro Bothe Richter Teherani sowie Jürgen Engel Architekten kam er 2014 zu HPP, wo er am Standort Düsseldorf als Leiter der Entwurfsabteilung tätig war. 2020 wurde er zum Associate Partner, 2022 zum Partner und 2024 zum Senior Partner der HPP Architekten GmbH berufen. Er ist Mitglied der Architektenkammer NRW."
+    },
+    {
+      "name": "Claudia Berger-Koch",
+      "rolle": "Dipl.-Kauffrau, Gesellschafterin der HPP Architekten GmbH, Geschäftsführerin der HPP Service GmbH",
+      "partner": true,
+      "bio": "Claudia Berger-Koch absolvierte ein BWL-Studium an der Universität des Saarlandes sowie ein MBA-Programm an der University of Michigan. Seit 2001 ist sie Geschäftsführerin der HPP Service GmbH. 2020 wurde sie in den Gesellschafterkreis der HPP Architekten GmbH berufen und agierte von 2024 bis 2026 außerdem als Geschäftsführende Gesellschafterin sowie Geschäftsführerin aller deutscher HPP-Tochtergesellschaften. Sie verantwortet die kaufmännische Leitung der HPP-Gesellschaften."
+    },
+    {
+      "name": "Stephan Kauert",
+      "rolle": "Dipl.-Ing. Architekt, Gesellschafter HPP Architekten GmbH, Geschäftsführer HPP Generalplanung",
+      "partner": true,
+      "bio": "Stephan Kauert studierte nach einer Tischlerlehre Architektur, Philosophie und Geschichte in Aachen. 2014 kam er zur HPP Generalplanung. Seit 2017 leitet er das Baumanagement, 2018 wurde er zum Partner der HPP Architekten GmbH, 2020 zum Geschäftsführer der HPP International Planungsgesellschaft mbH Geschäftsbereich Generalplanung und 2023 zum Gesellschafter der HPP Architekten GmbH berufen. Er ist Mitglied der Architektenkammer NRW."
+    },
+    {
+      "name": "Remigiusz Otrzonsek",
+      "rolle": "Dipl.-Ing. Architekt, Gesellschafter HPP Architekten GmbH",
+      "partner": true,
+      "bio": "Remigiusz Otrzonsek absolvierte sein Studium an der TH Breslau sowie der RWTH Aachen. 1992 kam er zu HPP. Dort führt er seit 1999 das Kölner HPP-Büro mit seinem heute knapp 35-köpfigen Team. Zunächst als Projektpartner tätig, wurde er 2007 zum Gesellschafter der HPP Architekten GmbH berufen. Seit 2023 wird er bei der Leitung des Standorts Köln durch den Büroleiter Robert Bönsch unterstützt. Er ist Mitglied der Architektenkammer NRW."
+    },
+    {
+      "name": "Werner Sübai",
+      "rolle": "Dipl.-Ing. Architekt, Gesellschafter HPP Architekten GmbH",
+      "partner": true,
+      "bio": "Werner Sübai studierte an der Bergischen Universität Wuppertal Architektur. 1989 kam er zu HPP, wo er ab 1999 als Projektpartner und seit 2008 als Gesellschafter tätig ist. Für den Umbau und die Sanierung des denkmalgeschützten Leipziger Hauptbahnhofs erhielt er 1999 den Sächsischen Staatspreis für Architektur. Seit Mitte der Neunziger Jahre setzt er seinen Schwerpunkt unter anderem auf die internationale Ausrichtung des Architekturbüros. Er ist Mitglied der Architektenkammer NRW."
+    },
+    {
+      "name": "Klaus Schmidt",
+      "rolle": "Partner, Büroleitung Frankfurt",
+      "partner": true
+    },
+    {
+      "name": "Götz Gagelmann",
+      "rolle": "Partner, Büroleitung Hamburg",
+      "partner": true
+    },
+    {
+      "name": "Jens Kump",
+      "rolle": "Partner, Büroleitung Beijing",
+      "partner": true
+    },
+    {
+      "name": "Yu Wei",
+      "rolle": "Partner, Büroleitung Beijing",
+      "partner": true
+    },
+    {
+      "name": "Bugrahan Sirin",
+      "rolle": "Partner, Büroleitung Istanbul",
+      "partner": true
+    },
+    {
+      "name": "Alexander Straub",
+      "rolle": "Associate Partner, Büroleitung Amsterdam"
+    },
+    {
+      "name": "Guido Graul",
+      "rolle": "Associate Partner HPP Architekten, Büroleitung Berlin, Bereich Planung"
+    },
+    {
+      "name": "Katharina Förderer-Marx",
+      "rolle": "B.A., B.Sc., Geschäftsführerin HPP Projektmanagement GmbH, Büroleitung Berlin, Bereich Projektsteuerung"
+    },
+    {
+      "name": "Steffen Huhn",
+      "rolle": "Dipl.-Ing., Geschäftsführer HPP Projektmanagement GmbH, Büroleitung Berlin, Bereich Projektsteuerung",
+      "bio": "Mitglied der Architektenkammer Berlin."
+    },
+    {
+      "name": "Alfred Schwab",
+      "rolle": "Dipl.-Ing., Geschäftsführer HPP Generalplanung GmbH",
+      "bio": "Mitglied der Architektenkammer NRW."
+    },
+    {
+      "name": "Robert Bönsch",
+      "rolle": "Büroleiter Köln"
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 1933,
+      "text": "Bürogründung durch Helmut Hentrich."
+    },
+    {
+      "jahr": 1935,
+      "text": "Bildung einer Arbeitsgemeinschaft mit Hans Heuser."
+    },
+    {
+      "jahr": 1953,
+      "text": "Weiterführung der Arbeitsgemeinschaft mit Hubert Petschnigg – Ausgangslage für die Namensgebung „HPP“."
+    },
+    {
+      "jahr": 1968,
+      "text": "Als erstes deutsches Büro der Schritt ins Ausland mit dem Standard Bank Centre in Johannesburg."
+    },
+    {
+      "jahr": 1969,
+      "text": "Büroname seit der Aufnahme neuer Partner: HPP Hentrich-Petschnigg & Partner."
+    },
+    {
+      "jahr": 1971,
+      "text": "Gründung der HPP Bau- und Projektmanagement GmbH."
+    },
+    {
+      "jahr": 1972,
+      "text": "Neue Rechtsform einer Kommanditgesellschaft."
+    },
+    {
+      "jahr": 1977,
+      "text": "Gründung der HPP International Planungsgesellschaft mbH."
+    },
+    {
+      "jahr": 1995,
+      "text": "Gründung der HPP Laage & Partner Planungsgesellschaft mbH."
+    },
+    {
+      "jahr": 1998,
+      "text": "Gründung der HPP Service GmbH."
+    },
+    {
+      "jahr": 2002,
+      "text": "Gründung der HPP International Architektur Consult Ltd. Shanghai."
+    },
+    {
+      "jahr": 2006,
+      "text": "Eröffnung eines festen Standorts in Shanghai, wo HPP bereits seit 1999 tätig war; im selben Jahr Gewinn des Wettbewerbs für das Expo Village zur Weltausstellung in Shanghai."
+    },
+    {
+      "jahr": 2007,
+      "text": "Neue Rechtsform einer GmbH + Co. KG."
+    },
+    {
+      "jahr": 2010,
+      "text": "Verschmelzung der HPP Laage & Partner Planungsgesellschaft mbH mit der HPP Hentrich-Petschnigg & Partner GmbH + Co. KG."
+    },
+    {
+      "jahr": 2011,
+      "text": "Verschmelzung der HPP Bau- und Projektmanagement GmbH mit der HPP International Planungsgesellschaft mbH; Zusammenführung der Geschäftsbereiche Generalplanung, Auslandsprojekte, Projektmanagement und Projektsteuerung."
+    },
+    {
+      "jahr": 2012,
+      "text": "Gründung der HPP International Turkey Mimarlik ve Danismanlik Hizmetleri Ltd. Sti."
+    },
+    {
+      "jahr": 2017,
+      "text": "Umfirmierung der HPP Hentrich-Petschnigg & Partner GmbH + Co. KG zur HPP Architekten GmbH."
+    },
+    {
+      "jahr": 2020,
+      "text": "Gründung der HPP Architects B.V. Amsterdam NL sowie der HPP International Architektur Consult Ltd. Beijing und Shenzhen."
+    },
+    {
+      "jahr": 2022,
+      "text": "Gründung der HPP Generalplanung GmbH sowie der HPP Projektmanagement GmbH."
+    },
+    {
+      "jahr": 2024,
+      "text": "Aufnahme des Landschaftsarchitekturbüros +grün GmbH in die HPP-Unternehmensstruktur."
+    }
+  ],
+  "auszeichnungen": [
+    {
+      "jahr": 1999,
+      "name": "Sächsischer Staatspreis für Architektur",
+      "projekt": "Umbau und Sanierung des denkmalgeschützten Leipziger Hauptbahnhofs"
+    },
+    {
+      "jahr": 2026,
+      "name": "Erster Preis im Wettbewerbsverfahren",
+      "projekt": "Hochhaus Goldbeck, Bielefeld"
+    }
+  ],
+  "journal": [
+    {
+      "titel": "Wiedereröffnung der Bühnen Köln",
+      "datum": "2026-09-18",
+      "kategorie": "News",
+      "text": "Nach Jahren der Sanierung, Erweiterung und Modernisierung stehen die Bühnen Köln kurz vor ihrer Wiedereröffnung. Mit dem Eröffnungsfest am 19. und 20. September kehrt eines der bedeutendsten Kulturensembles der Stadt in das öffentliche Leben zurück."
+    },
+    {
+      "titel": "Bauantrag für die Michael-Ende-Schule in Lengerich eingereicht",
+      "datum": "2026-08-21",
+      "kategorie": "News",
+      "text": "Ein Ort, an dem alle Wege zurück zur Aula führen und die räumliche Gestaltung Orientierung gibt."
+    },
+    {
+      "titel": "HPP plant Theater am Rhein in Köln",
+      "datum": "2026-08-06",
+      "kategorie": "News",
+      "text": "Auf dem Gelände der historischen „Pressa“, die Köln 1928 als moderne und weltoffene Stadt international präsentierte, entsteht das neue Theater am Rhein in Köln-Deutz."
+    },
+    {
+      "titel": "Präzision im Einsatz. Architektur im Takt der Abläufe.",
+      "datum": "2026-07-10",
+      "kategorie": "News",
+      "text": "Am Ortseingang von Viersen-Dülken plant HPP eine neue Hauptrettungswache, die Abläufe sichtbar macht und räumlich konsequent organisiert."
+    },
+    {
+      "titel": "Neuaufstellung der Geschäftsführung",
+      "datum": "2026-06-09",
+      "kategorie": "News",
+      "text": "Vor dem Hintergrund der aktuellen Transformationsprozesse im Markt und der strategischen Weiterentwicklung von HPP haben die Gesellschafter entschieden, die Vertretung des Büros in der Geschäftsführung wieder stärker architektonisch auszurichten."
+    },
+    {
+      "titel": "100 Jahre Tonhalle Düsseldorf",
+      "datum": "2026-05-29",
+      "kategorie": "News",
+      "text": "Eines der bedeutendsten Kulturprojekte der Stadt und einer der führenden Veranstaltungsorte für darstellende Künste feiert Jubiläum."
+    },
+    {
+      "titel": "Ein Ort zum Staunen",
+      "datum": "2026-05-22",
+      "kategorie": "News",
+      "text": "Ein neuer kultureller Raum für Köln und seine jüngsten Besucher:innen: Die Bühnen Köln geben erste Einblicke in die künftigen Spielinhalte der Kinderoper."
+    },
+    {
+      "titel": "Architektur im Dialog – NEW hpp.com",
+      "datum": "2026-04-14",
+      "kategorie": "News",
+      "text": "Mit dem Relaunch der Website öffnen wir bewusst den Raum für Austausch: über Architektur, über Zusammenarbeit und über die Werte, die unser Handeln leiten."
+    },
+    {
+      "titel": "Wettbewerb Opernhaus der Zukunft – Architektonische Haltung und Weiterentwicklung",
+      "datum": "2026-04-01",
+      "kategorie": "News",
+      "text": "Unser Entwurf für das neue Opernhaus in Düsseldorf versteht sich als Beitrag zur aktuellen Diskussion um die Rolle kultureller Großbauten in der europäischen Stadt."
+    },
+    {
+      "titel": "Erster Preis im Wettbewerb Goldbeck Hochhaus Bielefeld",
+      "datum": "2026-03-30",
+      "kategorie": "News",
+      "text": "Der HPP-Entwurf im Wettbewerbsverfahren für ein zwölfstöckiges Hochhaus für Goldbeck in Bielefeld hat den ersten Preis erhalten. Damit konnte HPP sich gegen elf weitere Architekturbüros durchsetzen."
+    }
+  ],
+  "demo": {
+    "fuer": "HPP Architekten GmbH",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.hpp.com/",
+    "seiten": [
+      "http://www.hpp.com/",
+      "http://www.hpp.com/de/impressum/",
+      "http://www.hpp.com/de/ueber-uns/standorte/",
+      "http://www.hpp.com/de/ueber-uns/team/",
+      "http://www.hpp.com/de/ueber-uns/geschichte/",
+      "http://www.hpp.com/de/projekte/",
+      "http://www.hpp.com/de/karriere/bei-hpp-arbeiten/",
+      "http://www.hpp.com/de/aktuelles/"
+    ],
+    "erstellt": "2026-10-13T11:50:49.441Z"
+  }
+}
