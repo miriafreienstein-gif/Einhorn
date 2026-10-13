@@ -1,0 +1,89 @@
+{
+  "firma": {
+    "name": "DP Design Studio",
+    "kurz": "Piechulek",
+    "ort": "Düsseldorf",
+    "seit": 2020,
+    "email": "dajana@dpdesignstudio.de",
+    "telefon": "+49 178 1869079",
+    "adresse": [
+      "Elsa-Brändström-Straße 31",
+      "40595 Düsseldorf"
+    ]
+  },
+  "haltung": "Gute Architektur entsteht aus Freude und Leidenschaft an der Arbeit. Im kooperativen Planungsprozess mit den Bauherren entstehen zeitgemäße Architekturkonzepte auf Basis kundenspezifischer Ziele und klar definierter Parameter.",
+  "projekte": [
+    {
+      "titel": "Abriss und Neubau EFH Rommerskirchen",
+      "ort": "Rommerskirchen",
+      "jahr": 2023,
+      "typ": "Einfamilienhaus",
+      "text": "Rückbau eines technisch überholten Bestandsgebäudes und Planung eines Neubaus auf dem frei gewordenen Grundstück.",
+      "bilder": []
+    },
+    {
+      "titel": "Umbauprojekt Ratingen",
+      "ort": "Ratingen",
+      "jahr": 2022,
+      "typ": "Wohnen",
+      "text": "Modernisierung und Umbau einer Doppelhaushälfte in einer Wohnsiedlung in Ratingen bei Düsseldorf.",
+      "bilder": []
+    },
+    {
+      "titel": "Dachausbau Düsseldorf",
+      "ort": "Düsseldorf",
+      "jahr": 2021,
+      "typ": "Wohnen",
+      "text": "Das Dachgeschoss einer Doppelhaushälfte im Düsseldorfer Süden wird zu einer autarken, modernen Wohneinheit im bestehenden Gebäude umgebaut.",
+      "bilder": []
+    },
+    {
+      "titel": "Anbau an ein EFH",
+      "ort": "Düsseldorf",
+      "jahr": 2021,
+      "typ": "Einfamilienhaus",
+      "text": "Ein neues Raumkonzept für ein bestehendes Einfamilienhaus in Düsseldorf – mit kommunikativem Familienbereich im Erdgeschoss und Rückzugsmöglichkeiten in den oberen Etagen.",
+      "bilder": []
+    },
+    {
+      "titel": "Wohnkonzept \"Wohnen mit Kindern\"",
+      "ort": "Mülheim an der Ruhr",
+      "jahr": 2016,
+      "typ": "Wohnen",
+      "text": "Städtebauliche Planung von Neubauten auf einem ehemaligen Schulgelände in Mülheim an der Ruhr inklusive des Wohnkonzepts \"Wohnen mit Kindern\".",
+      "bilder": []
+    },
+    {
+      "titel": "Hochhausstudie Düsseldorf",
+      "ort": "Düsseldorf",
+      "jahr": 2017,
+      "typ": "Wohnen",
+      "text": "Entwurf und Studie für die \"Düsseldorfer Heights\" auf dem Gelände des ehemaligen Hochschulcampus der Hochschule Düsseldorf.",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architecture",
+      "text": ""
+    },
+    {
+      "titel": "Interior",
+      "text": ""
+    }
+  ],
+  "demo": {
+    "fuer": "DP Design Studio",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.dpdesignstudio.de/",
+    "seiten": [
+      "http://www.dpdesignstudio.de/",
+      "http://www.dpdesignstudio.de/galerie",
+      "http://www.dpdesignstudio.de/über-uns"
+    ],
+    "erstellt": "2026-10-13T11:53:08.942Z",
+    "abgeleitetAus": "demos/architektur/dp-design-studio-duesseldorf.json"
+  }
+}
