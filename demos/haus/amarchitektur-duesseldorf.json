@@ -1,0 +1,91 @@
+{
+  "firma": {
+    "name": "AM architektur",
+    "kurz": "Müller",
+    "ort": "Düsseldorf",
+    "seit": 2013,
+    "email": "",
+    "telefon": "+49 211 97710464",
+    "adresse": [
+      "Bingener Weg 5",
+      "40229 Düsseldorf"
+    ]
+  },
+  "haltung": "Die Wünsche des Bauherrn stehen im Mittelpunkt: Gemeinsam mit dem Kunden entsteht eine nachhaltige Architektur, die den heutigen technischen und energetischen Standards entspricht. Ein fortgeschriebenes Zeit-, Kosten- und Qualitätsmanagement sorgt vom Erstgespräch bis zur Fertigstellung für Transparenz.",
+  "projekte": [
+    {
+      "titel": "Ausbau Dachgeschoss",
+      "ort": "Düsseldorf",
+      "jahr": 2017,
+      "flaeche": 150,
+      "typ": "Wohnen",
+      "text": "Umbau zu einer exklusiven Dachgeschosswohnung mit Nutzung des Spitzbodens als Maisonette.",
+      "bilder": []
+    },
+    {
+      "titel": "Umbau und energetische Sanierung 3-Parteienhaus",
+      "ort": "Korschenbroich",
+      "jahr": 2022,
+      "flaeche": 270,
+      "typ": "Wohnen",
+      "text": "Ein 3-Parteienhaus aus den 1920er Jahren erhält eine neue Einteilung der Wohneinheiten und eine barrierefreie Erschließung über einen Seniorenlift.",
+      "bilder": []
+    },
+    {
+      "titel": "Umbau und Neubau Ärztehaus",
+      "ort": "Korschenbroich",
+      "jahr": 2017,
+      "flaeche": 1100,
+      "typ": "Gewerbe",
+      "text": "Eine ehemalige Sparkasse in Ziegelbauweise wurde durch einen Rechteckbau mit Walmdach zu einem großzügigen Ärztehaus erweitert.",
+      "bilder": []
+    },
+    {
+      "titel": "Aufzug mit Einhausung",
+      "ort": "Düsseldorf",
+      "jahr": 2017,
+      "typ": "Wohnen",
+      "text": "Bau eines Seniorenliftes auf der Rückseite eines Mehrfamilienhauses mit zwei Halteebenen und regensicherer Alu-Einhausung zwischen 2. und 3. Obergeschoss.",
+      "bilder": []
+    },
+    {
+      "titel": "Umbau Gastronomie mit Neubau von 16 Wohn- und 2 Büroeinheiten",
+      "ort": "Korschenbroich",
+      "flaeche": 2500,
+      "typ": "Gewerbe",
+      "text": "Das über 250 Jahre alte ehemalige Wirtshaus wird Bestandteil eines neuen städtischen Quartiers mit 16 hochwertigen Mieteinheiten von 60–140 qm Größe.",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Energieeffizienz",
+      "text": ""
+    },
+    {
+      "titel": "Immobilie",
+      "text": ""
+    }
+  ],
+  "demo": {
+    "fuer": "AM architektur",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.amarchitektur.de/",
+    "seiten": [
+      "http://www.amarchitektur.de/",
+      "http://www.amarchitektur.de/über-mich/",
+      "http://www.amarchitektur.de/leistungen/",
+      "http://www.amarchitektur.de/projekte/",
+      "http://www.amarchitektur.de/about/",
+      "http://www.amarchitektur.de/j/legal-guarantee"
+    ],
+    "erstellt": "2026-10-13T11:45:07.795Z",
+    "abgeleitetAus": "demos/architektur/amarchitektur-duesseldorf.json"
+  }
+}
