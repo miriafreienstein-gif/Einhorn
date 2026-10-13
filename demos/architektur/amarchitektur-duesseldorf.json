@@ -1,0 +1,150 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "AM architektur",
+    "beschreibung": "Architektur · Energieeffizienz · Immobilie",
+    "haltung": "Die Wünsche des Bauherrn stehen im Mittelpunkt: Gemeinsam mit dem Kunden entsteht eine nachhaltige Architektur, die den heutigen technischen und energetischen Standards entspricht. Ein fortgeschriebenes Zeit-, Kosten- und Qualitätsmanagement sorgt vom Erstgespräch bis zur Fertigstellung für Transparenz.",
+    "intro": "AM architektur ist ein Architekturbüro im Norden von Düsseldorf mit Arbeitsschwerpunkt im Wohnungs-, Verwaltungs- und Gewerbebau, gegründet 2013.",
+    "gegruendet": 2013,
+    "telefon": "+49 211 97710464",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Bingener Weg 5",
+          "40229 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Ausbau Dachgeschoss",
+      "ort": "Düsseldorf",
+      "jahr": 2017,
+      "typologie": "Wohnen",
+      "flaeche": 150,
+      "kurz": "Umbau zu einer exklusiven Dachgeschosswohnung mit Nutzung des Spitzbodens als Maisonette.",
+      "kapitel": [
+        {
+          "titel": "Leistung",
+          "text": "Leistungsphasen 1–9. Nutzfläche 150 qm."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Umbau und energetische Sanierung 3-Parteienhaus",
+      "ort": "Korschenbroich",
+      "jahr": 2022,
+      "typologie": "Wohnen",
+      "flaeche": 270,
+      "kurz": "Ein 3-Parteienhaus aus den 1920er Jahren erhält eine neue Einteilung der Wohneinheiten und eine barrierefreie Erschließung über einen Seniorenlift.",
+      "kapitel": [
+        {
+          "titel": "Konstruktion",
+          "text": "Dachstuhl und Dach werden gemäß KfW-Standard erneuert, die Ziegelfassade zur Vorderseite wird aufgearbeitet und die Rückfassade erhält im Kontrast dazu einen weißen Kratzputz."
+        },
+        {
+          "titel": "Leistung",
+          "text": "Leistungsphasen 1–8. Nutzfläche 270 qm."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Umbau und Neubau Ärztehaus",
+      "ort": "Korschenbroich",
+      "jahr": 2017,
+      "typologie": "Gewerbe",
+      "flaeche": 1100,
+      "kurz": "Eine ehemalige Sparkasse in Ziegelbauweise wurde durch einen Rechteckbau mit Walmdach zu einem großzügigen Ärztehaus erweitert.",
+      "kapitel": [
+        {
+          "titel": "Leistung",
+          "text": "Leistungsphasen 1–5 und 8 in Kooperation mit Hein Architekten. BGF 1.100 qm."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Aufzug mit Einhausung",
+      "ort": "Düsseldorf",
+      "jahr": 2017,
+      "typologie": "Wohnen",
+      "kurz": "Bau eines Seniorenliftes auf der Rückseite eines Mehrfamilienhauses mit zwei Halteebenen und regensicherer Alu-Einhausung zwischen 2. und 3. Obergeschoss.",
+      "kapitel": [
+        {
+          "titel": "Ausführung",
+          "text": "Rollstuhlgerecht bis Zwischengeschoss. Leistungsphasen 1–8."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Umbau Gastronomie mit Neubau von 16 Wohn- und 2 Büroeinheiten",
+      "ort": "Korschenbroich",
+      "typologie": "Gewerbe",
+      "flaeche": 2500,
+      "kurz": "Das über 250 Jahre alte ehemalige Wirtshaus wird Bestandteil eines neuen städtischen Quartiers mit 16 hochwertigen Mieteinheiten von 60–140 qm Größe.",
+      "kapitel": [
+        {
+          "titel": "Nutzung",
+          "text": "Über der Gastronomie (Restaurant und alter Saal) werden 2 Büroeinheiten im Obergeschoss und Dachgeschoss angeboten."
+        },
+        {
+          "titel": "Leistung",
+          "text": "Korschenbroich, 2017–2020. BGF 2.500 qm. Leistungsphasen 1–5 und 8 in Kooperation mit Hein Architekten."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Armin Müller",
+      "rolle": "Dipl.-Ing. Architekt (TH), Inhaber",
+      "partner": true,
+      "bio": "Ausbildung zum Diplom-Ingenieur an der TU Kaiserslautern, der Ecole d'architecture de Toulouse und der RWTH Aachen. Mitarbeit in diversen Planungsbüros für nationale und internationale Projekte (Wohnungs-/Gewerbebau, Verwaltungs-/Schulbau, Denkmalpflege), Architekt beim Denkmalamt Budapest und bei der Gebäudewirtschaft der Stadt Leverkusen. Mitglied der Architektenkammer Nordrhein-Westfalen seit 2009, Energieeffizienzberater (BAFA, KfW) seit 2013. 2013 Gründung des eigenen Architekturbüros."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 2009,
+      "text": "Mitglied der Architektenkammer Nordrhein-Westfalen."
+    },
+    {
+      "jahr": 2011,
+      "text": "Fortbildung zum Energieberater (Wohnen) an der TU Darmstadt."
+    },
+    {
+      "jahr": 2012,
+      "text": "Fortbildung zum Sicherheits- und Gesundheitskoordinator (SiGeKo)."
+    },
+    {
+      "jahr": 2013,
+      "text": "Energieeffizienzberater (BAFA, KfW); Mitglied der DENA (Deutsche Energie-Agentur) und des VDI, Verein Deutscher Ingenieure; Gründung des eigenen Architekturbüros."
+    }
+  ],
+  "demo": {
+    "fuer": "AM architektur",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.amarchitektur.de/",
+    "seiten": [
+      "http://www.amarchitektur.de/",
+      "http://www.amarchitektur.de/über-mich/",
+      "http://www.amarchitektur.de/leistungen/",
+      "http://www.amarchitektur.de/projekte/",
+      "http://www.amarchitektur.de/about/",
+      "http://www.amarchitektur.de/j/legal-guarantee"
+    ],
+    "erstellt": "2026-10-13T11:45:07.795Z"
+  }
+}
