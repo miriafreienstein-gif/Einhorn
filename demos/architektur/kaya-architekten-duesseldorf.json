@@ -1,0 +1,185 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "Kaya Architekten",
+    "beschreibung": "Architektur, Bausachverständige & Energieberatung",
+    "haltung": "Wir begleiten Bauherrinnen und Bauherren von der Planung bis zur Endabnahme und beraten in jeder Bauphase. Neben der Planung von Neubau, Umbau und Sanierung prüfen wir als zertifizierte Bausachverständige und Energieberater Gebäude, Werte und Energiekonzepte.",
+    "intro": "Kaya Architekten planen, beraten und begutachten seit 2012 von Düsseldorf und Duisburg aus Bauvorhaben in Neubau und Sanierung.",
+    "gegruendet": 2012,
+    "email": "info@kaya-architekten.de",
+    "telefon": "+49 211 56604058",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Liesegangstraße 13",
+          "40211 Düsseldorf"
+        ]
+      },
+      {
+        "stadt": "Duisburg",
+        "adresse": [
+          "Krefelder Str. 297",
+          "47229 Duisburg"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Clauberghalle Duisburg",
+      "ort": "Duisburg",
+      "status": "realisiert",
+      "kurz": "Umbau der Clauberghalle zu einem barrierefrei erschlossenen Theatersaal mit Bestuhlung an Tischen und modernisierten, barrierefreien Sanitäranlagen.",
+      "kapitel": [
+        {
+          "titel": "Aufgabe",
+          "text": "Bei der Clauberghalle sollte die Raumplanung geändert werden. Der vormals bestuhlte Theatersaal sollte barrierefrei erreicht werden können und für den Verzehr von Speisen und Getränken mit Tischen ausgestattet werden. Beim Umbau im Inneren des Theatersaals musste die bestehende Rampe in mehrere Podeste aufgeteilt werden, um eine Befahrbarkeit mit dem Rollstuhl zu gewährleisten."
+        },
+        {
+          "titel": "Barrierefreiheit",
+          "text": "Die Barrierefreiheit findet sich auch in den Sanitäranlagen wieder. Die Räumlichkeiten wurden modernisiert und so umgestaltet, dass sie leicht zugänglich sind: Das Bad ist ebenerdig angelegt und mit dem Rollstuhl einfach zu erreichen, die Türen lassen sich über Schalter öffnen."
+        },
+        {
+          "titel": "Ergebnis",
+          "text": "Durch die fertige Rampe entsteht im Saal ein barrierefreier Zugang, der mit Rollstühlen oder Rollatoren leicht befahren werden kann."
+        }
+      ],
+      "bilder": [
+        "https://kaya-architekten.de/wp-content/uploads/2022/01/Modernisierung-barrierefreier-Bau-Duisburg-Kaya-Architekten.jpg",
+        "https://kaya-architekten.de/wp-content/uploads/2022/01/Sanierung-barrierefreies-Bad-WC-Duisburg-Kaya-Architekten.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Selfbox – Lagerräume",
+      "bilder": []
+    },
+    {
+      "titel": "Bayburt Tatil Evleri",
+      "bilder": []
+    },
+    {
+      "titel": "Dachausbau",
+      "bilder": []
+    },
+    {
+      "titel": "Produktionsstätten in der Dahlingstraße in Duisburg",
+      "ort": "Duisburg",
+      "bilder": []
+    },
+    {
+      "titel": "Material Handling Toyota Duisburg",
+      "ort": "Duisburg",
+      "bilder": []
+    },
+    {
+      "titel": "Sanierung Softwarefirma in Rodenkirchen",
+      "ort": "Rodenkirchen",
+      "bilder": []
+    },
+    {
+      "titel": "Sanierung Realschule Rheinhausen",
+      "ort": "Rheinhausen",
+      "typologie": "Bildung",
+      "bilder": []
+    },
+    {
+      "titel": "KFZ-Freizeitzentrum Wehofen",
+      "ort": "Wehofen",
+      "bilder": []
+    },
+    {
+      "titel": "Fenster einbauen",
+      "bilder": []
+    },
+    {
+      "titel": "Mehrfamilienhaus",
+      "typologie": "Wohnen",
+      "bilder": []
+    },
+    {
+      "titel": "Bauten mit verschiedenen Baumaterialien",
+      "bilder": []
+    },
+    {
+      "titel": "Balkonsanierung",
+      "bilder": []
+    },
+    {
+      "titel": "Neubau Hochfeld",
+      "ort": "Duisburg-Hochfeld",
+      "bilder": []
+    },
+    {
+      "titel": "European Building Teil 1",
+      "bilder": []
+    },
+    {
+      "titel": "Carport",
+      "bilder": []
+    },
+    {
+      "titel": "Baubegleitung in Duisburg Baerl",
+      "ort": "Duisburg-Baerl",
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Muhsin Kaya",
+      "rolle": "Architekt & Bausachverständiger",
+      "partner": true,
+      "bio": "Muhsin Kaya absolvierte 1995 eine Ausbildung zum Beton- und Stahlbetonbauer bei der Philipp Holzmann AG und schloss 2001 sein Diplom in der Fachrichtung Architektur und Städtebau an der Universität Siegen ab. Es folgten Stationen bei Rempel Architects in Berkeley, Kalifornien, bei RKW Architektur und Städtebau sowie Enning Architekten in Düsseldorf, bei Kohl Fromme Architekten in Essen und beim Immobilien-Management-Duisburg im Bereich TG-S Sanierung. Seit 2012 ist er zertifizierter Bausachverständiger für die Bewertung von Immobilien und für Schäden an Gebäuden."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 1995,
+      "text": "Ausbildung zum Beton- und Stahlbetonbauer bei der Philipp Holzmann AG"
+    },
+    {
+      "jahr": 2001,
+      "text": "Diplom Fachrichtung Architektur und Städtebau an der Universität Siegen"
+    },
+    {
+      "jahr": 2007,
+      "text": "Rempel Architects, Berkeley, Kalifornien, USA"
+    },
+    {
+      "jahr": 2008,
+      "text": "RKW Architektur und Städtebau, Düsseldorf; Enning Architekten, Düsseldorf"
+    },
+    {
+      "jahr": 2009,
+      "text": "Kohl Fromme Architekten, Essen"
+    },
+    {
+      "jahr": 2010,
+      "text": "Immobilien-Management-Duisburg im Bereich TG-S Sanierung"
+    },
+    {
+      "jahr": 2012,
+      "text": "Zertifizierter Bausachverständiger für die Bewertung von Immobilien und für Schäden an Gebäuden"
+    }
+  ],
+  "demo": {
+    "fuer": "Kaya Architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.kaya-architekten.de/",
+    "seiten": [
+      "http://www.kaya-architekten.de/",
+      "http://www.kaya-architekten.de/impressum/",
+      "https://kaya-architekten.de/profil/",
+      "https://kaya-architekten.de/projekte/",
+      "https://kaya-architekten.de/projects/clauberghalle-duisburg/",
+      "http://www.kaya-architekten.de/projekte",
+      "https://kaya-architekten.de/hauskaufberatung/",
+      "https://kaya-architekten.de/pakete/wohnflaechenberechnung/"
+    ],
+    "erstellt": "2026-10-13T11:48:38.104Z"
+  }
+}
