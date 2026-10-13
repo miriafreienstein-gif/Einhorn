@@ -1,0 +1,90 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "Wollenberg Architekten BDA",
+    "beschreibung": "Architektur & Innenarchitektur",
+    "haltung": "Wir lieben Gebäude mit Geschichte und denken Architektur und Innenarchitektur zusammen – mit klarem Schwerpunkt auf dem Bauen im Bestand: Altbausanierung, Umnutzung und Revitalisierung. Wir sehen Potenzial, wo andere nur Bestand sehen, und gestalten daraus Räume, die tragen.",
+    "intro": "Inhabergeführtes Büro für Architektur und Innenarchitektur in Düsseldorf, gegründet 2018.",
+    "gegruendet": 2018,
+    "email": "mail@annawollenberg.de",
+    "telefon": "+49 211 93366944",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Edith-Fürst-Str. 62",
+          "40219 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Huislijn Nok",
+      "bilder": []
+    },
+    {
+      "titel": "Huislijn Boslijn",
+      "bilder": []
+    },
+    {
+      "titel": "Stadthaus Bilk",
+      "bilder": []
+    },
+    {
+      "titel": "Haus Zoo",
+      "bilder": []
+    },
+    {
+      "titel": "Wohnhaus Flehe",
+      "bilder": []
+    },
+    {
+      "titel": "Historisches Stadthaus in Unterbilk",
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Anna Wollenberg",
+      "rolle": "Architektin und Innenarchitektin, Inhaberin",
+      "partner": true,
+      "bio": "Anna Wollenberg ist Architektin und Innenarchitektin. 2018 gründete sie ihr Büro in Düsseldorf – aus der Überzeugung, dass Bestand nicht verwaltet, sondern weitergedacht werden will. Im selben Jahr wurde sie in den BDA berufen, seit 2026 ist sie zudem Mitglied der Architektinnen Initiative NW (ai nw)."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 2018,
+      "text": "Gründung des Büros in Düsseldorf durch Anna Wollenberg."
+    },
+    {
+      "jahr": 2018,
+      "text": "Berufung von Anna Wollenberg in den BDA."
+    },
+    {
+      "jahr": 2026,
+      "text": "Mitgliedschaft in der Architektinnen Initiative NW (ai nw)."
+    }
+  ],
+  "journal": [
+    {
+      "titel": "Interview mit ZOO:M: Umbauen statt plattmachen",
+      "datum": "2026-09-28",
+      "kategorie": "News",
+      "text": "Interview mit ZOO:M zum Thema „Umbauen statt plattmachen“."
+    }
+  ],
+  "demo": {
+    "fuer": "Wollenberg Architekten BDA",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.wollenberg-architekten.de/",
+    "seiten": [
+      "http://www.wollenberg-architekten.de/",
+      "http://www.wollenberg-architekten.de/impressum"
+    ],
+    "erstellt": "2026-10-13T11:51:49.424Z"
+  }
+}
