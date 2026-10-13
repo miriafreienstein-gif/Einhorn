@@ -1,0 +1,189 @@
+{
+  "firma": {
+    "name": "BM+P Architektur / Generalplanung",
+    "kurz": "BM+P",
+    "ort": "Düsseldorf",
+    "email": "",
+    "telefon": "+49 211 60224800",
+    "adresse": [
+      "Hildebrandtstraße 4/Haus D",
+      "40215 Düsseldorf"
+    ]
+  },
+  "haltung": "Als Architektur- und Generalplanungsbüro übernehmen wir Verantwortung für sämtliche Phasen eines Bauprojekts. Ob Neubau oder Bestand – wir gehen jede Aufgabe gemeinsam mit Ihnen an und geben uns erst zufrieden, wenn Sie es sind.",
+  "projekte": [
+    {
+      "titel": "Kaufhof",
+      "ort": "Wuppertal",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Schulcampus Hammer Straße",
+      "ort": "Hamburg",
+      "typ": "Bildung",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "TWIN CUBES",
+      "ort": "Düsseldorf",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "VBG Torhaus Süd",
+      "ort": "Duisburg",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Grundschule Gerberstraße",
+      "ort": "Solingen",
+      "typ": "Bildung",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Am Höfenweg",
+      "ort": "Köln Merkenich",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Clouth.Tor 2",
+      "ort": "Köln Nippes",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Global Tower",
+      "ort": "Frankfurt",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Campus \"Sternhöhe\"",
+      "ort": "Stuttgart-Möhringen",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "The Oval",
+      "ort": "Düsseldorf",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Float",
+      "ort": "Düsseldorf",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Schulzentrum Vogelsang",
+      "ort": "Solingen",
+      "typ": "Bildung",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Unternehmensgruppe BROSE",
+      "ort": "Bamberg",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Betriebsrestaurant KIT",
+      "ort": "Karlsruhe",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Zentrum des BDGUSS",
+      "ort": "Düsseldorf",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": [
+        "https://www.bmp-architektur.de/media/_1280xAUTO_crop_center-center_none_ns/3059/330_BDGuss_01.webp",
+        "https://www.bmp-architektur.de/media/_1920xAUTO_crop_center-center_none_ns/330_BDGuss_01.jpg"
+      ]
+    },
+    {
+      "titel": "Wohnen im Depot",
+      "ort": "Düsseldorf",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Gebäude A33 Henkel",
+      "ort": "Düsseldorf",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Druckzentrum",
+      "ort": "Rüsselsheim",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Innovationsdreieck",
+      "ort": "Bonn",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": [
+        "https://www.bmp-architektur.de/media/_1280xAUTO_crop_center-center_none_ns/24436/WB_Bonn_05.webp",
+        "https://www.bmp-architektur.de/media/_1920xAUTO_crop_center-center_none_ns/WB_Bonn_05.jpg"
+      ]
+    },
+    {
+      "titel": "Norbertschule",
+      "ort": "Münster",
+      "typ": "Bildung",
+      "text": "",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Innenarchitektur",
+      "text": "Räume, Licht und Materialien aus einer Hand."
+    },
+    {
+      "titel": "Generalplanung",
+      "text": "Alle Planungsleistungen aus einer Hand."
+    }
+  ],
+  "demo": {
+    "fuer": "BM+P Architektur / Generalplanung",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://bmp-architekten.de/",
+    "seiten": [
+      "https://bmp-architekten.de/",
+      "https://bmp-architekten.de/projekte"
+    ],
+    "erstellt": "2026-10-13T11:41:49.998Z",
+    "abgeleitetAus": "demos/architektur/bm-p-architektur-generalplanung-duesseldorf.json"
+  }
+}
