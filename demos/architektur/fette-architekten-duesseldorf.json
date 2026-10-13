@@ -1,0 +1,140 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "fette architekten",
+    "beschreibung": "Architekturbüro – Neubau, Bestand, Schul- und Wohnungsbau",
+    "haltung": "Wir verstehen den Bestand nicht als Einschränkung, sondern als Ressource: als Ausgangspunkt für Lösungen, die den Charakter des Vorhandenen respektieren und zugleich selbstbewusst weiterentwickeln. Jede Aufgabe analysieren wir individuell – im städtebaulichen Kontext und im Dialog mit den Nutzer*innen.",
+    "intro": "fette architekten arbeitet von Düsseldorf aus in unterschiedlichsten Aufgabenfeldern im Neu- und Altbau, seit vielen Jahren schwerpunktmäßig im Schulbau und im Wohnungsbau im Bestand.",
+    "gegruendet": 2012,
+    "email": "fette@fette-architekten.de",
+    "telefon": "+49 211 23046523",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Grafenberger Allee 100, ehem. Kutscherhaus OG",
+          "40237 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Schule Reisholz",
+      "typologie": "Bildung",
+      "fotograf": "Andreas Wiese",
+      "bilder": []
+    },
+    {
+      "titel": "Schule Bleibergquelle",
+      "typologie": "Bildung",
+      "fotograf": "Marcus Schwier",
+      "bilder": []
+    },
+    {
+      "titel": "Imago Olpe",
+      "fotograf": "Gabi Sonnenschein",
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Sophie Fette",
+      "rolle": "BDA Architektin"
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 1984,
+      "text": "1984–1992 Architekturstudium an der RWTH Aachen"
+    },
+    {
+      "jahr": 1989,
+      "text": "Studium an der TU Graz"
+    },
+    {
+      "jahr": 1990,
+      "text": "Arbeitsaufenthalt Australien"
+    },
+    {
+      "jahr": 1992,
+      "text": "Diplom Aachen / Gewinn des Euroregio Preises"
+    },
+    {
+      "jahr": 1993,
+      "text": "1993–1998 Lehrauftrag Schule für Kunst und Theater Alte Post Neuss"
+    },
+    {
+      "jahr": 1997,
+      "text": "Bürogründung Franken-Fette"
+    },
+    {
+      "jahr": 1998,
+      "text": "1998–1999 Lehrauftrag unter Prof. Helena Jiskrova an der RWTH Aachen"
+    },
+    {
+      "jahr": 2000,
+      "text": "2000–2003 Lehrauftrag unter Prof. Mirko Baum, Lehrgebiet Konstruktives Entwerfen"
+    },
+    {
+      "jahr": 2012,
+      "text": "fette architekten"
+    }
+  ],
+  "auszeichnungen": [
+    {
+      "jahr": 1992,
+      "name": "Euregiopreis"
+    },
+    {
+      "jahr": 2003,
+      "name": "Gewinn eines 4-zügigen Gymnasiums in Franken Fette"
+    },
+    {
+      "jahr": 2006,
+      "name": "Jurymitglied am Euregiopreis"
+    },
+    {
+      "jahr": 2010,
+      "name": "Architektur International"
+    },
+    {
+      "jahr": 2018,
+      "name": "Gewinn Gutachterwettbewerb FCS Mensaerweiterung"
+    },
+    {
+      "jahr": 2021,
+      "name": "Gewinn Gutachterwettbewerb Zweizügige Grundschule"
+    },
+    {
+      "jahr": 2023,
+      "name": "Schulbaupreis NRW"
+    },
+    {
+      "jahr": 2024,
+      "name": "Cube Cluster"
+    },
+    {
+      "jahr": 2025,
+      "name": "WIA Festival BDA"
+    },
+    {
+      "jahr": 2025,
+      "name": "35 EAP Veröffentlichung Schunck"
+    }
+  ],
+  "demo": {
+    "fuer": "fette architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.fette-architekten.de/",
+    "seiten": [
+      "http://www.fette-architekten.de/",
+      "https://www.fette-architekten.de/about-fette",
+      "https://www.fette-architekten.de/items"
+    ],
+    "erstellt": "2026-10-13T12:00:22.405Z"
+  }
+}
