@@ -1,0 +1,163 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "Khavari-Lahme Architektur & Raumkonzepte",
+    "beschreibung": "Architektur, Raumkonzepte & Interior Design",
+    "haltung": "Wir erfüllen persönliche und individuelle Bauherrenwünsche mit dem Fokus auf innovatives und nachhaltiges Design und entwerfen unverwechselbare, zeitgenössische Raumkonzepte. Unsere Leitidee „Bau' Dich Glücklich\" begleitet jedes Projekt – von der ersten Idee bis zur Fertigstellung.",
+    "intro": "Architekturbüro in Düsseldorf-Pempelfort für Bauen im Bestand, Neubauprojekte und Interior Design, gegründet 2015.",
+    "gegruendet": 2015,
+    "email": "info@khavari-lahme.de",
+    "telefon": "+49 211 44096065",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Augustastraße 14",
+          "40477 Düsseldorf"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/khavarilahme/"
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "BV ADK – Neubau",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Neubau mit offenem Erdgeschoss: Eingangsbereich mit Schwarzstahltreppe und Patio, Wohn- und Essbereich mit Kamin sowie Küche mit Übergang zur Terrasse.",
+      "kapitel": [
+        {
+          "titel": "Erdgeschoss",
+          "text": "Der Eingangsbereich verbindet Haustür, Garderobe und Patio; die Schwarzstahltreppe und der Patio prägen die Perspektive durch das Geschoss. Ess- und Wohnbereich sind über den Kamin miteinander verbunden, die Küche öffnet sich zur Terrasse."
+        },
+        {
+          "titel": "Ausbau",
+          "text": "Schreinerarbeiten wie die TV-Wand im Wohnzimmer, Detaillösungen im Eingangsbereich sowie Gästebad und Badezimmer im Obergeschoss ergänzen den Entwurf."
+        },
+        {
+          "titel": "Obergeschoss",
+          "text": "Ein Flur erschließt Sportzimmer und Spabereich; der Wellnessbereich ist mit Whirlpool ausgestattet. Die Fassade wirkt bei Nacht über die großformatigen Verglasungen."
+        }
+      ],
+      "bilder": [
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/Haus-Duesseldorf-Sky-Frame-02_web_kl-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_21-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_18-1024x819.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_05-1-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_27-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_28-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_03-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_11-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_16-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/Haus-Duesseldorf-Sky-Frame-06_web_kl-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_08-1-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_30-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_24-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_38-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_41-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2025/04/WEB_KL_2406_39-1024x819.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "BV LS – Altbausanierung",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Sanierung eines Altbaus mit Entree, Bibliothek, Esszimmer, Vorraum, Flurbereichen im Obergeschoss, Ankleide und Schlafzimmer sowie ausgebautem Dachgeschoss.",
+      "bilder": [
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_45-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_42_1-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_43-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_46-1024x768.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_48-1024x683.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_47-1024x768.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_52-1024x768.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_49-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_51-768x1024.jpg",
+        "https://khavari-lahme.de/wp-content/uploads/2024/11/WEB_KL_2406_53-1024x768.jpg"
+      ],
+      "featured": false
+    },
+    {
+      "titel": "BV HRS – Umbau und Renovierung",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Umbau und Renovierung mit Innenausbau und Interior Design: Küche und Essbereich mit Stahltreppe, Diele mit Lofttür, Gäste-WC, Arbeitsbereich mit Glas-Stahl-Schiebetür sowie Treppenaufgang mit Geländer aus Schlosserarbeiten.",
+      "featured": false,
+      "bilder": []
+    },
+    {
+      "titel": "BV OSM – Umbau und Renovierung",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Umbau und Renovierung mit Grundrissplanung, Möblierung und Beleuchtungskonzept: Wohnen, Essen und Kochen, Treppenauge, Einbaumöbel mit TV-Wand und Kamin, Haustür als Lofttür sowie tapeziertes Gäste-WC.",
+      "featured": false,
+      "bilder": []
+    },
+    {
+      "titel": "BV PS – Altbausanierung",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Altbausanierung mit Grundriss- und Entwurfsplanung: Wohnbereiche im Erdgeschoss mit Sichtachsen und fortgeführten Rundbögen, abgestimmte Materialien und Oberflächen sowie neue Fenster und Haustür.",
+      "featured": false,
+      "bilder": []
+    },
+    {
+      "titel": "BV BS – Altbausanierung",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Altbausanierung mit Fassadengestaltung zur Gartenseite und Innenausbau: Wohn-Essbereich mit Kamin und Loft-Glas-Elementen, Eingangsbereich mit Treppenaufgang, Gäste-Bad, Badezimmer mit Sauna und Wellnessdusche sowie Einbauten im Kinderzimmer.",
+      "featured": false,
+      "bilder": []
+    },
+    {
+      "titel": "BV GBA – Altbausanierung",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Altbausanierung mit neuer Haustür und neuen Fenstern in der Frontansicht, Treppenhaus mit Lichtkuppel, Diele, Kamin sowie Wohnzimmer mit Erker.",
+      "featured": false,
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Mahgouneh Khavari-Lahme",
+      "rolle": "Dipl.-Ing. Architektin (TU), Gesellschafterin",
+      "partner": true,
+      "bio": "Gründete 2015 gemeinsam mit Johannes Lahme Khavari-Lahme Architektur & Raumkonzepte. Mitglied der Architektenkammer NRW (101846)."
+    },
+    {
+      "name": "Johannes Lahme",
+      "rolle": "Dipl.-Ing. Architekt (TU), Gesellschafter",
+      "partner": true,
+      "bio": "Gründete 2015 gemeinsam mit Mahgouneh Khavari-Lahme Khavari-Lahme Architektur & Raumkonzepte. Mitglied der Architektenkammer NRW (101876)."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 2015,
+      "text": "Gründung von Khavari-Lahme Architektur & Raumkonzepte durch Mahgouneh Khavari und Johannes Lahme."
+    }
+  ],
+  "demo": {
+    "fuer": "Khavari-Lahme Architektur & Raumkonzepte",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://www.khavari-lahme.de/",
+    "seiten": [
+      "https://www.khavari-lahme.de/",
+      "https://khavari-lahme.de/impressum/",
+      "https://khavari-lahme.de/portfolio/",
+      "https://khavari-lahme.de/leistungen/",
+      "https://khavari-lahme.de/ueber-uns-2/"
+    ],
+    "erstellt": "2026-10-13T12:05:13.081Z"
+  }
+}
