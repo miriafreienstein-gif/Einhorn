@@ -1,0 +1,41 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "Architekturbüro Marcus Schneider",
+    "beschreibung": "Architekturbüro für Neubauten und Sanierungen",
+    "haltung": "Individuelle Planung und persönliche Beratung stehen an erster Stelle: Jedes Bauprojekt wird gemeinsam mit den Bauherren entwickelt und Schritt für Schritt begleitet. Umweltfreundliches und wirtschaftliches Bauen sowie transparente Kostenschätzungen gehören dabei zusammen.",
+    "intro": "Architekturbüro für Neubauten, Wohnhauserweiterungen und Sanierungen in Düsseldorf.",
+    "email": "info@abims24.de",
+    "telefon": "+49 172 273 6091",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Werstener Dorfstraße 53",
+          "40223 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "team": [
+    {
+      "name": "Marcus Schneider",
+      "rolle": "Dipl. Ing. (FH), Inhaber",
+      "partner": true,
+      "bio": "Inhaber des Architekturbüros in Düsseldorf. Er begleitet Bauherren persönlich von der ersten Beratung über die Planung bis zur Umsetzung und arbeitet dafür mit externen Fachleuten wie Statikern und Gutachtern zusammen."
+    }
+  ],
+  "demo": {
+    "fuer": "Architekturbüro Marcus Schneider",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://abims24.de/",
+    "seiten": [
+      "http://abims24.de/",
+      "http://abims24.de/impressum.html"
+    ],
+    "erstellt": "2026-10-13T11:58:10.801Z"
+  }
+}
