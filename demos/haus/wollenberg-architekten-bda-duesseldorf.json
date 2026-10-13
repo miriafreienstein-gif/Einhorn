@@ -1,0 +1,76 @@
+{
+  "firma": {
+    "name": "Wollenberg Architekten BDA",
+    "kurz": "Wollenberg",
+    "ort": "Düsseldorf",
+    "seit": 2018,
+    "email": "mail@annawollenberg.de",
+    "telefon": "+49 211 93366944",
+    "adresse": [
+      "Edith-Fürst-Str. 62",
+      "40219 Düsseldorf"
+    ]
+  },
+  "haltung": "Wir lieben Gebäude mit Geschichte und denken Architektur und Innenarchitektur zusammen – mit klarem Schwerpunkt auf dem Bauen im Bestand: Altbausanierung, Umnutzung und Revitalisierung. Wir sehen Potenzial, wo andere nur Bestand sehen, und gestalten daraus Räume, die tragen.",
+  "projekte": [
+    {
+      "titel": "Huislijn Nok",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Huislijn Boslijn",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Stadthaus Bilk",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Haus Zoo",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Wohnhaus Flehe",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Historisches Stadthaus in Unterbilk",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Innenarchitektur",
+      "text": "Räume, Licht und Materialien aus einer Hand."
+    }
+  ],
+  "demo": {
+    "fuer": "Wollenberg Architekten BDA",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.wollenberg-architekten.de/",
+    "seiten": [
+      "http://www.wollenberg-architekten.de/",
+      "http://www.wollenberg-architekten.de/impressum"
+    ],
+    "erstellt": "2026-10-13T11:51:49.424Z",
+    "abgeleitetAus": "demos/architektur/wollenberg-architekten-bda-duesseldorf.json"
+  }
+}
