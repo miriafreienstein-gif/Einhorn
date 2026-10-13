@@ -1,0 +1,163 @@
+{
+  "firma": {
+    "name": "Kaya Architekten",
+    "kurz": "Kaya",
+    "ort": "Düsseldorf",
+    "seit": 2012,
+    "email": "info@kaya-architekten.de",
+    "telefon": "+49 211 56604058",
+    "adresse": [
+      "Liesegangstraße 13",
+      "40211 Düsseldorf"
+    ]
+  },
+  "haltung": "Wir begleiten Bauherrinnen und Bauherren von der Planung bis zur Endabnahme und beraten in jeder Bauphase. Neben der Planung von Neubau, Umbau und Sanierung prüfen wir als zertifizierte Bausachverständige und Energieberater Gebäude, Werte und Energiekonzepte.",
+  "projekte": [
+    {
+      "titel": "Clauberghalle Duisburg",
+      "ort": "Duisburg",
+      "typ": "Projekt",
+      "text": "Umbau der Clauberghalle zu einem barrierefrei erschlossenen Theatersaal mit Bestuhlung an Tischen und modernisierten, barrierefreien Sanitäranlagen.",
+      "bilder": [
+        "https://kaya-architekten.de/wp-content/uploads/2022/01/Modernisierung-barrierefreier-Bau-Duisburg-Kaya-Architekten.jpg",
+        "https://kaya-architekten.de/wp-content/uploads/2022/01/Sanierung-barrierefreies-Bad-WC-Duisburg-Kaya-Architekten.jpg"
+      ]
+    },
+    {
+      "titel": "Selfbox – Lagerräume",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Bayburt Tatil Evleri",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Dachausbau",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Produktionsstätten in der Dahlingstraße in Duisburg",
+      "ort": "Duisburg",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Material Handling Toyota Duisburg",
+      "ort": "Duisburg",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Sanierung Softwarefirma in Rodenkirchen",
+      "ort": "Rodenkirchen",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Sanierung Realschule Rheinhausen",
+      "ort": "Rheinhausen",
+      "typ": "Bildung",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "KFZ-Freizeitzentrum Wehofen",
+      "ort": "Wehofen",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Fenster einbauen",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Mehrfamilienhaus",
+      "typ": "Wohnen",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Bauten mit verschiedenen Baumaterialien",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Balkonsanierung",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Neubau Hochfeld",
+      "ort": "Duisburg-Hochfeld",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "European Building Teil 1",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Carport",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Baubegleitung in Duisburg Baerl",
+      "ort": "Duisburg-Baerl",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architektur",
+      "text": "Entwurf, Planung und Begleitung Ihres Bauvorhabens."
+    },
+    {
+      "titel": "Bausachverständige",
+      "text": ""
+    },
+    {
+      "titel": "Energieberatung",
+      "text": "Wege zu einem effizienteren Gebäude."
+    }
+  ],
+  "demo": {
+    "fuer": "Kaya Architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.kaya-architekten.de/",
+    "seiten": [
+      "http://www.kaya-architekten.de/",
+      "http://www.kaya-architekten.de/impressum/",
+      "https://kaya-architekten.de/profil/",
+      "https://kaya-architekten.de/projekte/",
+      "https://kaya-architekten.de/projects/clauberghalle-duisburg/",
+      "http://www.kaya-architekten.de/projekte",
+      "https://kaya-architekten.de/hauskaufberatung/",
+      "https://kaya-architekten.de/pakete/wohnflaechenberechnung/"
+    ],
+    "erstellt": "2026-10-13T11:48:38.104Z",
+    "abgeleitetAus": "demos/architektur/kaya-architekten-duesseldorf.json"
+  }
+}
