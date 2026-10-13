@@ -1,0 +1,89 @@
+{
+  "firma": {
+    "name": "a|sh sander.hofrichter architekten GmbH",
+    "kurz": "Hofrichter",
+    "ort": "Düsseldorf",
+    "email": "info@a-sh.de",
+    "telefon": "+49 621 586324400",
+    "adresse": [
+      "Berliner Allee 26",
+      "40212 Düsseldorf"
+    ]
+  },
+  "haltung": "Heilen, lernen, forschen – dafür bauen wir: Architektur, die bei hoher Komplexität den menschlichen Bedürfnissen gerecht wird und sich zugleich der Baukultur verpflichtet fühlt. Soziale, wirtschaftliche und ökologische Aspekte führen wir mit den Besonderheiten des Ortes zusammen.",
+  "projekte": [
+    {
+      "titel": "Realschule Donaueschingen",
+      "ort": "Donaueschingen",
+      "typ": "Bildung",
+      "text": "Auf einem Konversionsgelände der Stadt Donaueschingen entsteht eine Realschule für bis zu 1.000 Schülerinnen und Schüler. Das pädagogische Konzept der Clusterschule sieht für jeden Jahrgang Unterrichts- und Gruppenräume, Lernbereiche und Teamstationen für offenes Arbeiten vor.",
+      "bilder": [
+        "https://www.a-sh.de/fileadmin/_processed_/3/4/csm_Realschule-Donaueschingen-021_118e8b3fd0.jpg?_=1785236086"
+      ]
+    },
+    {
+      "titel": "Technische Hochschule Ostwestfalen-Lippe Lemgo",
+      "ort": "Lemgo",
+      "typ": "Bildung",
+      "text": "Am Innovation Campus Lemgo, dem Hauptsitz der Technischen Hochschule Ostwestfalen-Lippe, entstanden zwei neue Laborgebäude für Forschung, Lehre und studentisches Arbeiten. Die Neubauten ersetzen ein Bestandsgebäude aus den 1970er Jahren.",
+      "bilder": [
+        "https://www.a-sh.de/fileadmin/_processed_/4/1/csm_DJI_20260519142642_0044_D_LEMGO.DNG_79b8585812.jpg?_=1784628581"
+      ]
+    },
+    {
+      "titel": "Katharinenhospital Stuttgart – Zentraler Neubau",
+      "ort": "Stuttgart",
+      "flaeche": 17000,
+      "typ": "Öffentlich",
+      "text": "Mit dem Zentralen Neubau erhält das Katharinenhospital Stuttgart eine neue Mitte: sechs medizinische Zentren unter einem Dach, kurze Wege und ein klar adressierter Haupteingang – vertikal organisiert im engen innerstädtischen Baufeld und bei laufendem Klinikbetrieb.",
+      "bilder": []
+    },
+    {
+      "titel": "cts Sankt Rochus Kliniken Bad Schönborn – Wahlleistungsstation",
+      "ort": "Bad Schönborn",
+      "typ": "Öffentlich",
+      "text": "Eine Gestaltung der Wahlleistungszimmer, die die umgebende Landschaft als Inspirationsquelle nutzt und in ein hochwertiges Innenraumkonzept mit Hotelcharakter übersetzt. Zimmer, Flure und Loungen bilden ein durchgängiges Designkonzept, das Orientierung schafft und eine wohnliche Atmosphäre erzeugt.",
+      "bilder": [
+        "https://www.a-sh.de/fileadmin/_processed_/1/0/csm_250918_as_h_cts_BadSchoenborn_B_01188_v2_12mpx_375ed30620.jpg?_=1784892890"
+      ]
+    },
+    {
+      "titel": "Pfrimmtal Realschule Plus Worms",
+      "ort": "Worms",
+      "typ": "Bildung",
+      "text": "",
+      "bilder": [
+        "https://www.a-sh.de/fileadmin/_processed_/3/9/csm_Pfrimmtal-Realschule-Worms-035_c1b2506a2d.jpg?_=1682002824"
+      ]
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Gesellschaft für Architektur",
+      "text": ""
+    },
+    {
+      "titel": "Generalplanung",
+      "text": "Alle Planungsleistungen aus einer Hand."
+    }
+  ],
+  "demo": {
+    "fuer": "a|sh sander.hofrichter architekten GmbH",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.a-sh.de/",
+    "seiten": [
+      "http://www.a-sh.de/",
+      "http://www.a-sh.de/impressum",
+      "http://www.a-sh.de/projekte",
+      "http://www.a-sh.de/leistungen",
+      "http://www.a-sh.de/projekte/realschule-donaueschingen",
+      "http://www.a-sh.de/projekte/technische-hochschule-ostwestfalen-lippe-lemgo-1",
+      "http://www.a-sh.de/projekte/technische-hochschule-ostwestfalen-lippe-lemgo",
+      "http://www.a-sh.de/projekte/katharinenhospital-stuttgart-zentraler-neubau"
+    ],
+    "erstellt": "2026-10-13T11:47:21.857Z",
+    "abgeleitetAus": "demos/architektur/a-sh-sander-hofrichter-architekten-gmbh-duesseldorf-duesseld.json"
+  }
+}
