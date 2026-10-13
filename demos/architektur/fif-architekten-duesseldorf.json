@@ -1,0 +1,30 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "fIf architekten",
+    "beschreibung": "Architekturbüro",
+    "intro": "Architekturbüro in Düsseldorf.",
+    "telefon": "+49 211 87574919",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Schwarzer Weg 101",
+          "40593 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "demo": {
+    "fuer": "fIf architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://flf-architekten.de/",
+    "seiten": [
+      "http://flf-architekten.de/"
+    ],
+    "erstellt": "2026-10-13T11:45:34.580Z"
+  }
+}
