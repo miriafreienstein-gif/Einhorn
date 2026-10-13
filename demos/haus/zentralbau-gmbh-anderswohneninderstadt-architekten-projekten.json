@@ -1,0 +1,263 @@
+{
+  "firma": {
+    "name": "zentralbau GmbH",
+    "kurz": "Zentralbau",
+    "ort": "Düsseldorf",
+    "email": "info@zentralbau.de",
+    "telefon": "0211 688751-0",
+    "adresse": [
+      "Platanenstraße 27",
+      "40233 Düsseldorf"
+    ]
+  },
+  "haltung": "Wir entwickeln und bauen Wohnraum im Bestand der Stadt – in Gebäuden, die ursprünglich für etwas anderes gedacht waren. Unter dem Leitgedanken „Anders Wohnen in der Stadt“ verbinden wir Architektur und Projektentwicklung in einer Hand.",
+  "projekte": [
+    {
+      "titel": "Villa im Hof",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Polizeiwache",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Autowerkstatt",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Rheinkirche",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Senffabrik",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Mühlenhof",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "2 Prinzen Altbau",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "2 Prinzen Neubau",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Haus für eine Familie",
+      "typ": "Einfamilienhaus",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Kloster",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Schreinerei",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Alter Ballsaal",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Tanne",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Stadthaus",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Lofts in der Ledermanufaktur",
+      "typ": "Wohnen",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Lofthofhaus",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Altes Pfarrhaus",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Denkmal Tannenstrasse",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Fünf zu Eins",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Fritte",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Ferienhaus Borkum",
+      "ort": "Borkum",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Ferienhaus Holland",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Schwalbennest",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Loftbüro",
+      "typ": "Büro",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Denkmal Yorckstrasse",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Stadtvilla",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Haus am Rhein",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Altes Pumpenhaus",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Vierkanthof",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Jahrhundertwendehaus",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Altes Herrenhaus",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Alte Druckerei an der Düssel",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Bilker Bunker Wohnen",
+      "typ": "Wohnen",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Bilker Bunker Kultur",
+      "typ": "Kultur",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Staudenhof, Eifel",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "WG-Haus",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Hof 89",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    },
+    {
+      "titel": "Denkmal Martinstrasse",
+      "typ": "Projekt",
+      "text": "",
+      "bilder": []
+    }
+  ],
+  "leistungen": [
+    {
+      "titel": "Architekten . Projektentwickler . Andersdenker",
+      "text": ""
+    }
+  ],
+  "demo": {
+    "fuer": "zentralbau GmbH",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.anderswohneninderstadt.de/",
+    "seiten": [
+      "http://www.anderswohneninderstadt.de/"
+    ],
+    "erstellt": "2026-10-13T12:02:17.994Z",
+    "abgeleitetAus": "demos/architektur/zentralbau-gmbh-anderswohneninderstadt-architekten-projekten.json"
+  }
+}
