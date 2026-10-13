@@ -1,0 +1,153 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "BM+P Architektur / Generalplanung",
+    "beschreibung": "Architektur, Innenarchitektur und Generalplanung",
+    "haltung": "Als Architektur- und Generalplanungsbüro übernehmen wir Verantwortung für sämtliche Phasen eines Bauprojekts. Ob Neubau oder Bestand – wir gehen jede Aufgabe gemeinsam mit Ihnen an und geben uns erst zufrieden, wenn Sie es sind.",
+    "intro": "BM+P Architektur ist ein Büro für Architektur, Innenarchitektur und Generalplanung mit Sitz in Düsseldorf.",
+    "telefon": "+49 211 60224800",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Hildebrandtstraße 4/Haus D",
+          "40215 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Kaufhof",
+      "ort": "Wuppertal",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Schulcampus Hammer Straße",
+      "ort": "Hamburg",
+      "typologie": "Bildung",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "TWIN CUBES",
+      "ort": "Düsseldorf",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "VBG Torhaus Süd",
+      "ort": "Duisburg",
+      "bilder": []
+    },
+    {
+      "titel": "Grundschule Gerberstraße",
+      "ort": "Solingen",
+      "typologie": "Bildung",
+      "bilder": []
+    },
+    {
+      "titel": "Am Höfenweg",
+      "ort": "Köln Merkenich",
+      "bilder": []
+    },
+    {
+      "titel": "Clouth.Tor 2",
+      "ort": "Köln Nippes",
+      "bilder": []
+    },
+    {
+      "titel": "Global Tower",
+      "ort": "Frankfurt",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Campus \"Sternhöhe\"",
+      "ort": "Stuttgart-Möhringen",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "The Oval",
+      "ort": "Düsseldorf",
+      "bilder": []
+    },
+    {
+      "titel": "Float",
+      "ort": "Düsseldorf",
+      "bilder": []
+    },
+    {
+      "titel": "Schulzentrum Vogelsang",
+      "ort": "Solingen",
+      "typologie": "Bildung",
+      "bilder": []
+    },
+    {
+      "titel": "Unternehmensgruppe BROSE",
+      "ort": "Bamberg",
+      "bilder": []
+    },
+    {
+      "titel": "Betriebsrestaurant KIT",
+      "ort": "Karlsruhe",
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Zentrum des BDGUSS",
+      "ort": "Düsseldorf",
+      "bilder": [
+        "https://www.bmp-architektur.de/media/_1280xAUTO_crop_center-center_none_ns/3059/330_BDGuss_01.webp",
+        "https://www.bmp-architektur.de/media/_1920xAUTO_crop_center-center_none_ns/330_BDGuss_01.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Wohnen im Depot",
+      "ort": "Düsseldorf",
+      "bilder": []
+    },
+    {
+      "titel": "Gebäude A33 Henkel",
+      "ort": "Düsseldorf",
+      "bilder": []
+    },
+    {
+      "titel": "Druckzentrum",
+      "ort": "Rüsselsheim",
+      "bilder": []
+    },
+    {
+      "titel": "Innovationsdreieck",
+      "ort": "Bonn",
+      "status": "Wettbewerb",
+      "bilder": [
+        "https://www.bmp-architektur.de/media/_1280xAUTO_crop_center-center_none_ns/24436/WB_Bonn_05.webp",
+        "https://www.bmp-architektur.de/media/_1920xAUTO_crop_center-center_none_ns/WB_Bonn_05.jpg"
+      ],
+      "featured": true
+    },
+    {
+      "titel": "Norbertschule",
+      "ort": "Münster",
+      "typologie": "Bildung",
+      "bilder": []
+    }
+  ],
+  "demo": {
+    "fuer": "BM+P Architektur / Generalplanung",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "https://bmp-architekten.de/",
+    "seiten": [
+      "https://bmp-architekten.de/",
+      "https://bmp-architekten.de/projekte"
+    ],
+    "erstellt": "2026-10-13T11:41:49.998Z"
+  }
+}
