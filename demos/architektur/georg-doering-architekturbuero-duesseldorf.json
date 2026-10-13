@@ -1,0 +1,459 @@
+{
+  "sprache": "de",
+  "buero": {
+    "name": "Georg Döring Architekten",
+    "beschreibung": "Ein- und Mehrfamilienhäuser + Büro",
+    "haltung": "Unsere Architektur ist so wie wir: einfach, klar, ehrlich – und gleichzeitig überraschend. Nicht der rechte Winkel, sondern der Bauherr ist das Maß aller Dinge.",
+    "intro": "Georg Döring Architekten planen und realisieren seit der Bürogründung 1999 von Düsseldorf aus individuelle Bauwerke – vom Einfamilienhaus über Geschosswohnungs- und Gewerbebau bis zum Umbau im Bestand.",
+    "gegruendet": 1999,
+    "email": "info@doering-architekten.de",
+    "telefon": "+49 211 8369112",
+    "stadt": "Düsseldorf",
+    "standorte": [
+      {
+        "stadt": "Düsseldorf",
+        "adresse": [
+          "Benzenbergstraße 43",
+          "40219 Düsseldorf"
+        ]
+      }
+    ]
+  },
+  "projekte": [
+    {
+      "titel": "Neubau einer Doppelhaushälfte in Düsseldorf-Lörick",
+      "ort": "Düsseldorf-Lörick",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "kurz": "Ein Einfamilienhaus für ein junges Paar im Düsseldorfer Linksrheinischen, das als Neubau an eine bestehende Doppelhaushälfte angebaut wurde.",
+      "kapitel": [
+        {
+          "titel": "Aufgabe",
+          "text": "Nach außen muss sich das Haus den strengen Restriktionen eines überalterten Bebauungsplanes unterwerfen."
+        },
+        {
+          "titel": "Raum",
+          "text": "Im Inneren entsteht ein über drei Geschosse reichendes Raumwunder: Durch eine zentrale Deckenöffnung im Erdgeschoss sind sämtliche Räume optisch und physisch miteinander verbunden. Diese Maßnahme ist das entscheidende Raumelement, das aus einer bescheidenen Ausgangssituation etwas Großes werden lässt."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Neubau eines Einfamilienhauses in Langenfeld",
+      "ort": "Langenfeld",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "kurz": "In einem reinen Einfamilienhausquartier entstand ein Haus für eine dreiköpfige Familie mit Hund.",
+      "kapitel": [
+        {
+          "titel": "Kubatur",
+          "text": "Der durch den Bebauungsplan bedingte quadratische Baukörper zeigt sich an seinen beiden Seiten und zur Straße hin sehr geschlossen und öffnet sich zum Garten."
+        },
+        {
+          "titel": "Innenraum",
+          "text": "Im Inneren sind alle Räume durch ein großzügiges Treppenhaus und eine Dachterrasse miteinander verbunden, belichtet und belüftet."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Neubau eines Mehrfamilienhauses in Düsseldorf-Gerresheim – Villa Pillebach",
+      "ort": "Düsseldorf-Gerresheim",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Für eine Baugruppe wurde ein dreigeschossiges Wohnhaus in einer ruhig gelegenen Seitenstraße des Quellenbusch-Viertels entwickelt.",
+      "kapitel": [
+        {
+          "titel": "Städtebau",
+          "text": "Der kompakte, mäandernde Baukörper bildet mit dem gegenüberliegenden Bestandsgebäude eine Hofsituation aus."
+        },
+        {
+          "titel": "Wohnen",
+          "text": "Die Villa Pillebach besitzt 12 verschieden große Wohneinheiten und einen zum Hof hin orientierten Gemeinschaftsraum mit großer Gartenfläche."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Umbau Kölnisches Stadtmuseum",
+      "ort": "Köln",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2024,
+      "typologie": "Kultur",
+      "status": "realisiert",
+      "flaeche": 3000,
+      "kurz": "Umbau eines bestehenden Wohn- und Geschäftshauses – des ehemaligen Mode-Kaufhauses Franz Sauer – in der Kölner Innenstadt zum Interimsquartier des Kölnischen Stadtmuseums für die nächsten 10 Jahre.",
+      "kapitel": [
+        {
+          "titel": "Nutzung",
+          "text": "Wo früher feines Textil verkauft wurde, eröffnete das Museum 2024 mit seiner umfänglichen Sammlung und allen Fazilitäten auf rund 3.000 m²."
+        }
+      ],
+      "featured": true,
+      "bilder": []
+    },
+    {
+      "titel": "Umbau Benzenbergstraße 44, Düsseldorf",
+      "ort": "Düsseldorf",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Ein fünfgeschossiger Zeilenbau aus den 1970er Jahren wurde energetisch auf KfW-40-Standard gebracht; sämtliche Fassaden einschließlich Dach wurden saniert, um- bzw. neugebaut.",
+      "kapitel": [
+        {
+          "titel": "Bestand",
+          "text": "Besonderer Wert lag auf der Erhaltung der in brutalistischer Manier gehaltenen Sichtbetonvorhangfassade. Der Originalentwurf stammt von dem Architekten Dr. Edmund Spohr aus dem Jahre 1974."
+        },
+        {
+          "titel": "Innenausbau",
+          "text": "Auch im Inneren wurden mehrere Geschosse kernsaniert und mit neuen Grundrissen versehen."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Einfamilienhaus in Düsseldorf-Hubbelrath",
+      "ort": "Düsseldorf-Hubbelrath",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "kurz": "Am Düsseldorfer Stadtrand entstand ein Einfamilienhaus für eine dreiköpfige Familie mit Hund.",
+      "kapitel": [
+        {
+          "titel": "Topografie",
+          "text": "Das Gebäude nimmt die Topografie als Gestaltungsmerkmal auf: Der Hauseingang mit Vorfahrt gräbt sich in den Hang ein, die angedockte Garage verschwindet im Erdreich."
+        },
+        {
+          "titel": "Räume",
+          "text": "Das Wohngeschoss liegt auf dem Niveau des höher gelegenen Gartens und artikuliert einen Winkel, der die Umgebung räumlich einfasst. Die Schlafräume und Bäder mit Außenterrassen liegen darüber und schauen in die Weiten des Bergischen Landes."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Neubau eines Mehrfamilienhauses in Heinsberg",
+      "ort": "Heinsberg",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Wohnen",
+      "status": "im Bau",
+      "kurz": "Unter dem Namen „Neues Wohnen in Oberbruch“ entstehen durch die Sanierung von sieben Bestandsgebäuden und den Neubau von neun KfW-55-Mehrfamilienhäusern rund 140 Wohnungen, darunter ein nahezu fertiggestelltes, modernes Wohnhaus mit 11 Einheiten.",
+      "bilder": []
+    },
+    {
+      "titel": "Wohn- und Geschäftshaus in Aachen",
+      "ort": "Aachen",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Gewerbe",
+      "status": "realisiert",
+      "kurz": "Der Neubau verbindet Ladenflächen, Wohnungen und Büros mit einer markanten, tragenden Sichtbetonfassade, die die Struktur der Architektur der 1950er Jahre aufnimmt.",
+      "bilder": []
+    },
+    {
+      "titel": "Zweifamilienhaus in Düsseldorf-Zoo",
+      "ort": "Düsseldorf",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Ein Zweifamilienhaus auf drei Geschossen mit jeweils eigener Erschließung schließt sich zur stark verkehrsbelasteten Umgebung ab und öffnet sich mit großen Terrassen und Öffnungen zum südlich anschließenden Garten.",
+      "kapitel": [
+        {
+          "titel": "Material",
+          "text": "Das Gebäude erhält eine die strenge Kubatur unterstützende Klinkervorsatzschale und große Schiebefensteranlagen."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Umbau eines Bungalows in Erkrath",
+      "ort": "Erkrath",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "kurz": "Im Herzen von Erkrath wurde ein Bungalow aus den 1970er Jahren komplett kernsaniert.",
+      "kapitel": [
+        {
+          "titel": "Umbau",
+          "text": "Um mehr Luft und Licht in das Gebäude zu lassen, wurde das Dach angehoben und die Gartenfront in Form einer über Eck gehenden Verglasung großzügig geöffnet. Auch der gesamte Grundriss wurde neu gestaltet, um das Haus auf aktuelle Bedürfnisse und Technik zu transformieren."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Mehrfamilienhaus in Düsseldorf-Flingern",
+      "ort": "Düsseldorf-Flingern",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "kurz": "Ein Mehrfamilienhaus mit fünf geschossgroßen Wohnungen bedeutet außerordentlich großzügiges Wohnen im Stadtzentrum von Düsseldorf.",
+      "kapitel": [
+        {
+          "titel": "Technik",
+          "text": "Besonders und nachhaltig ist die Wärmegewinnung durch Geothermie sowie Solarthermie und die wohnungseigene Station für die dezentrale Wärmeverteilung für Heizung und Warmwasser."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Einfamilienhaus in Duisburg II",
+      "ort": "Duisburg",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "kurz": "Ein eingeschossiges Einfamilienhaus mit Staffelgeschoss bietet Raum und Leben für eine dreiköpfige Familie. Das Gebäude integriert eine Doppelgarage mit Technikraum und erhält so eine horizontale, elegante Kubatur, die sich von den gewohnten Staffelgeschosshäusern der Umgebung absetzt.",
+      "bilder": []
+    },
+    {
+      "titel": "Einfamilienhaus Düsseldorf-Stockum",
+      "ort": "Düsseldorf-Stockum",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "kurz": "Die voluminösen Ein- und Ausbuchtungen eines zweigeschossigen Kubus gestalten Hauseingang, Loggia und Freisitz.",
+      "kapitel": [
+        {
+          "titel": "Grundriss",
+          "text": "Ein offenes Erdgeschoss in Form eines Einraumes und ein klassisches Obergeschoss mit Schlaf- und Badezimmern plus kleinem Büro bieten Raum für eine vierköpfige Familie. Das Haus wird monolithisch und mit regenerativer Haustechnik erstellt."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Wohn- und Geschäftshaus in Düsseldorf-Oberkassel",
+      "ort": "Düsseldorf-Oberkassel",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2016,
+      "typologie": "Gewerbe",
+      "status": "realisiert",
+      "flaeche": 4800,
+      "kurz": "12 großzügige Wohnungen, ein Supermarkt und zwei Einzelhändler finden in diesem Neubauensemble ihren Platz.",
+      "kapitel": [
+        {
+          "titel": "Ensemble",
+          "text": "Der mittlere Gebäudeteil ist ein um ein Geschoss aufgestocktes, wiedererrichtetes neoklassizistisches Haus, das von zwei modernen, unterschiedlich artikulierten Gebäudeteilen eingerahmt wird. Dieses Dreigespann ist technisch und funktional ein Gebäude, gleichwohl unterschiedlich in Fassade, Kubatur und Höhe."
+        },
+        {
+          "titel": "Erschließung",
+          "text": "Aufgrund des erdgeschossigen Supermarktes gibt es nur ein Treppenhaus für alle Einheiten."
+        },
+        {
+          "titel": "Kennzahlen",
+          "text": "Nutzfläche 4.800 m², umbauter Raum 19.300 m³, Planung/Bauzeit 2010–2016."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Einfamilienhaus Düsseldorf Ludenberg",
+      "ort": "Düsseldorf-Ludenberg",
+      "region": "Nordrhein-Westfalen",
+      "jahr": 2014,
+      "typologie": "Einfamilienhaus",
+      "status": "realisiert",
+      "flaeche": 351,
+      "kurz": "Zwei rechteckige Volumina, im 90°-Winkel zueinander versetzt, definieren Vorfahrt und Garten bzw. überdachen Hauseingang und Freisitz.",
+      "kapitel": [
+        {
+          "titel": "Kubatur",
+          "text": "Das Gebäude wird aus zwei Kuben zusammengesetzt. Der erdgeschossige Kubus erstreckt sich parallel zur Straße von einer Grundstücksgrenze zur anderen und trennt den Vorfahrtsbereich klar vom Garten. Darüber wird ein zweiter, in Längsrichtung des Grundstücks verlaufender Kubus gelegt, der über seine vordere und hintere Überkragung klar erkennbar wird. So entstehen ein witterungsgeschützter Eingangsbereich und zum Garten hin ein witterungsunabhängiger Freisitz."
+        },
+        {
+          "titel": "Innenraum",
+          "text": "Die innere Gestaltung ist geprägt durch die ausgiebige Verwendung von Sichtbeton für Wände, Decken, Treppen bis hin zu den Waschbecken. Sämtliche Einbaumöbel – Ankleiden, Garderoben, Boards, Schränke, Esstisch, Küchenanordnung – sind vom Architekten geplant. Die Oberflächen im Erdgeschoss sind in Walnuss, im Obergeschoss grau beschichtet bzw. weiß lackiert gehalten."
+        },
+        {
+          "titel": "Kennzahlen",
+          "text": "Nutzfläche 351 m², umbauter Raum 1.462 m³, Planung/Bauzeit 2012–2014."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Mehrfamilienhaus Teheran / Iran",
+      "ort": "Teheran",
+      "region": "Iran",
+      "jahr": 2015,
+      "typologie": "Wohnen",
+      "status": "realisiert",
+      "flaeche": 4730,
+      "kurz": "Im Zentrum der 12-Millionen-Stadt wurden 11 luxuriöse Eigentumswohnungen mit insgesamt 4.700 m² Wohnfläche und allen Einrichtungen eines Grandhotels errichtet.",
+      "kapitel": [
+        {
+          "titel": "Licht",
+          "text": "Das Besondere des Gebäudes ist der über alle sieben Geschosse bis in das Untergeschoss reichende, glasüberdachte Innenhof. Dieser spendet einer Laterne gleich allen innenliegenden Räumen natürliches Licht. Über den Innenhof werden mittels Brücken und einem gläsernen Aufzug alle Appartements erschlossen."
+        },
+        {
+          "titel": "Kennzahlen",
+          "text": "Nutzfläche 4.730 m², umbauter Raum 30.689 m³, Planung/Bauzeit 2004–2015."
+        }
+      ],
+      "bilder": []
+    },
+    {
+      "titel": "Neubau eines Einfamilienhauses in Essen",
+      "ort": "Essen",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "in Planung",
+      "kurz": "Für eine Familie mit Hund entsteht im Essener Süden ein Einfamilienhaus. Die rechtwinklige Kubatur schließt mit ihrem Rücken die Straße im Norden aus und fasst mit ihren Winkelinnenseiten den Garten im Süden ein.",
+      "bilder": [
+        "https://doering-architekten.de/wp-content/uploads/Georg-Doering-EFH_Essen.jpg"
+      ]
+    },
+    {
+      "titel": "Neubau eines Einfamilienhauses in Essen II",
+      "ort": "Essen",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "in Planung",
+      "kurz": "Für eine Großfamilie mit Hund entsteht ein Einfamilienhaus in Essen. Das aus zwei ineinander gesteckten Kubaturen bestehende Haus wird komplett in Holz konstruiert und besticht durch zahlreiche Raumgebilde wie Split Level und Galerie.",
+      "bilder": [
+        "https://doering-architekten.de/wp-content/uploads/Neubau-eines-Einfamilienhauses-in-Essen-II-1.jpg"
+      ]
+    },
+    {
+      "titel": "Neubau eines Einfamilienhauses in Hilden",
+      "ort": "Hilden",
+      "region": "Nordrhein-Westfalen",
+      "typologie": "Einfamilienhaus",
+      "status": "in Planung",
+      "kurz": "Für eine junge Familie mit Hund entsteht ein klassisches, japanisch inspiriertes Hofhaus als Bungalow.",
+      "bilder": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Georg Döring",
+      "rolle": "Architekt, geschäftsführender Gesellschafter",
+      "partner": true,
+      "bio": "Studium an der TU Braunschweig, der ETH Zürich und der TH Darmstadt, Diplom 1992. Studentische Praktika bei HPP Düsseldorf/Frankfurt, Prof. Heinz Mohl, Itten + Brechbühl und Wolfgang Döring (1988/92). Mitarbeit bei Murphy/Jahn in Chicago (1992/93), im Architekturbüro Wolfgang Döring (1993/95) und bei HPP (1995), Juniorpartner im Planungsbüro Kiemle Kreidt in Düsseldorf (1995/99). 1994 Aufnahme in die Architektenkammer NRW, 1999 Gründung des Architekturbüros in Düsseldorf. 2012 Berufung in den BDA Düsseldorf, 2014 Vorstand (Beisitzer), 2015 stellvertretender Vorsitzender, 2017–2024 Vorsitzender des BDA Düsseldorf. 2019–2024 Kuratoriumsmitglied des Hochhausbeirates der Stadt Düsseldorf. 2024 Gründung der Georg Döring Architekten GmbH."
+    },
+    {
+      "name": "Volker Brockmeier",
+      "rolle": "Architekt, geschäftsführender Gesellschafter",
+      "partner": true,
+      "bio": "Studium an der FH Bochum, Gasthörerschaft an der Universität Wuppertal, Diplom 1990. Studentische Praktika in diversen Baufachbetrieben und im Architekturbüro Prof. Gerber in Dortmund. Mitarbeit bei Prof. Gerber in Dortmund (1990/95), bei Prof. Gatermann und Schossig in Köln (1995/98), freiberufliche Tätigkeit (1998/2000), Mitarbeit bei Pesch und Partner in Stuttgart (2000/11), in der Ropertz & Partner Planungsgesellschaft mbH (2011/17), bei PASD Feldmeier Wrede Architekten BDA (2017/21) und seit 2022 bei Georg Döring Architekten BDA in Düsseldorf. 2024 Gründung der Georg Döring Architekten GmbH."
+    }
+  ],
+  "chronik": [
+    {
+      "jahr": 1999,
+      "text": "Gründung des Architekturbüros Georg Döring in Düsseldorf."
+    },
+    {
+      "jahr": 2012,
+      "text": "Berufung von Georg Döring in den BDA Düsseldorf."
+    },
+    {
+      "jahr": 2017,
+      "text": "Georg Döring ist Vorsitzender des BDA Düsseldorf (2017–2024)."
+    },
+    {
+      "jahr": 2024,
+      "text": "Eröffnung des Kölnischen Stadtmuseums im umgebauten ehemaligen Kaufhaus Franz Sauer in der Kölner Innenstadt."
+    },
+    {
+      "jahr": 2024,
+      "text": "Am 16.08.2024 gründen Georg Döring und Volker Brockmeier gemeinsam als geschäftsführende Gesellschafter die Georg Döring Architekten GmbH."
+    }
+  ],
+  "auszeichnungen": [
+    {
+      "jahr": 2026,
+      "name": "Real Estate & Architecture Award, Kategorie Luxury Residential Estates",
+      "projekt": "Doppelhaushälfte in Düsseldorf-Lörick"
+    },
+    {
+      "jahr": 2026,
+      "name": "BIG SEE Award",
+      "projekt": "Villa Pillebach"
+    },
+    {
+      "jahr": 2025,
+      "name": "Real Estate & Architecture Award, Kategorie Luxury Residential Estates",
+      "projekt": "Einfamilienhaus Langenfeld"
+    },
+    {
+      "jahr": 2024,
+      "name": "Häuser des Jahres (Callwey-Verlag)",
+      "projekt": "Einfamilienhaus in Langenfeld"
+    },
+    {
+      "jahr": 2024,
+      "name": "Wohnbauten des Jahres (Callwey-Verlag)",
+      "projekt": "Mehrfamilienhaus für die Baugruppe Villa Pillebach"
+    }
+  ],
+  "journal": [
+    {
+      "titel": "Georg Döring — Meine Wege zur Architektur",
+      "datum": "2026-05-04",
+      "kategorie": "Publication",
+      "text": "180 Seiten, mit Texten von Georg Döring und Ulrich Müller, Architektur Galerie Berlin; gebundene Ausgabe ab 04.05.2026 erhältlich. Anlass des Buches ist das bevorstehende 30-jährige Gründungsjubiläum des Düsseldorfer Architekturbüros. Dem Titel folgend handelt es sich nicht um eine der üblichen Monografien, sondern um eine persönliche und facettenreiche Perspektive. Damit möchte Döring das Buch auch für Nichtfachleute öffnen und sie für die Sache der Architektur und die Relevanz guter Baukultur begeistern."
+    },
+    {
+      "titel": "Neugründung: Georg Döring Architekten GmbH",
+      "datum": "2024-08-16",
+      "kategorie": "News",
+      "text": "Am 16.08.2024 haben Volker Brockmeier und Georg Döring gemeinsam als geschäftsführende Gesellschafter die Georg Döring Architekten GmbH gegründet. Die Gesellschaft übernimmt neben den klassischen Architektenleistungen der HOAI auch die Aufgaben eines Generalplaners und -übernehmers für die Sparten Einfamilienhäuser, Geschosswohnungs-, Gewerbe-, Industrie- und Verwaltungsbau sowie Verkehrsbauten, insbesondere Parkhäuser. Damit lassen sich sämtliche Bauaufgaben schlüsselfertig bzw. komplett betreut anbieten."
+    },
+    {
+      "titel": "CUBE 04/2025: CUBE Drive mit dem Architekten Georg Döring",
+      "kategorie": "Publication",
+      "text": "Im Interview durch die City über Tuchtinsel, westliche Kö und Grabbeplatz."
+    },
+    {
+      "titel": "Umbau Kölnisches Stadtmuseum | DAB 4/25",
+      "kategorie": "Publication",
+      "text": "Der Umbau des ehemaligen Mode-Kaufhauses Franz Sauer zum Interimsquartier des Kölner Stadtmuseums ist im Deutschen Architektenblatt 4/2025 veröffentlicht."
+    },
+    {
+      "titel": "Architura 2/24: Neubau eines Einfamilienhauses in Langenfeld",
+      "kategorie": "Publication",
+      "text": "Der Neubau eines Einfamilienhauses in Langenfeld ist in der Architura 02/24 veröffentlicht."
+    },
+    {
+      "titel": "CUBE 04/2024: Neubau einer Doppelhaushälfte in Düsseldorf-Lörick",
+      "kategorie": "Publication",
+      "text": "Der Neubau einer Doppelhaushälfte in Düsseldorf-Lörick ist in der CUBE 04/24 veröffentlicht."
+    },
+    {
+      "titel": "CUBE 01/2024: Villa Pillebach",
+      "kategorie": "Publication",
+      "text": "Die Villa Pillebach in Gerresheim verbindet individuelles Wohnen mit einer klaren Form. Mehr dazu in der CUBE 01/24."
+    },
+    {
+      "titel": "Georg Döring im Interview: Kölnisches Stadtmuseum",
+      "kategorie": "News",
+      "text": "Ein Interview zum Umbau eines ehemaligen Kaufhauses für die Nutzung durch das stadtgeschichtliche Museum der Stadt Köln."
+    },
+    {
+      "titel": "Mehr Einblicke auf Instagram",
+      "kategorie": "News",
+      "text": "Weitere Einblicke, Bilder und Hintergrundinformationen sind auf dem Instagram-Kanal zu finden. Der Blick hinter die Kulissen wird dort regelmäßig aktualisiert."
+    }
+  ],
+  "demo": {
+    "fuer": "Georg Döring Architekten",
+    "hinweis": "unverbindlicher Entwurf"
+  },
+  "_quelle": {
+    "website": "http://www.doering-architekten.de/",
+    "seiten": [
+      "http://www.doering-architekten.de/",
+      "https://doering-architekten.de/de/impressum/",
+      "http://www.doering-architekten.de/de/impressum",
+      "https://doering-architekten.de/de/projekte/",
+      "https://doering-architekten.de/de/buero/",
+      "https://doering-architekten.de/de/projekt/einfamilienhaus-duesseldorf-ludenberg-ii/",
+      "https://doering-architekten.de/de/projekt/wohn-und-gechaeftshaus-in-duesseldorf-oberkassel/",
+      "https://doering-architekten.de/de/projekt/mehrfamilienhaus-teheran-iran/"
+    ],
+    "erstellt": "2026-10-13T11:40:49.591Z"
+  }
+}
